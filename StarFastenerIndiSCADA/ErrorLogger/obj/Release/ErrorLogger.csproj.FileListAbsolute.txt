@@ -1,0 +1,5 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\ErrorLogger\obj\Release\ErrorLogger.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\ErrorLogger\obj\Release\ErrorLogger.pdb

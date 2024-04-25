@@ -1,0 +1,133 @@
+>> 2021-07-01 13:42:58 CommunicationWithPLC ReadPLCTagValue()SystemInput IsPLCConnected is false 
+>> 2021-07-01 13:42:58 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:58 CommunicationWithPLC ReadPLCTagValue()SystemInput IsPLCConnected is false 
+>> 2021-07-01 13:42:58 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:58 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-01 13:42:58 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:58 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-01 13:42:59 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:59 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-01 13:42:59 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:59 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-01 13:42:59 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:59 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-01 13:42:59 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:59 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-01 13:42:59 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:42:59 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-01 13:42:59 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-01 13:43:00 CommunicationWithPLC PLCDateTimeSynch()                      
+>> 2021-07-01 13:43:07 CommunicationWithPLC DoWork() Started False                
+>> 2021-07-01 13:43:07 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2021-07-01 13:43:07 CommunicationWithPLCNew DoWork() Started True                 
+>> 2021-07-01 13:43:07 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2021-07-01 13:43:18 CommunicationWithPLC ProductionDataLog() Wagon1 Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:18 CommunicationWithPLC ProductionDataLog() Wagon2 Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:18 TrendDataLog RectifierDataLog() Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:18 CommunicationWithPLC ProductionDataLog() Wagon3 Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:18 CommunicationWithPLC ProductionDataLog() Wagon4 Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:18 CommunicationWithPLC ProductionDataLog() Wagon5 Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:18 CommunicationWithPLC ProductionDataLog() Wagon6 Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:18 CommunicationWithPLC ProductionDataLog() Wagon7 Index was outside the bounds of the array. 
+>> 2021-07-01 13:43:19 HomeViewModel DoWork() ChemicalConsumptionSummary() startDate:2021-07-01 07:00:00 EndDate:2021-07-02 07:00:00                      
+>> 2021-07-01 13:43:21 TrendDataLog ChemicalConsumption() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:23 HomeBusinessLogic GetSetCycleTime() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:33 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 HomeBusinessLogic GetActualCycleTime() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 HomeBusinessLogic GetSetCycleTime() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 HomeBusinessLogic GetAlarmTotalCount()                      
+>> 2021-07-01 13:43:34 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 408 
+>> 2021-07-01 13:43:34 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:34 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:35 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:36 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:36 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:36 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:36 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:36 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:37 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:37 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:37 CommunicationWithPLC DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationWithPLC.DivideBy(String[] SourceValue, Int32 devidefactor) in E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\DeviceCommunication\CommunicationWithPLC.cs:line 906 
+>> 2021-07-01 13:43:37 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:37 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:37 CommunicationWithPLC DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationWithPLC.DivideBy(String[] SourceValue, Int32 devidefactor) in E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\DeviceCommunication\CommunicationWithPLC.cs:line 906 
+>> 2021-07-01 13:43:37 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:38 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:38 CommunicationWithPLC DivideBy method                      
+>> 2021-07-01 13:43:38 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:38 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:38 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:38 CommunicationWithPLC DivideBy method                      
+>> 2021-07-01 13:43:38 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:39 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:39 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:39 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:39 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:40 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:44 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:44 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:44 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:45 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:46 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:46 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:46 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:46 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:46 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:46 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:47 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:47 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:47 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:47 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:48 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-01 13:43:49 CommunicationWithPLC DoWork() Started True                 
+>> 2021-07-01 13:43:49 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2021-07-01 13:43:49 CommunicationWithPLCNew DoWork() Started True                 
+>> 2021-07-01 13:43:49 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      

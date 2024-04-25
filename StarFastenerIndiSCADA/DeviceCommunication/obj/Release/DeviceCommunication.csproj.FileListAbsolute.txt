@@ -1,0 +1,2 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\DeviceCommunication\obj\Release\DeviceCommunication.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\DeviceCommunication\obj\Release\DeviceCommunication.csproj.CoreCompileInputs.cache

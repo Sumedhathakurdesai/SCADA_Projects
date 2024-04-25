@@ -1,0 +1,51 @@
+2021-07-09 11:38:46		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-09 11:38:47		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-09 11:42:14		readDeviceRandom() h126.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:15		readDeviceBlock-Read system Device Block Error Tagname =D201	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:16		readDeviceRandom() h0.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:19		readDeviceBlock-Read system Device Block Error Tagname =D221	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:21		readDeviceRandom() h0.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:40		readDeviceBlock-Read system Device Block Error Tagname =D241	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:40		readDeviceRandom() h0.3	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:50		readDeviceBlock-Read system Device Block Error Tagname =D261	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:55		readDeviceRandom() D92	Send Buffer is full, may have lost communication.
+2021-07-09 11:42:56		readDeviceRandom() h0.3	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:56		readDeviceBlock-Read system Device Block Error Tagname =D281	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:42:56		readDeviceBlock-Read system Device Block Error Tagname =D301	Send Buffer is full, may have lost communication.
+2021-07-09 11:42:56		readDeviceBlock-Read system Device Block Error Tagname =D321	Send Buffer is full, may have lost communication.
+2021-07-09 11:42:56		readDeviceRandom() h0.0	Send Buffer is full, may have lost communication.
+2021-07-09 11:42:57		readDeviceBlock-Read system Device Block Error Tagname =D3001	Send Buffer is full, may have lost communication.
+2021-07-09 11:42:57		readDeviceBlock-Read system Device Block Error Tagname =D3181	Send Buffer is full, may have lost communication.
+2021-07-09 11:48:19		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-09 11:48:20		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-09 11:49:10		readDeviceRandom() h0.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:49:10		readDeviceRandom() h126.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:52:06		readDeviceBlock-Read system Device Block Error Tagname =D201	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:52:14		readDeviceRandom() D92	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:52:14		readDeviceRandom() h0.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:52:14		readDeviceBlock-Read system Device Block Error Tagname =D221	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:52:24		readDeviceRandom() h0.3	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:52:24		readDeviceBlock-Read system Device Block Error Tagname =D241	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:54:33		readDeviceRandom() D92	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:54:34		readDeviceRandom() D92	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:36		readDeviceBlock-Read system Device Block Error Tagname =D261	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:54:36		readDeviceBlock-Read system Device Block Error Tagname =D281	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:36		readDeviceBlock-Read system Device Block Error Tagname =D301	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:36		readDeviceBlock-Read system Device Block Error Tagname =D321	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:36		readDeviceBlock-Read system Device Block Error Tagname =D3001	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:36		readDeviceRandom() h0.3	No reponse from PLC. Ensure baud rate is correct.
+2021-07-09 11:54:36		readDeviceBlock-Read system Device Block Error Tagname =D3181	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:37		readDeviceBlock-Read system Device Block Error Tagname =D3121	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:39		readDeviceRandom() h0.0	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2021-07-09 11:54:39		readDeviceBlock-Read system Device Block Error Tagname =D3061	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:39		readDeviceBlock-Read system Device Block Error Tagname =D5041	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2021-07-09 11:54:39		readDeviceBlock-Read system Device Block Error Tagname =D5401	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2021-07-09 11:54:39		readDeviceBlock-Read system Device Block Error Tagname =D5801	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2021-07-09 11:54:39		readDeviceRandom() D6001	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2021-07-09 11:54:39		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2021-07-09 11:54:39		readDeviceBlock-Read system Device Block Error Tagname =D5001	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:39		readDeviceRandom() h0.0	Send Buffer is full, may have lost communication.
+2021-07-09 11:54:40		ReadTagValue()-PLC Communication failed. Retrying to connect	
+2021-07-09 11:54:40		ReadTagValue()-PLC Communication failed. Retrying to connect	
+2021-07-09 11:54:40		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-09 11:54:42		readDeviceRandom() D807	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.

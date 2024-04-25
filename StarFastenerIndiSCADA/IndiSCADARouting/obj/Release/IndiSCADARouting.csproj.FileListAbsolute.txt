@@ -1,0 +1,5 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADARouting\bin\Release\IndiSCADARouting.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADARouting\bin\Release\IndiSCADARouting.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADARouting\obj\Release\IndiSCADARouting.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADARouting\obj\Release\IndiSCADARouting.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADARouting\obj\Release\IndiSCADARouting.pdb

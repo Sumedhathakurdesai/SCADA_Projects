@@ -1,0 +1,6 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADA-ST\obj\Release\IndiSCADA-ST.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADA-ST\obj\Release\MainWindow.g.cs
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADA-ST\obj\Release\View\Test.g.cs
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADA-ST\obj\Release\App.g.cs
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADA-ST\obj\Release\IndiSCADA-ST_MarkupCompile.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADA-ST\obj\Release\IndiSCADA-ST_MarkupCompile.lref

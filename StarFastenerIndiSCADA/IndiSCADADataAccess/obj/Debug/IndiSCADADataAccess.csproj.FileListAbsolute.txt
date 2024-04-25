@@ -1,0 +1,615 @@
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\netstandard.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\Google.Protobuf.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\ZstdSharp.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\BouncyCastle.Cryptography.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Memory.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Security.Permissions.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Text.Json.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Buffers.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\K4os.Compression.LZ4.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\K4os.Hash.xxHash.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Numerics.Vectors.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Text.Encodings.Web.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\Google.Protobuf.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\Google.Protobuf.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\BouncyCastle.Cryptography.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Memory.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Security.Permissions.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Text.Json.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Buffers.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\K4os.Compression.LZ4.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\K4os.Hash.xxHash.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Numerics.Vectors.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\System.Text.Encodings.Web.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADADataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.xml
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.xml
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csprojAssemblyReference.cache
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.xml
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.AssemblyReference.cache
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.xml
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.AssemblyReference.cache
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADADataAccess.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\ErrorLogger.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Debug\MySql.Data.xml
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.AssemblyReference.cache
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.csproj.CopyComplete
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Debug\IndiSCADADataAccess.pdb

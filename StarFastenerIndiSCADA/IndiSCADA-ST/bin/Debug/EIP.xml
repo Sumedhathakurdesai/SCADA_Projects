@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DriverSettings>
+<Tag ID="0">
+	<Name>IPAddress</Name>
+	<Type></Type>
+	<TagType></TagType>
+	<Description>IPAddress</Description>
+	<Starting_Address>192.168.250.1</Starting_Address>
+	<Length>9600</Length>
+	<StartUp></StartUp>
+	<Continuous></Continuous>
+	<Time_Interval></Time_Interval>
+	<Event></Event>
+	<Event_Frequency></Event_Frequency>
+</Tag>
+
+<Tag ID="1">
+	<Name>Wagon1DataLog</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon1DataLog</Description>
+	<Starting_Address>D201</Starting_Address>
+	<Length>12</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="2">
+	<Name>Wagon2DataLog</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon2DataLog</Description>
+	<Starting_Address>D221</Starting_Address>
+	<Length>12</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="3">
+	<Name>Wagon3DataLog</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon3DataLog</Description>
+	<Starting_Address>D241</Starting_Address>
+	<Length>12</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="4">
+	<Name>Wagon4DataLog</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon4DataLog</Description>
+	<Starting_Address>D261</Starting_Address>
+	<Length>12</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="5">
+	<Name>Wagon5DataLog</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon5DataLog</Description>
+	<Starting_Address>D281</Starting_Address>
+	<Length>12</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="6">
+	<Name>Wagon6DataLog</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon6DataLog</Description>
+	<Starting_Address>D301</Starting_Address>
+	<Length>12</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="7">
+	<Name>Wagon7DataLog</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon7DataLog</Description>
+	<Starting_Address>D321</Starting_Address>
+	<Length>12</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+<Tag ID="8">
+	<Name>TempControllerActual</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>TempControllerActual</Description>
+	<Starting_Address>D3001</Starting_Address>
+	<Length>25</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="9">
+	<Name>TempControllerTemperatureHighSetPoint</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>TempControllerTemperatureHighSetPoint</Description>
+	<Starting_Address>D3181</Starting_Address>
+	<Length>25</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="10">
+	<Name>TempControllerTemperatureLowSetPoint</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>TempControllerTemperatureLowSetPoint</Description>
+	<Starting_Address>D3121</Starting_Address>
+	<Length>25</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="11">
+	<Name>TempControllerTemperatureControllerSetPoint</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>TempControllerTemperatureControllerSetPoint</Description>
+	<Starting_Address>D3061</Starting_Address>
+	<Length>25</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="12">
+	<Name>pHMeterpHActual</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>pHMeterpHActual</Description>
+	<Starting_Address>D3901,D3902,D3903,D3904,D3908,D3907,D3906</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="13">
+	<Name>pHMeterpHHighsetPoint</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>pHMeterpHHighsetPoint</Description>
+	<Starting_Address>D3941,D3942,D3943,D3944,D3947,D3946,D3945</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="14">
+	<Name>pHMeterpHLowsetPoint</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>pHMeterpHLowsetPoint</Description>
+	<Starting_Address>D3921,D3922,D3923,D3924,D3927,D3926,D3925</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="15">
+	<Name>RectifierACTUALCurrent</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>RectifierACTUALCurrent</Description>
+	<Starting_Address>D5041</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="16">
+	<Name>RectifierAverageCurrent</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>RectifierAverageCurrent</Description>
+	<Starting_Address>D5401</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="17">
+	<Name>RectifierActualVoltage</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>RectifierActualVoltage</Description>
+	<Starting_Address>D5001</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="18">
+	<Name>RectifierManualCurrent</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>RectifierManualCurrent</Description>
+	<Starting_Address>D5161</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="19">
+	<Name>RectifierAppliedCurrent</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>RectifierAppliedCurrent</Description>
+	<Starting_Address>D5801</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="20">
+	<Name>RectifierCumulativeAmpHr</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>RectifierCumulativeAmpHr</Description>
+	<Starting_Address>D5621,D5622,D5625,D5626,D5629,D5630,D5633,D5634,D5637,D5638,D5641,D5642,D5645,D5646,D5649,D5650,D5653,D5654,D5657,D5658,D5661,D5662,D5665,D5666,D5669,D5670,D5673,D5674,D5677,D5678,D5681,D5682,D5685,D5686,D5689,D5690,D5693,D5694,D5697,D5698,D5701,D5702</Starting_Address>
+	<Length>42</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="20">
+	<Name>RectifierAmpHr</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>RectifierAmpHr</Description>
+	<Starting_Address>D6001,D6002,D6005,D6006,D6009,D6010,D6013,D6014,D6017,D6018,D6021,D6022,D6025,D6026,D6029,D6030,D6033,D6034,D6037,D6038,D6041,D6042,D6045,D6046,D6049,D6050,D6053,D6054,D6057,D6058,D6061,D6062,D6065,D6066,D6069,D6070,D6073,D6074,D6077,D6078,D6081,D6082</Starting_Address>
+	<Length>42</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="21">
+	<Name>RectifierHighSP</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>RectifierHighSP</Description>
+	<Starting_Address>D5121</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="22">
+	<Name>RectifierLowSP</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>RectifierLowSP</Description>
+	<Starting_Address>D5081</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="91">
+	<Name>RectifierCalculatedCurrentOrAutoCurrent</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>RectifierCalculatedCurrentOrAutoCurrent</Description>
+	<Starting_Address>D807,D808,D914,D721,D722,D723,D724,D725,D726,D727,D728,D729,D730,D731,D732,D733,D734,D735,D736,D737,D738</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="153">
+	<Name>RECTIFIERAutoOrManual</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>RECTIFIERAutoOrManual</Description>
+	<Starting_Address>h71.1,h71.2,h71.3,h71.4,h71.5,h71.6,h71.7,h71.8,h71.9,h71.10,h71.11,h71.12,h71.13,h71.14,h71.15,h72.0,h72.1,h72.2,h72.3,h72.4,h72.5</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="154">
+	<Name>RECTIFIERManualONOrOFF</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>RECTIFIERManualONOrOFF</Description>
+	<Starting_Address>h73.1,h73.2,h73.3,h73.4,h73.5,h73.6,h73.7,h73.8,h73.9,h73.10,h73.11,h73.12,h73.13,h73.14,h73.15,h74.0,h74.1,h74.2,h74.3,h74.4,h74.5</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="155">
+	<Name>RECTIFIERAlarmStatus</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>RECTIFIERAlarmStatus</Description>
+	<Starting_Address>h75.1,h75.2,h75.3,h75.4,h75.5,h75.6,h75.7,h75.8,h75.9,h75.10,h75.11,h75.12,h75.13,h75.14,h75.15,h76.0,h76.1,h76.2,h76.3,h76.4,h76.5</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="300">
+	<Name>RECTIFIERResetCumulativeAmpHr</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>RECTIFIERResetCumulativeAmpHr</Description>
+	<Starting_Address>h89.1,h89.2,h89.3,h89.4,h89.5,h89.6,h89.7,h89.8,h89.9,h89.10,h89.11,h89.12,h89.13,h89.14,h89.15,h90.0,h90.1,h90.2,h90.3,h90.4,h90.5</Starting_Address>
+	<Length>21</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="23">
+	<Name>BypassplatingTankBypassPlating</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>BypassplatingTankBypassPlating</Description>
+	<Starting_Address>h65.1,h65.2,h65.3,h65.4,h65.5,h65.6,h65.7,h65.8,h65.9,h65.10,h65.11,h65.12,h65.13,h65.14,h65.15,h66.0,h66.1,h66.2</Starting_Address>
+	<Length>18</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="24">
+	<Name>TrayBypassBypass</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>TrayBypassBypass</Description>
+	<Starting_Address>h60.1,h60.2,h60.3,h60.4,h60.5,h60.6,h60.7</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="25">
+	<Name>OilSkimmerAutoManual</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>OilSkimmerAutoManual</Description>
+	<Starting_Address>h99.6,h99.7,h99.8,h99.9</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="26">
+	<Name>OilSkimmerTrip</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>OilSkimmerTrip</Description>
+	<Starting_Address>h109.6,h109.7,h109.8,h109.9</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="27">
+	<Name>OilSkimmerOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>OilSkimmerOutput</Description>
+	<Starting_Address>h119.6,h119.7,h119.8,h119.9</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="28">
+	<Name>FilterPumpOnOFF</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>FilterPumpOnOFF</Description>
+	<Starting_Address>h98.0,h98.1,h98.2,h98.3,h98.4,h98.5,h98.6,h98.7,h98.8,h98.9,h98.10,h98.11,h98.12,h98.13,h98.14,h98.15,h99.0</Starting_Address>
+	<Length>17</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="29">
+	<Name>FilterPumpInputCBTrip</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>FilterPumpInputCBTrip</Description>
+	<Starting_Address>h108.0,h108.1,h108.2,h108.3,h108.4,h108.5,h108.6,h108.7,h108.8,h108.9,h108.10,h108.11,h108.12,h108.13,h108.14,h108.15,h109.0</Starting_Address>
+	<Length>17</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="30">
+	<Name>FilterPumpOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>FilterPumpOutput</Description>
+	<Starting_Address>h118.0,h118.1,h118.2,h118.3,h118.4,h118.5,h118.6,h118.7,h118.8,h118.9,h118.10,h118.11,h118.12,h118.13,h118.14,h118.15,h119.0</Starting_Address>
+	<Length>17</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="198">
+	<Name>BaseBarrelMotorONOFF</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>BaseBarrelMotorONOFF</Description>
+	<Starting_Address>h81.1,h81.2,h81.3,h81.4,h81.5,h81.6,h81.7,h81.8,h81.9,h81.10,h81.11,h81.12,h81.13,h81.14,h81.15,h82.0,h82.1,h82.2,h82.3,h82.4,h82.5,h82.6,h82.7,h82.8,h82.9,h82.10,h82.11,h82.12,h82.13,h82.14,h82.15,h83.0,h83.1,h83.2,h83.3,h83.4,h83.5,h83.6</Starting_Address>
+	<Length>38</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="199">
+	<Name>BaseBarrelMotorTrip</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>BaseBarrelMotorTrip</Description>
+	<Starting_Address>H101.1,H101.2,H101.3,H101.4,H101.5,H101.6,H101.7,H101.8,H101.9,H101.10,H101.11,H101.12,H101.13,H101.14,H101.15,H102.0,H102.1,H102.2,H102.3,H102.4,H102.5,H102.6,H102.7,H102.8,H102.9,H102.10,H102.11,H102.12,H102.13,H102.14,H102.15,H103.0,H103.1,H103.2,H103.3,H103.4,H103.5,H103.6</Starting_Address>
+	<Length>38</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="199">
+	<Name>BaseBarrelMotorStatus</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>BaseBarrelMotorStatus</Description>
+	<Starting_Address>h91.1,h91.2,h91.3,h91.4,h91.5,h91.6,h91.7,h91.8,h91.9,h91.10,h91.11,h91.12,h91.13,h91.14,h91.15,h92.0,h92.1,h92.2,h92.3,h92.4,h92.5,h92.6,h92.7,h92.8,h92.9,h92.10,h92.11,h92.12,h92.13,h92.14,h92.15,h93.0,h93.1,h93.2,h93.3,h93.4,h93.5,h93.6</Starting_Address>
+	<Length>38</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+
+<Tag ID="27">
+  <Name>NextLoadCurrent1</Name>
+  <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>NextLoadCurrent1</Description>
+    <Starting_Address>D5345</Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="28">
+  <Name>NextLoadCurrent2</Name>
+  <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>NextLoadCurrent2</Description>
+    <Starting_Address>D5349</Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="29">
+  <Name>NextLoadCurrent3</Name>
+  <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>NextLoadCurrent3</Description>
+    <Starting_Address>D5369</Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>  
+<Tag ID="30">
+  <Name>NextLoadCurrent4</Name>
+  <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>NextLoadCurrent4</Description>
+    <Starting_Address>D5369</Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>  
+<Tag ID="31">
+  <Name>Anodic1CD</Name>
+  <Type>Real</Type>
+	<TagType>Random</TagType>
+    <Description>Anodic1CD</Description>
+    <Starting_Address>D5313,D5314</Starting_Address>
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="32">
+  <Name>Anodic2CD</Name>
+  <Type>Real</Type>
+	<TagType>Random</TagType>
+    <Description>Anodic2CD</Description>
+    <Starting_Address>D5317,D5318</Starting_Address>
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="33">
+  <Name>AlkalineZincCD</Name>
+  <Type>Real</Type>
+	<TagType>Random</TagType>
+    <Description>AlkalineZincCD</Description>
+    <Starting_Address>D5333,D5334</Starting_Address>
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>  
+<Tag ID="34">
+  <Name>ZincNickelCD</Name>
+  <Type>Real</Type>
+	<TagType>Random</TagType>
+    <Description>ZincNickelCD</Description>
+    <Starting_Address>D5337,D5338</Starting_Address>
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>     
+<Tag ID="35">
+	<Name>TotalWeight</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>TotalWeight</Description>
+	<Starting_Address>D5341</Starting_Address>
+	<Length>1</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>  
+<Tag ID="35">
+	<Name>ActualWeight</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>ActualWeight</Description>
+	<Starting_Address>D5341,D5344</Starting_Address>
+	<Length>1</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>       
+<Tag ID="36">
+	<Name>WeightPerPart</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>WeightPerPart</Description>
+	<Starting_Address>D5305,D5306</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="37">
+	<Name>TotalArea</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>TotalArea</Description>
+	<Starting_Address>D5309,D5310</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="38">
+	<Name>ProgramNOselection</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>ProgramNOselection</Description>
+	<Starting_Address>D5301</Starting_Address>
+	<Length>1</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+ 
+ 
+<Tag ID="31">
+	<Name>Wagon1AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon1AlarmTime</Description>
+	<Starting_Address>D101,D102,D103,D104,D104,D104,D104,D104</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="32">
+	<Name>Wagon2AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon2AlarmTime</Description>
+	<Starting_Address>D105,D106,D107,D108,D108,D108,D108,D108</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="33">
+	<Name>Wagon3AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon3AlarmTime</Description>
+	<Starting_Address>D109,D110,D111,D112,D112,D112,D112,D112</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="34">
+	<Name>Wagon4AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon4AlarmTime</Description>
+	<Starting_Address>D113,D114,D115,D116,D116,D116,D116,D116</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="35">
+	<Name>Wagon5AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon5AlarmTime</Description>
+	<Starting_Address>D117</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="36">
+	<Name>Wagon6AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon6AlarmTime</Description>
+	<Starting_Address>D121</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="37">
+	<Name>Wagon7AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Wagon7AlarmTime</Description>
+	<Starting_Address>D129</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="38">
+	<Name>Dryer1AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Dryer1AlarmTime</Description>
+	<Starting_Address>D451</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="39">
+	<Name>Dryer2AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Dryer2AlarmTime</Description>
+	<Starting_Address>D453</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="40">
+	<Name>Dryer3AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>Dryer3AlarmTime</Description>
+	<Starting_Address>D455</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="41">
+	<Name>CrossTrolley1AlarmTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>CrossTrolleyAlarmTime</Description>
+	<Starting_Address>D471</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+
+  
+<Tag ID="89">
+	<Name>DosingTimeInSec</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>DosingTimeInSec</Description>
+	<Starting_Address>D3601</Starting_Address>
+	<Length>28</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+ <Tag ID="85">
+	<Name>DosingQuantityInml</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>DosingQuantityInml</Description>
+	<Starting_Address>D4001,D4002,D4005,D4006,D4009,D4010,D4013,D4014,D4017,D4018,D4021,D4022,D4025,D4026,D4029,D4030,D4033,D4034,D4037,D4038,D4041,D4042,D4045,D4046,D4049,D4050,D4053,D4054,D4057,D4058,D4061,D4062,D4065,D4066,D4069,D4070,D4073,D4074,D4077,D4078,D4081,D4082,D4350,D4351,D4354,D4355,D4358,D4359,D4362,D4363,D4366,D4367,D4370,D4371,D4374,D4375</Starting_Address>
+	<Length>56</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="90">
+	<Name>DosingRemainingTimeInSec</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>DosingRemainingTimeInSec</Description>
+	<Starting_Address>D3651</Starting_Address>
+	<Length>28</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="88">
+	<Name>DosingActualAmpHr</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>DosingActualAmpHr</Description>
+	<Starting_Address>D4201,D4202,D4205,D4206,D4209,D4210,D4213,D4214,D4217,D4218,D4221,D4222,D4225,D4226,D4229,D4230,D4233,D4234,D4237,D4238,D4241,D4242,D4245,D4246,D4249,D4250,D4253,D4254,D4257,D4258,D4261,D4262,D4265,D4266,D4269,D4270,D4273,D4274,D4277,D4278,D4281,D4282</Starting_Address>
+	<Length>42</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="87">
+	<Name>DosingCumulativeAmpHr</Name>
+	<Type>DINT</Type>
+	<TagType>Random</TagType>
+	<Description>DosingCumulativeAmpHr</Description> 
+	<Starting_Address>D3701,D3702,D3701,D3702,D3701,D3702,D3701,D3702,D3703,D3704,D3703,D3704,D3703,D3704,D3703,D3704,D3705,D3706,D3705,D3706,D3705,D3706,D3705,D3706</Starting_Address>
+	<Length>24</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="39">
+	<Name>DOSINGAutoOrManual</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>DOSINGAutoOrManual</Description>
+	<Starting_Address>h121.1,h121.2,h121.3,h121.4,h121.5,h121.6,h121.7,h121.8,h121.9,h121.10,h121.11,h121.12,h121.13,h121.14,h121.15,h122.0,h122.1,h122.2,h122.3,h122.4,h122.5,h122.6,h122.7,h122.8,h122.9,h122.10,h122.11,h122.12</Starting_Address> 
+	<Length>28</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="40">
+	<Name>DOSINGManualOffOrOn</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>DOSINGManualOffOrOn</Description>
+	<Starting_Address>h123.1,h123.2,h123.3,h123.4,h123.5,h123.6,h123.7,h123.8,h123.9,h123.10,h123.11,h123.12,h123.13,h123.14,h123.15,h124.0,h124.1,h124.2,h124.3,h124.4,h124.5,h124.6,h124.7,h124.8,h124.9,h124.10,h124.11,h124.12</Starting_Address>
+	<Length>28</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="41">
+	<Name>DOSINGTimerBasedOrFlowrateBased</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>DOSINGTimerBasedOrFlowrateBased</Description>
+	<Starting_Address>h127.1,h127.2,h127.3,h127.4,h127.5,h127.6,h127.7,h127.8,h127.9,h127.10,h127.11,h127.12,h127.13,h127.14,h127.15,h128.0,h128.1,h128.2,h128.3,h128.4,h128.5,h128.6,h128.7,h128.8,h128.9,h128.10,h128.11,h128.12</Starting_Address>
+	<Length>28</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+ <Tag ID="162">
+	<Name>DOSINGOnOrOffStatus</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>DOSINGOnOrOffStatus</Description>
+	<Starting_Address>h125.1,h125.2,h125.3,h125.4,h125.5,h125.6,h125.7,h125.8,h125.9,h125.10,h125.11,h125.12,h125.13,h125.14,h125.15,h126.0,h126.1,h126.2,h126.3,h126.4,h126.5,h126.6,h126.7,h126.8,h126.9,h126.10,h126.11,h126.12</Starting_Address> 
+	<Length>28</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="86">
+	<Name>DosingFlowRatemlperSec</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>DosingFlowRatemlperSec</Description>
+	<Starting_Address>D4201,D4202,D4205,D4206,D4209,D4210,D4213,D4214,D4217,D4218,D4221,D4222,D4225,D4226,D4229,D4230,D4233,D4234,D4237,D4238,D4241,D4242,D4245,D4246,D4249,D4250,D4253,D4254,D4257,D4258,D4261,D4262,D4265,D4266,D4269,D4270,D4273,D4274,D4277,D4278,D4281,D4282,D4285,D4286,D4289,D4290,D4293,D4294,D4297,D4298,D4301,D4302,D4305,D4306,D4309,D4310</Starting_Address>
+	<Length>56</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="87">
+	<Name>DosingSetAmpHr</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>DosingSetAmpHr</Description>
+	<Starting_Address>D4101,D4102,D4101,D4102,D4101,D4102,D4101,D4102,D4105,D4106,D4105,D4106,D4105,D4106,D4105,D4106,D4109,D4110,D4109,D4110,D4109,D4110,D4109,D4110</Starting_Address>
+	<Length>24</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+ 
+<Tag ID="20">
+    <Name>WagaonNextStep</Name>
+    <Type>INT</Type>
+    <TagType>Random</TagType>
+    <Description>WagaonNextStep</Description>
+    <Starting_Address>D171,D172,D173,D174,D175,D176,D177</Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="21">
+  <Name>WagaonNextStation</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>WagaonNextStation</Description>
+    <Starting_Address>D62,D64,D66,D68,D70,D72,D74</Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="22">
+  <Name>WagonMovement</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>WagonMovement</Description>
+    <Starting_Address>D1,D2,D3,D4,D5,D6,D7</Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>Yes</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="23">
+	<Name>CYCLETIMESETCYCLETIME</Name>
+	<Type>INT</Type>
+	<TagType>Random</TagType>
+	<Description>CYCLETIMESETCYCLETIME</Description>
+	 <Starting_Address>D91,D93,D92</Starting_Address>
+	<Length>3</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="24">
+	<Name>LoadNumberatStationArrayLoadNumber</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>LoadNumberatStationArrayLoadNumber</Description>
+	<Starting_Address>D2201</Starting_Address>
+	<Length>69</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="24">
+	<Name>MMDDatStationMMDDatStation</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>MMDDatStationMMDDatStation</Description>
+	<Starting_Address>D2301</Starting_Address>
+	<Length>69</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="26">
+	<Name>YYatStationYYatStation</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>YYatStationYYatStation</Description>
+	<Starting_Address></Starting_Address>
+	<Length>69</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+ <Tag ID="107">
+	<Name>LoadTypeatStationArrayLoadType</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>LoadTypeatStationArrayLoadType</Description>
+	<Starting_Address>D2101</Starting_Address>
+	<Length>69</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="110">
+	<Name>DipTimeForDisplayDipTime</Name>
+	<Type>INT</Type>
+	<TagType>Block</TagType>
+	<Description>DipTimeForDisplayDipTime</Description>
+	<Starting_Address>D2501</Starting_Address>
+	<Length>69</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+ 
+<Tag ID="119">
+	<Name>Wagon1Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon1Input</Description>
+	 <Starting_Address>h1.0,h1.1,h1.2,h1.3,h1.4,h1.5,h1.6,h1.7,h1.8,h1.9,h1.10,h1.11,h1.12,h1.13,h1.14,h1.15,h2.0,h2.4,h63.01,h63.0,h57.01,h57.02,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0</Starting_Address>
+	<Length>34</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="120">
+	<Name>Wagon2Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon2Input</Description>
+	<Starting_Address>h3.0,h3.1,h3.2,h3.3,h3.4,h3.5,h3.6,h3.7,h3.8,h3.9,h3.10,h3.11,h3.12,h3.13,h3.14,h3.15,h4.0,h4.4,h63.03,h63.02,h57.03,h57.04,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0</Starting_Address>
+	<Length>34</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="121">
+	<Name>Wagon3Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon3Input</Description>
+	<Starting_Address>h5.0,h5.1,h5.2,h5.3,h5.4,h5.5,h5.6,h5.7,h5.8,h5.9,h5.10,h5.11,h5.12,h5.13,h5.14,h5.15,h6.0,h6.4,h63.05,h63.04,h57.05,h57.06,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0</Starting_Address>
+	<Length>34</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="122">
+	<Name>Wagon4Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon4Input</Description>
+	<Starting_Address>h7.0,h7.1,h7.2,h7.3,h7.4,h7.5,h7.6,h7.7,h7.8,h7.9,h7.10,h7.11,h7.12,h7.13,h7.14,h7.15,h8.0,h8.4,h63.07,h63.06,h57.07,h57.08,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0,h1.0</Starting_Address>
+	<Length>34</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="123">
+	<Name>Wagon5Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon5Input</Description>
+	<Starting_Address>h9.0,h9.1,h9.2,h9.3,h9.4,h9.5,h9.6,h9.7,h9.8,h9.9,h9.10,h9.11,h9.12,h9.13,h9.14,h9.15,h10.0,h10.12,h63.09,h63.08,h57.09,h57.10,h10.2,h10.1,h10.4,h10.5,h10.6,h10.7,h10.8,h10.9,h10.10,h10.11,h58.01,h58.02</Starting_Address>
+	<Length>34</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="124">
+	<Name>Wagon6Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon6Input</Description>
+	<Starting_Address>h11.0,h11.1,h11.2,h11.3,h11.4,h11.5,h11.6,h11.7,h11.8,h11.9,h11.10,h11.11,h11.12,h11.13,h11.14,h11.15,h12.0,h12.12,h63.11,h63.10,h57.11,h57.12,h12.2,h12.3,h12.4,h12.5,h12.6,h12.7,h12.8,h12.9,h12.10,h12.11,h58.03,h58.04</Starting_Address>
+	<Length>34</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="125">
+	<Name>Wagon7Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon7Input</Description>
+	<Starting_Address>h13.0,h13.1,h13.2,h13.3,h13.4,h13.5,h13.6,h13.7,h13.8,h13.9,h13.10,h13.11,h13.12,h13.13,h13.14,h13.15,h14.0,h14.12,h63.13,h63.12,h57.13,h57.14,h14.2,h14.3,h14.4,h14.5,h14.6,h14.7,h14.8,h14.9,h14.10,h14.11,h58.05,h58.06</Starting_Address>
+	<Length>34</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="147">
+	<Name>Dryer1Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer1Input</Description>
+	<Starting_Address>h41.0,h41.1,h41.2,h41.3,h41.4,h41.5,h41.10,h41.11</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="148">
+	<Name>Dryer2Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer2Input</Description>
+	<Starting_Address>h42.0,h42.1,h42.2,h42.3,h42.4,h42.5,h42.10,h42.11</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="149">
+	<Name>Dryer3Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer3Input</Description>
+	<Starting_Address>h43.0,h43.1,h43.2,h43.3,h43.4,h43.5,h43.10,h43.11</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="149">
+	<Name>Dryer4Input</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer4Input</Description>
+	<Starting_Address>h46.0,h46.1,h46.2,h46.3,h46.4,h46.5,h46.10,h46.10</Starting_Address>
+	<Length>8</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="141">
+	<Name>CrossTrolleyL1toL2Trolley</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>CrossTrolleyL1toL2Trolley</Description>
+	<Starting_Address>h51.0,h51.1,h51.2,h51.3,h51.4,h51.5,h51.8,h51.9,h51.10,h51.11</Starting_Address>
+	<Length>10</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>UnloaderInput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>UnloaderInput</Description>
+	<Starting_Address>h61.0,h61.1,h61.2,h61.3,h61.4,h61.5,h61.6,h61.7,h61.8,h61.9</Starting_Address>
+	<Length>10</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>loaderInput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>loaderInput</Description>
+	<Starting_Address>h49.1,h49.2,h49.3,h49.4,h49.5,h49.6,h49.7,h49.8,h49.9,h49.10,h49.11,h49.12,h49.13,h49.14,h49.15</Starting_Address>
+	<Length>15</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+<Tag ID="166">
+	<Name>SystemInputs</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>SystemInputs</Description>
+	<Starting_Address>h0.0,h0.1,h0.2,h0.3,h0.4,h0.5,h0.6,h0.7,h0.8,h0.9,h0.12,h0.13</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>SystemInput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>SystemInput</Description>
+	<Starting_Address>h0.3,h0.0,h0.1,h0.2,h0.10</Starting_Address>
+	<Length>5</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>SystemOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>SystemOutput</Description>
+	<Starting_Address>h59.14,h59.15,h0.10,h0.11</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="166">
+	<Name>Wagon1Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon1Output</Description>
+	<Starting_Address>H21.0,H21.1,H21.2,H21.3,H21.4,H21.5,H21.6,H21.7,H21.8,H21.9,H21.0,H21.0,H21.0,H21.0,H21.0,H21.0</Starting_Address>
+	<Length>16</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>Wagon2Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon2Output</Description>
+	<Starting_Address>H22.0,H22.1,H22.2,H22.3,H22.4,H22.5,H22.6,H22.7,H22.8,H22.9,H21.0,H21.0,H21.0,H21.0,H21.0,H21.0</Starting_Address>
+	<Length>16</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>Wagon3Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon3Output</Description>
+	<Starting_Address>H23.0,H23.1,H23.2,H23.3,H23.4,H23.5,H23.6,H23.7,H23.8,H23.9,H21.0,H21.0,H21.0,H21.0,H21.0,H21.0</Starting_Address>
+	<Length>16</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>Wagon4Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon4Output</Description>
+	<Starting_Address>H24.0,H24.1,H24.2,H24.3,H24.4,H24.5,H24.6,H24.7,H24.8,H24.9,H21.0,H21.0,H21.0,H21.0,H21.0,H21.0</Starting_Address>
+	<Length>16</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="166">
+	<Name>Wagon5Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon5Output</Description>
+	<Starting_Address>H25.0,H25.1,H25.2,H25.3,H25.4,H25.5,H25.5,H25.7,H25.8,H25.9,h29.10,H29.11,H29.13,H29.14,H29.15,H30.0</Starting_Address>
+	<Length>16</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="166">
+	<Name>Wagon6Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon6Output</Description>
+	<Starting_Address>H31.0,H31.1,H31.2,H31.3,H31.4,H31.5,H31.6,H31.7,H31.8,H31.9,H31.10,H31.11,H31.13,H31.14,H31.15,H32.0</Starting_Address>
+	<Length>16</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+	<Name>Wagon7Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon7Output</Description>
+	<Starting_Address>H33.0,H33.1,H33.2,H33.3,H33.4,H33.5,H33.6,H33.7,H33.8,H33.9,H33.10,H33.11,H33.13,H33.14,H33.15,H34.0</Starting_Address>
+	<Length>16</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>  
+
+<Tag ID="166">
+	<Name>Dryer1Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer1Output</Description>
+	<Starting_Address>h41.6,h41.7,h41.8,h41.9</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="166">
+	<Name>Dryer2Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer2Output</Description>
+	<Starting_Address>h42.6,h42.7,h42.8,h42.9</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="166">
+	<Name>Dryer3Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer3Output</Description>
+	<Starting_Address>h43.6,h43.7,h43.8,h43.9</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="166">
+	<Name>Dryer4Output</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer4Output</Description>
+	<Starting_Address>h46.6,h46.7,h46.9,h46.9</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="166">
+	<Name>CrossTrolleyOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>CrossTrolleyOutput</Description>
+	<Starting_Address>h51.6,h51.7,h51.12,h51.13</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>   
+
+<Tag ID="166">
+	<Name>BarrelMotorOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>BarrelMotorOutput</Description>
+	<Starting_Address>H111.1,H111.2,H111.3,H111.4,H111.5,H111.6,H111.7,H111.8,H111.9,H111.10,H111.11,H111.12,H111.13,H111.14,H111.15,H112.0,H112.1,H112.2,H112.3,H112.4,H112.5,H112.6,H112.7,H112.8,H112.9,H112.10,H112.11,H112.12,H112.13,H112.14,H112.15,H113.0,H113.1,H113.2,H113.3,H113.4,H113.5,H113.6</Starting_Address>
+	<Length>38</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>  
+<Tag ID="166">
+	<Name>UnloaderOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>UnloaderOutput</Description>
+	<Starting_Address>h61.10,h61.11,h61.12,h61.13</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="166">
+	<Name>LoaderOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>LoaderOutput</Description>
+	<Starting_Address>h50.01,h50.02,h50.03,h50.04,h50.05,h50.06,h50.07</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+<Tag ID="166">
+	<Name>LoaderOutput</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>LoaderOutput</Description>
+	<Starting_Address>h50.01,h50.02,h50.03,h50.04,h50.05,h50.06,h50.07</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="176">
+	<Name>WagonAutoMan</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>WagonAutoMan</Description>
+	<Starting_Address>h1.0,h3.0,h5.0,h7.0,h9.0,h11.0,h13.0</Starting_Address>
+	<Length>7</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+ 
+<Tag ID="176">
+	<Name>Wagon1Prereqisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon1Prereqisites</Description>
+	<Starting_Address>h1.0,h1.2,h1.3,h1.11,h1.0,h1.0</Starting_Address>
+	<Length>6</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+ 
+<Tag ID="176">
+	<Name>Wagon2Prereqisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon2Prereqisites</Description>
+	<Starting_Address>h3.0,h3.2,h3.3,h3.4,h1.0,h1.0</Starting_Address>
+	<Length>6</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="176">
+	<Name>Wagon3Prereqisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon3Prereqisites</Description>
+	<Starting_Address>h5.0,h5.2,h5.3,h5.11,h1.0,h1.0</Starting_Address>
+	<Length>6</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="176">
+	<Name>Wagon4Prereqisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon4Prereqisites</Description>
+	<Starting_Address>h7.0,h7.2,h7.3,h7.11,h1.0,h1.0</Starting_Address>
+	<Length>6</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="176">
+	<Name>Wagon5Prereqisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon5Prereqisites</Description>
+	<Starting_Address>h9.0,h9.2,h9.3,h9.11,h10.4,h10.8</Starting_Address>
+	<Length>6</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="176">
+	<Name>Wagon6Prereqisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon6Prereqisites</Description>
+	<Starting_Address>h11.0,h11.2,h11.3,h11.11,h12.4,h12.8</Starting_Address>
+	<Length>6</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="176">
+	<Name>Wagon7Prereqisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Wagon7Prereqisites</Description>
+	<Starting_Address>h13.0,h13.2,h13.3,h13.11,h14.10,h14.8</Starting_Address>
+	<Length>6</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="176">
+	<Name>CT1Prerequisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>CT1Prerequisites</Description>
+	<Starting_Address>h51.0,h51.9,h51.3</Starting_Address>
+	<Length>3</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="176">
+	<Name>UnloaderPrerequisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>UnloaderPrerequisites</Description>
+	<Starting_Address>h61.3,h61.8</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag> 
+
+<Tag ID="176">
+	<Name>Dryer1Prerequisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer1Prerequisites</Description>
+	<Starting_Address>h41.0,h41.5</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="176">
+	<Name>Dryer2Prerequisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer2Prerequisites</Description>
+	<Starting_Address>h42.0,h42.5</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="176">
+	<Name>Dryer3Prerequisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer3Prerequisites</Description>
+	<Starting_Address>h43.0,h43.5</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="176">
+	<Name>Dryer4Prerequisites</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>Dryer4Prerequisites</Description>
+	<Starting_Address>h46.0,h46.5</Starting_Address>
+	<Length>2</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="152">
+  <Name>Wagon1WCSInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>Wagon1WCSInput</Description>
+    <Starting_Address>d1001,d1002,d1003,d1004,d1005,d1006,d1007,d1008,d1009,d1010,d1011,d1012,d1013,d1014,d1015,d1016,d1017,d1018</Starting_Address>
+    <Length>18</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="153">
+  <Name>Wagon2WCSInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>Wagon2WCSInput</Description>
+    <Starting_Address>d1019,d1020,d1021,d1022,d1023,d1024,d1025,d1026,d1027,d1028,d1029,d1030,d1031,d1032,d1033,d1034,d1035,d1036</Starting_Address>
+    <Length>18</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="154">
+  <Name>Wagon3WCSInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>Wagon3WCSInput</Description>
+    <Starting_Address>d1037,d1038,d1039,d1040,d1041,d1042,d1043,d1044,d1045,d1046,d1047,d1048,d1049,d1050,d1051,d1052,d1053,d1054,d1055,d1056,d1057,d1058</Starting_Address>
+    <Length>22</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="155">
+  <Name>Wagon4WCSInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>Wagon4WCSInput</Description>
+    <Starting_Address>d1059,d1060,d1061,d1062,d1063,d1064,d1065,d1066,d1067,d1068,d1069,d1070,d1071,d1072,d1073,d1074,d1075,d1076,d1077,d1078,d1079,d1080,d1081,d1082,d1083,d1084,d1085,d1086,d1087,d1088,d1089,d1090,d1091,d1092,d1093,d1094,d1095,d1096,d1097,d1098</Starting_Address>
+    <Length>40</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="156">
+  <Name>Wagon5WCSInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>Wagon5WCSInput</Description>
+    <Starting_Address>d1099,d1100,d1101,d1102,d1103,d1104,d1105,d1106,d1107,d1108,d1109,d1110,d1111,d1112,d1113,d1114,d1115,d1116</Starting_Address>
+    <Length>18</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="157">
+  <Name>Wagon6WCSInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>Wagon6WCSInput</Description>
+    <Starting_Address>d1117,d1118,d1119,d1120,d1121,d1122,d1123,d1124,d1125,d1126,d1127,d1128,d1129,d1130,d1131,d1132,d1133,d1134,d1135,d1136,d1137,d1138</Starting_Address>
+    <Length>22</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="200">
+  <Name>Wagon7WCSInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>Wagon7WCSInput</Description>
+    <Starting_Address>d1137,d1138</Starting_Address>
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="159">
+  <Name>WagonSensorWidthInput</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>WagonSensorWidthInput</Description>
+    <Starting_Address></Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+
+<Tag ID="160">
+  <Name>NetworkDesignWCS</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>NetworkDesignWCS</Description>
+    <Starting_Address></Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+
+<Tag ID="161">
+  <Name>NetworkDesignTemp</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>NetworkDesignTemp</Description>
+    <Starting_Address></Starting_Address>
+    <Length>25</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+
+<Tag ID="162">
+  <Name>NetworkDesignRect</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>NetworkDesignRect</Description>
+    <Starting_Address></Starting_Address>
+    <Length>13</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+
+<Tag ID="163">
+  <Name>NetworkDesignpH</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>NetworkDesignpH</Description>
+    <Starting_Address></Starting_Address>
+    <Length>4</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="164">
+  <Name>NetworkDesignMainPLC</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>NetworkDesignMainPLC</Description>
+    <Starting_Address></Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+
+<Tag ID="164">
+  <Name>Enter</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>Enter</Description>
+    <Starting_Address></Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="164">
+  <Name>StationToBeEdit</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>StationToBeEdit</Description>
+    <Starting_Address></Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="164">
+  <Name>LoadtypeEdit</Name>
+    <Type>INT</Type>
+	<TagType>Block</TagType>
+    <Description>LoadtypeEdit</Description>
+    <Starting_Address>D2101</Starting_Address>
+    <Length>69</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+
+<Tag ID="164">
+  <Name>LoadEntryEditCurrent1</Name>
+    <Type>INT</Type>
+	<TagType>Block</TagType>
+    <Description>LoadEntryEditCurrent1</Description>
+    <Starting_Address>D7501</Starting_Address>
+    <Length>69</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="164">
+  <Name>LoadEntryEditCurrent2</Name>
+    <Type>INT</Type>
+	<TagType>Block</TagType>
+    <Description>LoadEntryEditCurrent2</Description>
+    <Starting_Address>D7601</Starting_Address>
+    <Length>69</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="164">
+  <Name>LoadEntryEditCurrent3</Name>
+    <Type>INT</Type>
+	<TagType>Block</TagType>
+    <Description>LoadEntryEditCurrent3</Description>
+    <Starting_Address>D7701</Starting_Address>
+    <Length>69</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="206">
+  <Name>StationSelection</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>StationSelection</Description>
+    <Starting_Address>D15,D15</Starting_Address>
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+
+<Tag ID="207">
+	<Name>StationSelectionEnter</Name>
+	<Type>BOOL</Type>
+	<TagType>Random</TagType>
+	<Description>StationSelectionEnter</Description>
+	<Starting_Address>h0.8</Starting_Address>
+	<Length>1</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="197">
+    <Name>Cycleinprocess</Name>
+    <Type>BOOL</Type>
+    <TagType>Random</TagType>
+    <Description>Cycleinprocess</Description>
+    <Starting_Address>h0.0</Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="198">
+    <Name>DryerBypass</Name>
+    <Type>BOOL</Type>
+    <TagType>Random</TagType>
+    <Description>DryerBypass</Description>
+    <Starting_Address>h67.5,h67.6,h67.7</Starting_Address>
+    <Length>3</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="199">
+    <Name>NitricTankSelection</Name>
+    <Type>BOOL</Type>
+    <TagType>Random</TagType>
+    <Description>NitricTankSelection</Description>
+    <Starting_Address>h67.12</Starting_Address>
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="199">
+    <Name>WagonTopDrip</Name>
+    <Type>INT</Type>
+    <TagType>Block</TagType>
+    <Description>WagonTopDrip</Description>
+    <Starting_Address>D5521</Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="199">
+    <Name>StationTopDrip</Name>
+    <Type>INT</Type>
+    <TagType>Block</TagType>
+    <Description>StationTopDrip</Description>
+    <Starting_Address>D6501</Starting_Address>
+    <Length>20</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>   
+<Tag ID="199">
+    <Name>DosingSetPH</Name>
+    <Type>int</Type>
+    <TagType>Random</TagType>
+    <Description>DosingSetPH</Description>
+    <Starting_Address>D3961,D3963,D3965,D3967,D3969,D3971,D3973</Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="200">
+    <Name>DosingActPH</Name>
+    <Type>int</Type>
+    <TagType>Random</TagType>
+    <Description>DosingActPH</Description>
+    <Starting_Address>D3901,D3902,D3903,D3904,D3908,D3907,D3906</Starting_Address>
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="199">
+    <Name>NextLoadSetTotalWeight</Name>
+    <Type>Real</Type>
+    <TagType>Random</TagType>
+    <Description>NextLoadSetTotalWeight</Description>
+    <Starting_Address>D5305,D5306</Starting_Address>
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="387">
+	<Name>NextLoadActualTotalWeight</Name>
+	<Type>Real</Type>
+	<TagType>Random</TagType>
+	<Description>NextLoadActualTotalWeight</Description>
+	<Starting_Address>D5373,D5374,D5373,D5374</Starting_Address>
+	<Length>4</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+<Tag ID="160">
+  <Name>DateTimeSynch</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>DateTimeSynch</Description>
+    <Starting_Address></Starting_Address>    
+    <Length>7</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="161">
+  <Name>DateTimeCorrection</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>DateTimeCorrection</Description>
+    <Starting_Address></Starting_Address>    
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>  
+
+
+<Tag ID="162">
+  <Name>ShiftHHMMOld</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ShiftHHMMOld</Description>
+    <Starting_Address>D7001,D7003,D7002,D7004,D7006,D7008,D7007,D7009</Starting_Address>    
+    <Length>8</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="163">
+  <Name>LiveShiftWiseDownTime</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>LiveShiftWiseDownTime</Description>
+    <Starting_Address>D7021,D7022,D7023,D7024,D7025</Starting_Address>    
+    <Length>5</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="164">
+  <Name>PreviousShiftWiseDownTime</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>PreviousShiftWiseDownTime</Description>
+    <Starting_Address>D7031,D7032,D7033,D7034,D7035</Starting_Address>    
+    <Length>5</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="165">
+  <Name>EnterDownTime</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>EnterDownTime</Description>
+    <Starting_Address>h130.14</Starting_Address>    
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="166">
+  <Name>WriteTotalShift</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>WriteTotalShift</Description>
+    <Starting_Address>D7016</Starting_Address>    
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+
+
+
+
+<Tag ID="167">
+  <Name>ActualConductivity</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ActualConductivity</Description>
+    <Starting_Address>D3909</Starting_Address>    
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="168">
+  <Name>LivePokaYokeZincPlatingLine_old</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>LivePokaYokeZincPlatingLine</Description>
+    <Starting_Address>h119.8,h119.9,h120.10,h118.5,h118.6,h118.7,h118.8,h118.12,h118.14,h118.15,h119.0,h125.1,h125.2,h125.3,h125.4,h125.5,h125.6,h125.7,h125.8,h125.9,h125.10,h125.11,h125.12,h125.13,h126.1,h126.2,h126.3,h126.4,h126.5,h126.6,h126.7,h126.8,h126.9,h201.1,h201.2,h201.3,h201.4,h201.5,h201.6,h201.7,h201.8,h201.9,h201.10,h201.11,h201.12,h201.13,h201.14,h201.15,h202.0,h202.1,h202.2,h202.3,h202.4,h202.5</Starting_Address>    
+    <Length>54</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="168">
+  <Name>LivePokaYokeZincPlatingLine</Name>
+    <Type>BOOL</Type>
+	<TagType>Random</TagType>
+    <Description>LivePokaYokeZincPlatingLine</Description>
+    <Starting_Address>h119.8,h119.9,h120.10,h118.5,h118.6,h118.7,h118.8,h118.12,h118.14,h118.15,h119.0,h125.1,h125.2,h125.3,h125.4,h125.5,h125.6,h125.7,h125.8,h125.9,h125.10,h125.11,h125.12,h125.13,h126.1,h126.2,h126.3,h126.4,h126.5,h126.6,h126.7,h126.8,h126.9,h201.1,h201.2,h201.3,h201.4,h201.5,h201.6,h201.7,h201.8,h201.9,h201.10,h201.11,h201.12,h201.13,h201.14,h201.15,h202.0,h202.1,h202.2,h202.3,h202.4,h202.5</Starting_Address>    
+    <Length>54</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="169">
+  <Name>ProgramSelction</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ProgramSelction</Description>
+    <Starting_Address>D14,D16</Starting_Address>    
+    <Length>2</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="170">
+	<Name>TempHighAlarm</Name>
+	<Type>BOOL</Type>
+	<TagType>Block</TagType>
+	<Description>TempHighAlarm</Description>
+	<Starting_Address>h153.1</Starting_Address>
+	<Length>25</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="171">
+	<Name>TempLowAlarm</Name>
+	<Type>BOOL</Type>
+	<TagType>Block</TagType>
+	<Description>TempLowAlarm</Description>
+	<Starting_Address>h151.1</Starting_Address>
+	<Length>25</Length>
+	<StartUp>No</StartUp>
+	<Continuous>No</Continuous>
+	<Time_Interval>No</Time_Interval>
+	<Event>No</Event>
+	<Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="172">
+  <Name>ConductivityValue</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ConductivityValue</Description>
+    <Starting_Address>D3909,D3957,D3956</Starting_Address>    
+    <Length>3</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+<Tag ID="173">
+  <Name>ConductivityHighSP</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ConductivityHighSP</Description>
+    <Starting_Address>D3957</Starting_Address>    
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="174">
+  <Name>ConductivityLowSP</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ConductivityLowSP</Description>
+    <Starting_Address>D3956</Starting_Address>    
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag> 
+<Tag ID="175">
+  <Name>ConductivityAct</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ConductivityAct</Description>
+    <Starting_Address>D3909</Starting_Address>    
+    <Length>1</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>  
+
+
+<Tag ID="175">
+  <Name>ShiftHHMM</Name>
+    <Type>INT</Type>
+	<TagType>Random</TagType>
+    <Description>ShiftHHMM</Description>
+    <Starting_Address>D7001,D7002,D7003,D7004,D7006,D7007,D7008,D7009,D7011,D7012,D7013,D7014</Starting_Address>    
+    <Length>12</Length>
+    <StartUp>No</StartUp>
+    <Continuous>No</Continuous>
+    <Time_Interval>No</Time_Interval>
+    <Event>No</Event>
+    <Event_Frequency>None</Event_Frequency>
+</Tag>
+</DriverSettings>

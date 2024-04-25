@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccessLevel" xml:space="preserve">
+    <value>प्रवेश पातळी</value>
+  </data>
+  <data name="AddNewUser" xml:space="preserve">
+    <value>नवीन वापरकर्ता जोडा</value>
+  </data>
+  <data name="AddNewUserTitle" xml:space="preserve">
+    <value>नवीन वापरकर्ता जोडा</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>पत्ता</value>
+  </data>
+  <data name="DeleteUser" xml:space="preserve">
+    <value>वापरकर्ता हटवा</value>
+  </data>
+  <data name="EditUser" xml:space="preserve">
+    <value>वापरकर्ता संपादित करा</value>
+  </data>
+  <data name="EmailID" xml:space="preserve">
+    <value>ई - मेल आयडी</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>लॉगिन</value>
+  </data>
+  <data name="LoginBTN" xml:space="preserve">
+    <value>लॉग इन करा</value>
+  </data>
+  <data name="MobileNo" xml:space="preserve">
+    <value>दूरध्वनी क्रमांक</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>संकेतशब्द</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>रीसेट करा</value>
+  </data>
+  <data name="TitleLogin" xml:space="preserve">
+    <value>लॉगिन</value>
+  </data>
+  <data name="UserID" xml:space="preserve">
+    <value>वापरकर्ता क्रमांक</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>वापरकर्ता नाव</value>
+  </data>
+  <data name="UserPassword" xml:space="preserve">
+    <value>वापरकर्ता पासवर्ड</value>
+  </data>
+  <data name="UserRole" xml:space="preserve">
+    <value>वापरकर्ता भूमिका</value>
+  </data>
+  <data name="AlarmAndEvent" xml:space="preserve">
+    <value>अलार्म आणि इवेंट</value>
+  </data>
+  <data name="AlarmCount" xml:space="preserve">
+    <value>अलार्म गणना</value>
+  </data>
+  <data name="AlarmSummary" xml:space="preserve">
+    <value>    अलार्म सारांश: </value>
+  </data>
+  <data name="AlarmTime" xml:space="preserve">
+    <value>अलार्म समय</value>
+  </data>
+  <data name="Avg" xml:space="preserve">
+    <value>सरासरी: </value>
+  </data>
+  <data name="ChemicalConsumptionSummary" xml:space="preserve">
+    <value>   रासायनिक वापराचा सारांश: </value>
+  </data>
+  <data name="ChemicalName" xml:space="preserve">
+    <value>रासायनिक चे नाव</value>
+  </data>
+  <data name="closeIndiSCADAWarning" xml:space="preserve">
+    <value>आपली खात्री आहे की आपण इंडिस्काडा बंद करू इच्छिता?</value>
+  </data>
+  <data name="CommunicationStatus" xml:space="preserve">
+    <value>    संप्रेषण स्थिती </value>
+  </data>
+  <data name="Configuration" xml:space="preserve">
+    <value>कॉन्फिगरेशन</value>
+  </data>
+  <data name="ConsumptionQuantity" xml:space="preserve">
+    <value>वापर प्रमाण</value>
+  </data>
+  <data name="Current" xml:space="preserve">
+    <value>     धारा:  </value>
+  </data>
+  <data name="CurrentUser" xml:space="preserve">
+    <value>प्रयोगकर्ता</value>
+  </data>
+  <data name="CycleTime" xml:space="preserve">
+    <value>वेळ चक्र</value>
+  </data>
+  <data name="IndiSCADAClosing" xml:space="preserve">
+    <value>इंडिस्कॅडा बंद..</value>
+  </data>
+  <data name="IOStatus" xml:space="preserve">
+    <value>इनपुट/आउटपुट स्थिति</value>
+  </data>
+  <data name="Last" xml:space="preserve">
+    <value>     शेवटचे: </value>
+  </data>
+  <data name="LoadCount" xml:space="preserve">
+    <value>लोड गणना</value>
+  </data>
+  <data name="NextLoad" xml:space="preserve">
+    <value>पुढचा लोड</value>
+  </data>
+  <data name="Overview" xml:space="preserve">
+    <value>आढावा</value>
+  </data>
+  <data name="PartCount" xml:space="preserve">
+    <value>भाग गणना</value>
+  </data>
+  <data name="PartMaster" xml:space="preserve">
+    <value>भाग मास्टर</value>
+  </data>
+  <data name="PartName" xml:space="preserve">
+    <value>भागाचे नाव</value>
+  </data>
+  <data name="PartQty" xml:space="preserve">
+    <value>भाग प्रमाण</value>
+  </data>
+  <data name="PlantStatus" xml:space="preserve">
+    <value>मिल स्थिति</value>
+  </data>
+  <data name="ProductionDataSummary" xml:space="preserve">
+    <value>    उत्पादन डेटा सारांश: </value>
+  </data>
+  <data name="RectifierCurrentConsumptionSummary" xml:space="preserve">
+    <value>   धारा वापर सारांश: </value>
+  </data>
+  <data name="RectifierStationName" xml:space="preserve">
+    <value>सुधारक स्टेशनचे नाव</value>
+  </data>
+  <data name="RectifierTotalcurrent" xml:space="preserve">
+    <value>दिष्टकारी कुल धारा</value>
+  </data>
+  <data name="Reports" xml:space="preserve">
+    <value>अहवाल</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>सेटिंग्ज</value>
+  </data>
+  <data name="TankDetails" xml:space="preserve">
+    <value>टँक तपशील</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>एकूण: </value>
+  </data>
+  <data name="Trends" xml:space="preserve">
+    <value>ट्रेंड्स</value>
+  </data>
+  <data name="UserMaster" xml:space="preserve">
+    <value>वापरकर्ता मास्टर</value>
+  </data>
+  <data name="WagonStatus" xml:space="preserve">
+    <value>वैगन स्थिति</value>
+  </data>
+  <data name="BarrelMotor" xml:space="preserve">
+    <value>बॅरेल मोटर</value>
+  </data>
+  <data name="BarrelMotorStatus" xml:space="preserve">
+    <value>बॅरेल मोटर स्थिती</value>
+  </data>
+  <data name="CrossTrolley1" xml:space="preserve">
+    <value>क्रॉस ट्रॉली 1</value>
+  </data>
+  <data name="CrossTrolleyInputs" xml:space="preserve">
+    <value>क्रॉस ट्रॉली इनपुट्स</value>
+  </data>
+  <data name="CrossTrolleyOutPut" xml:space="preserve">
+    <value>क्रॉस ट्रॉली आउटपुट</value>
+  </data>
+  <data name="CurrentPV" xml:space="preserve">
+    <value>करंट पीव्ही</value>
+  </data>
+  <data name="Dehydrator" xml:space="preserve">
+    <value>डिहायड्रेटर</value>
+  </data>
+  <data name="Dryer1" xml:space="preserve">
+    <value>ड्रायर 1</value>
+  </data>
+  <data name="Dryer2" xml:space="preserve">
+    <value>ड्रायर 2</value>
+  </data>
+  <data name="Dryer3" xml:space="preserve">
+    <value>ड्रायर 3</value>
+  </data>
+  <data name="DryerCrossTrolley" xml:space="preserve">
+    <value>ड्रायर / क्रॉस ट्रॉली</value>
+  </data>
+  <data name="DryerInput" xml:space="preserve">
+    <value>ड्रायर इनपुट</value>
+  </data>
+  <data name="DryerOutput" xml:space="preserve">
+    <value>ड्रायर आउटपुट</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>कालावधी</value>
+  </data>
+  <data name="HighSetPoint" xml:space="preserve">
+    <value>उच्च सेट पॉइंट</value>
+  </data>
+  <data name="LoaderInput" xml:space="preserve">
+    <value>लोडर इनपुट</value>
+  </data>
+  <data name="LoaderOutPut" xml:space="preserve">
+    <value>लोडर आउटपुट</value>
+  </data>
+  <data name="LoadNo" xml:space="preserve">
+    <value>लोड क्रमांक</value>
+  </data>
+  <data name="LoadType" xml:space="preserve">
+    <value>लोड प्रकार</value>
+  </data>
+  <data name="LowSetPoint" xml:space="preserve">
+    <value>कमी सेट पॉइंट</value>
+  </data>
+  <data name="ManualAuto" xml:space="preserve">
+    <value>मॅन्युअल / ऑटो</value>
+  </data>
+  <data name="ManualOnOff" xml:space="preserve">
+    <value>मॅन्युअल / चालू / बंद</value>
+  </data>
+  <data name="pHPV" xml:space="preserve">
+    <value>पीएच पीव्ही</value>
+  </data>
+  <data name="Rectifier" xml:space="preserve">
+    <value>रेक्टिफायर</value>
+  </data>
+  <data name="RectifierName" xml:space="preserve">
+    <value>रेक्टिफायर चे नाव</value>
+  </data>
+  <data name="StationName" xml:space="preserve">
+    <value>स्थानकाचे नाव</value>
+  </data>
+  <data name="StationNo" xml:space="preserve">
+    <value>स्टेशन क्र</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>स्थिती</value>
+  </data>
+  <data name="SystemInputs" xml:space="preserve">
+    <value>सिस्टम इनपुट्स</value>
+  </data>
+  <data name="SystemOutPuts" xml:space="preserve">
+    <value>सिस्टम आउटपुट</value>
+  </data>
+  <data name="SystemUnloaderLoaderStatus" xml:space="preserve">
+    <value>सिस्टम / अनलोडर / लोडर स्थिती</value>
+  </data>
+  <data name="TemperaturePV" xml:space="preserve">
+    <value>तापमान पीव्ही</value>
+  </data>
+  <data name="UnloaderInput" xml:space="preserve">
+    <value>अनलोडर इनपुट</value>
+  </data>
+  <data name="UnloaderOutput" xml:space="preserve">
+    <value>अनलोडर आउटपुट</value>
+  </data>
+  <data name="VoltagePV" xml:space="preserve">
+    <value>व्होल्टेज पीव्ही</value>
+  </data>
+  <data name="WagonBarrel" xml:space="preserve">
+    <value>वॅगन बॅरल</value>
+  </data>
+  <data name="WagonInputs" xml:space="preserve">
+    <value>वॅगन इनपुट्स</value>
+  </data>
+  <data name="WagonOutputs" xml:space="preserve">
+    <value>वॅगन आउटपुट</value>
+  </data>
+  <data name="ActualAmpHr" xml:space="preserve">
+    <value>वास्तविक एम्पीयर तास</value>
+  </data>
+  <data name="ActualCurrent" xml:space="preserve">
+    <value>वास्तविक करंट</value>
+  </data>
+  <data name="ActualVoltage" xml:space="preserve">
+    <value>वास्तविक वोल्टेज</value>
+  </data>
+  <data name="AddNewPartDetails" xml:space="preserve">
+    <value>नवीन भाग तपशील जोडा</value>
+  </data>
+  <data name="AddPart" xml:space="preserve">
+    <value>भाग जोडा</value>
+  </data>
+  <data name="AlarmCondition" xml:space="preserve">
+    <value>अलार्म अट</value>
+  </data>
+  <data name="AlarmDateTime" xml:space="preserve">
+    <value>अलार्म तारीख वेळ</value>
+  </data>
+  <data name="AlarmEventHistory" xml:space="preserve">
+    <value>अलार्म घटना इतिहास</value>
+  </data>
+  <data name="AlarmGroup" xml:space="preserve">
+    <value>गजर गट</value>
+  </data>
+  <data name="AlarmName" xml:space="preserve">
+    <value>अलार्मचे नाव</value>
+  </data>
+  <data name="AlarmOn" xml:space="preserve">
+    <value>अलार्म चालू</value>
+  </data>
+  <data name="AlarmStatus" xml:space="preserve">
+    <value>अलार्म स्थिति</value>
+  </data>
+  <data name="AlarmText" xml:space="preserve">
+    <value>अलार्म मजकूर</value>
+  </data>
+  <data name="AlarmType" xml:space="preserve">
+    <value>अलार्म प्रकार</value>
+  </data>
+  <data name="AmpHr" xml:space="preserve">
+    <value>एम्पीयर तास</value>
+  </data>
+  <data name="AppliedCurrent" xml:space="preserve">
+    <value>अप्लाइड करंट</value>
+  </data>
+  <data name="AutoManual" xml:space="preserve">
+    <value>ऑटो / मॅन्युअल</value>
+  </data>
+  <data name="AutoManualStatus" xml:space="preserve">
+    <value>ऑटो / मॅन्युअल स्थिती</value>
+  </data>
+  <data name="BaseBarrelMotor" xml:space="preserve">
+    <value>बेस बैरल मोटर</value>
+  </data>
+  <data name="BypassONOFF" xml:space="preserve">
+    <value>बायपास चालू / बंद</value>
+  </data>
+  <data name="CumulativeAmpHr" xml:space="preserve">
+    <value>संचयी एम्पीयर तास</value>
+  </data>
+  <data name="DeletePart" xml:space="preserve">
+    <value>भाग हटवा</value>
+  </data>
+  <data name="Dosing" xml:space="preserve">
+    <value>डोसिंग</value>
+  </data>
+  <data name="EditPartDetails" xml:space="preserve">
+    <value>भाग तपशील संपादित करा</value>
+  </data>
+  <data name="EndDate" xml:space="preserve">
+    <value>समाप्ती तारीख</value>
+  </data>
+  <data name="EndTime" xml:space="preserve">
+    <value>समाप्ती वेळ</value>
+  </data>
+  <data name="FilterPumpName" xml:space="preserve">
+    <value>फिल्टर पंप नाव</value>
+  </data>
+  <data name="FilterPumpOilSkimmer" xml:space="preserve">
+    <value>फ़िल्टर पंप/तेल स्किमर</value>
+  </data>
+  <data name="FlowRate" xml:space="preserve">
+    <value>प्रवाह दर</value>
+  </data>
+  <data name="FlowRateTimerBased" xml:space="preserve">
+    <value>फ्लो. / टा. आधारित</value>
+  </data>
+  <data name="GetData" xml:space="preserve">
+    <value>डेटा मिळवा</value>
+  </data>
+  <data name="ManualCurrent" xml:space="preserve">
+    <value>मॅन्युअल करंट</value>
+  </data>
+  <data name="MotorStatus" xml:space="preserve">
+    <value>मोटर स्थिती</value>
+  </data>
+  <data name="OilSkimmerName" xml:space="preserve">
+    <value>तेल स्कीमर नाम</value>
+  </data>
+  <data name="ONOFF" xml:space="preserve">
+    <value>चालु/बंद  स्थिति</value>
+  </data>
+  <data name="ParameterName" xml:space="preserve">
+    <value>नाव</value>
+  </data>
+  <data name="pHHighSP" xml:space="preserve">
+    <value>पी.एच. उच्च संच बिंदु</value>
+  </data>
+  <data name="pHLowSP" xml:space="preserve">
+    <value>पी.एच. कम संच बिंदु</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>छापा</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>प्रमाण</value>
+  </data>
+  <data name="RemainingTime" xml:space="preserve">
+    <value>उर्वरित वेळ</value>
+  </data>
+  <data name="RemovePart" xml:space="preserve">
+    <value>भाग काढा</value>
+  </data>
+  <data name="SavePartDetails" xml:space="preserve">
+    <value>भाग तपशील जतन करा</value>
+  </data>
+  <data name="SelectedPartList" xml:space="preserve">
+    <value>भाग निवडलेली यादी</value>
+  </data>
+  <data name="SelectPartDescription" xml:space="preserve">
+    <value>भाग वर्णन निवडा</value>
+  </data>
+  <data name="SelectPartNumber" xml:space="preserve">
+    <value>भाग क्रमांक निवडा:</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>सेट</value>
+  </data>
+  <data name="Setml" xml:space="preserve">
+    <value>सेट मि.ली.</value>
+  </data>
+  <data name="SetTime" xml:space="preserve">
+    <value>वेळ सेट करा</value>
+  </data>
+  <data name="ShowAllParts" xml:space="preserve">
+    <value>सर्व भाग दर्शवा</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>प्रारंभ तारीख</value>
+  </data>
+  <data name="StartTime" xml:space="preserve">
+    <value>सुरवातीची वेळ</value>
+  </data>
+  <data name="StationSelection" xml:space="preserve">
+    <value>स्टेशन निवड</value>
+  </data>
+  <data name="Stationtobeoperated" xml:space="preserve">
+    <value>संचालित करण्याचे स्टेशन</value>
+  </data>
+  <data name="TankName" xml:space="preserve">
+    <value>टँक नाव</value>
+  </data>
+  <data name="TankTrayBypass" xml:space="preserve">
+    <value>टँक / ट्रे बायपास</value>
+  </data>
+  <data name="TemperatureAndpH" xml:space="preserve">
+    <value>तापमान आणि पीएच</value>
+  </data>
+  <data name="TemperatureHighSP" xml:space="preserve">
+    <value>तापमान उच्च संच बिंदू</value>
+  </data>
+  <data name="TemperatureLowSP" xml:space="preserve">
+    <value>तापमान कम संच बिंदु</value>
+  </data>
+  <data name="TemperatureSV" xml:space="preserve">
+    <value>तापमान सेट बिंदु</value>
+  </data>
+  <data name="TrayName" xml:space="preserve">
+    <value>ट्रे नाव</value>
+  </data>
+  <data name="TripStatus" xml:space="preserve">
+    <value>सहलीची स्थिती</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>प्रकार</value>
+  </data>
+  <data name="UpdatePart" xml:space="preserve">
+    <value>भाग अद्यतनित करा</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>मूल्य</value>
+  </data>
+  <data name="Wagon1WCS" xml:space="preserve">
+    <value>वॅगन1 डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="Wagon2WCS" xml:space="preserve">
+    <value>वॅगन2 डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="Wagon3WCS" xml:space="preserve">
+    <value>वॅगन3 डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="Wagon4WCS" xml:space="preserve">
+    <value>वॅगन4 डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="Wagon5WCS" xml:space="preserve">
+    <value>वॅगन5 डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="Wagon6WCS" xml:space="preserve">
+    <value>वॅगन6 डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="Wagon7WCS" xml:space="preserve">
+    <value>वॅगन7 डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="WCS" xml:space="preserve">
+    <value>डब्ल्यू. सी. एस</value>
+  </data>
+  <data name="AddEditFormula" xml:space="preserve">
+    <value>फॉर्म्युला जोडा / संपादित करा</value>
+  </data>
+  <data name="AddNewParameter" xml:space="preserve">
+    <value>नया पैरामीटर जोड़ें</value>
+  </data>
+  <data name="BarrelBasketBasics" xml:space="preserve">
+    <value>बॅरल बास्केट मूळ स्थिति:</value>
+  </data>
+  <data name="CalculateCurrent" xml:space="preserve">
+    <value>करंट मोजा</value>
+  </data>
+  <data name="CalculationFormula" xml:space="preserve">
+    <value>गणना सूत्र</value>
+  </data>
+  <data name="CreateDatabase" xml:space="preserve">
+    <value>डेटाबेस तयार करा</value>
+  </data>
+  <data name="CreatePartMaster" xml:space="preserve">
+    <value>पार्टमास्टर बनाएं</value>
+  </data>
+  <data name="CrossTrolley" xml:space="preserve">
+    <value>क्रॉस ट्रॉली</value>
+  </data>
+  <data name="DatabaseGeneration" xml:space="preserve">
+    <value>डेटाबेस निर्मिती</value>
+  </data>
+  <data name="DataType" xml:space="preserve">
+    <value>डेटा प्रकार</value>
+  </data>
+  <data name="DataView" xml:space="preserve">
+    <value>माहिती दृश्य</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>दिवस</value>
+  </data>
+  <data name="DeleteParameter" xml:space="preserve">
+    <value>पैरामीटर हटाएं</value>
+  </data>
+  <data name="DownloadtoPLC" xml:space="preserve">
+    <value>पीएलसी वर डाउनलोड करा</value>
+  </data>
+  <data name="Dryer" xml:space="preserve">
+    <value>ड्रायर</value>
+  </data>
+  <data name="EditParameter" xml:space="preserve">
+    <value>पैरामीटर संपादित करें</value>
+  </data>
+  <data name="EnterDatbaseName" xml:space="preserve">
+    <value>डेटाबेस नाव प्रविष्ट करा:</value>
+  </data>
+  <data name="GenerateGraph" xml:space="preserve">
+    <value>आलेख उत्पन्न करा</value>
+  </data>
+  <data name="GetPut" xml:space="preserve">
+    <value>गेट पूट</value>
+  </data>
+  <data name="Historical" xml:space="preserve">
+    <value>ऐतिहासिक</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>तास</value>
+  </data>
+  <data name="Initialize" xml:space="preserve">
+    <value>प्रारंभ</value>
+  </data>
+  <data name="isCalculationRequired" xml:space="preserve">
+    <value>गणना आवश्यक है</value>
+  </data>
+  <data name="isDownloadToPLC" xml:space="preserve">
+    <value>पीएलसी वर  डाउनलोड करण्यासाठी आहे</value>
+  </data>
+  <data name="isInLoadData" xml:space="preserve">
+    <value>लोड डेटामध्ये आहे</value>
+  </data>
+  <data name="isInReport" xml:space="preserve">
+    <value>अहवाल आहे</value>
+  </data>
+  <data name="isPrimaryKey" xml:space="preserve">
+    <value>प्राथमिक कुंजी है</value>
+  </data>
+  <data name="isReadOnlyForNextLoad" xml:space="preserve">
+    <value>केवळ पुढच्या लोडसाठी वाचन आहे</value>
+  </data>
+  <data name="LoadNumber" xml:space="preserve">
+    <value>लोड क्रमांक</value>
+  </data>
+  <data name="MaximumValue" xml:space="preserve">
+    <value>कमाल मूल्य</value>
+  </data>
+  <data name="MinimumValue" xml:space="preserve">
+    <value>किमान मूल्य</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>मिनिटे</value>
+  </data>
+  <data name="MMDD" xml:space="preserve">
+    <value>महिना-दिवस</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>महिना</value>
+  </data>
+  <data name="NetworkArchitecture" xml:space="preserve">
+    <value>नेटवर्क आर्किटेक्चर</value>
+  </data>
+  <data name="NextLoadSettings" xml:space="preserve">
+    <value>पुढील लोड सेटिंग्ज</value>
+  </data>
+  <data name="pH" xml:space="preserve">
+    <value>पी.एच.</value>
+  </data>
+  <data name="PlantAuto" xml:space="preserve">
+    <value>प्लांट ऑटो</value>
+  </data>
+  <data name="PlantCycleON" xml:space="preserve">
+    <value>प्लांट सायकल चालू</value>
+  </data>
+  <data name="PlantCycleReset" xml:space="preserve">
+    <value>प्लांट सायकल रीसेट</value>
+  </data>
+  <data name="PlantCycleStart" xml:space="preserve">
+    <value>प्लांट सायकल प्रारंभ</value>
+  </data>
+  <data name="PlantEmergencyStop" xml:space="preserve">
+    <value>कारख़ाना आपत्कालीन थांबा</value>
+  </data>
+  <data name="PlantView" xml:space="preserve">
+    <value>कारख़ाना दृश्य</value>
+  </data>
+  <data name="PowerON" xml:space="preserve">
+    <value>विद्युतप्रवाह चालू </value>
+  </data>
+  <data name="Prerequisites" xml:space="preserve">
+    <value>पूर्व शर्ती</value>
+  </data>
+  <data name="SaveParameter" xml:space="preserve">
+    <value>पैरामीटर सहेजें</value>
+  </data>
+  <data name="ScreenName" xml:space="preserve">
+    <value>स्क्रीन नाव</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>सेकंद</value>
+  </data>
+  <data name="SelectSqlServerName" xml:space="preserve">
+    <value>सर्व्हरचे नाव निवडा:</value>
+  </data>
+  <data name="TableName" xml:space="preserve">
+    <value>तालिका नाम</value>
+  </data>
+  <data name="TagList" xml:space="preserve">
+    <value>टॅग यादी</value>
+  </data>
+  <data name="TaskName" xml:space="preserve">
+    <value>कार्य नाव</value>
+  </data>
+  <data name="Temperature" xml:space="preserve">
+    <value>तापमान</value>
+  </data>
+  <data name="TestConnection" xml:space="preserve">
+    <value>कनेक्शन चाचणी</value>
+  </data>
+  <data name="Unit" xml:space="preserve">
+    <value>युनिट</value>
+  </data>
+  <data name="Unloader" xml:space="preserve">
+    <value>अनलोडर</value>
+  </data>
+  <data name="Wagon" xml:space="preserve">
+    <value>वॅगन</value>
+  </data>
+  <data name="WagonBasics" xml:space="preserve">
+    <value>वॅगन मूळ स्थिति:</value>
+  </data>
+  <data name="WagonLoadStringStatus" xml:space="preserve">
+    <value>वॅगन लोडस्ट्रिंग स्थिती</value>
+  </data>
+  <data name="WagonNumber" xml:space="preserve">
+    <value>वॅगन क्रमांक</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>वर्ष</value>
+  </data>
+  <data name="DryerName" xml:space="preserve">
+    <value>ड्रायर का नाम</value>
+  </data>
+  <data name="NitricStationSelection" xml:space="preserve">
+    <value>नायट्रिक स्टेशन निवड</value>
+  </data>
+  <data name="NumberofShifts" xml:space="preserve">
+    <value>शिफ्टची संख्या</value>
+  </data>
+  <data name="NumberOfShiftsSetShiftTimings" xml:space="preserve">
+    <value>शिफ्टची संख्या: शिफ्टचा वेळ सेट करा</value>
+  </data>
+  <data name="ShiftEndTime" xml:space="preserve">
+    <value>समाप्तीचा कालावधी</value>
+  </data>
+  <data name="ShiftHours" xml:space="preserve">
+    <value>शिफ्टचे तास</value>
+  </data>
+  <data name="ShiftNumber" xml:space="preserve">
+    <value>शिफ्ट क्रमांक</value>
+  </data>
+  <data name="ShiftSettings" xml:space="preserve">
+    <value>शिफ्ट सेटिंग्ज</value>
+  </data>
+  <data name="ShiftStartTime" xml:space="preserve">
+    <value>सुरवातीची वेळ</value>
+  </data>
+  <data name="ShiftStartTimes" xml:space="preserve">
+    <value>सुरवातीची वेळ</value>
+  </data>
+  <data name="ChooseLanguage" xml:space="preserve">
+    <value>भाषा निवडा 
+Choose Language</value>
+  </data>
+  <data name="TopDrip" xml:space="preserve">
+    <value>वरील ठिबक</value>
+  </data>
+  <data name="AlarmTimeAndTopDrip" xml:space="preserve">
+    <value>अलार्म वेळ आणि वरील ठिबक</value>
+  </data>
+  <data name="StationWagonTopDrip" xml:space="preserve">
+    <value>स्टेशन/वॅगन वरील ठिबक</value>
+  </data>
+  <data name="WagonDryerCTAlarmTime" xml:space="preserve">
+    <value>वॅगन/ड्रायर/क्रॉस ट्रॉली  अलार्म वेळ</value>
+  </data>
+  <data name="Auto" xml:space="preserve">
+    <value>ऑटो</value>
+  </data>
+  <data name="DownloadStatus" xml:space="preserve">
+    <value>डाउनलोड स्थिति:</value>
+  </data>
+  <data name="IndiSCADAST" xml:space="preserve">
+    <value>इंडिस्काडा-एसटी</value>
+  </data>
+  <data name="Manual" xml:space="preserve">
+    <value>मॅन्युअल</value>
+  </data>
+  <data name="NextLoadUpdate" xml:space="preserve">
+    <value>पुढील लोड अद्यतन</value>
+  </data>
+  <data name="ResetAmpHr" xml:space="preserve">
+    <value>रीसेट एम्प तास</value>
+  </data>
+  <data name="SecondsUnit" xml:space="preserve">
+    <value>से.</value>
+  </data>
+  <data name="StarFastenersPvtLtd" xml:space="preserve">
+    <value> स्टार फास्टनर्स प्रा. लि. </value>
+  </data>
+  <data name="Unloader1" xml:space="preserve">
+    <value>अनलोडर 1</value>
+  </data>
+  <data name="Wagon1" xml:space="preserve">
+    <value>वॅगन 1</value>
+  </data>
+  <data name="Wagon2" xml:space="preserve">
+    <value>वॅगन 2</value>
+  </data>
+  <data name="Wagon3" xml:space="preserve">
+    <value>वॅगन 3</value>
+  </data>
+  <data name="Wagon4" xml:space="preserve">
+    <value>वॅगन 4</value>
+  </data>
+  <data name="Wagon5" xml:space="preserve">
+    <value>वॅगन 5</value>
+  </data>
+  <data name="Wagon6" xml:space="preserve">
+    <value>वॅगन 6</value>
+  </data>
+  <data name="Wagon7" xml:space="preserve">
+    <value>वॅगन 7</value>
+  </data>
+  <data name="SetWeight" xml:space="preserve">
+    <value>वजन सेट करा</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>जतन करा</value>
+  </data>
+  <data name="ActualpH" xml:space="preserve">
+    <value>वास्तविक पीएच</value>
+  </data>
+  <data name="SetpH" xml:space="preserve">
+    <value>पीएच सेट करा</value>
+  </data>
+  <data name="ActualWeight" xml:space="preserve">
+    <value>वास्तविक वजन</value>
+  </data>
+</root>

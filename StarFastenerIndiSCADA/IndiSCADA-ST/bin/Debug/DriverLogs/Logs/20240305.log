@@ -1,0 +1,126 @@
+2024-03-05 13:19:12		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-03-05 13:19:13		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-03-05 13:19:41		readDeviceBlock-Read system Device Block Error Tagname =D2201	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:41		readDeviceRandom() D92	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:42		readDeviceBlock-Read system Device Block Error Tagname =D201	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:43		readDeviceRandom() h126.2	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:44		readDeviceBlock-Read system Device Block Error Tagname =D2301	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:44		readDeviceRandom() h0.2	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:45		readDeviceBlock-Read system Device Block Error Tagname =	Input string was not in a correct format.
+2024-03-05 13:19:53		readDeviceRandom() D92	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:45		readDeviceBlock-Read system Device Block Error Tagname =D221	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:19:57		readDeviceRandom() D92	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:57		readDeviceBlock-Read system Device Block Error Tagname =D241	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:57		readDeviceBlock-Read system Device Block Error Tagname =D261	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:58		readDeviceRandom() h126.2	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:58		readDeviceRandom() h0.3	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:58		readDeviceBlock-Read system Device Block Error Tagname =D281	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:58		readDeviceBlock-Read system Device Block Error Tagname =D281	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:59		readDeviceBlock-Read system Device Block Error Tagname =D301	The process cannot access the file 'F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2024-03-05 13:19:59		readDeviceRandom() h0.3	Send Buffer is full, may have lost communication.
+2024-03-05 13:19:59		readDeviceBlock-Read system Device Block Error Tagname =D321	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		write system PLC tag Values word Tag	
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D5161	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:20:00		readDeviceRandom() h0.2	No reponse from PLC. Ensure baud rate is correct.
+2024-03-05 13:20:00		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D3001	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceRandom() h0.3	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D3181	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		write system PLC tag Values word Value	2024
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D5121	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D5081	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D5081	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D3121	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceRandom() h0.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceRandom() h71.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		readDeviceBlock-Read system Device Block Error Tagname =D3061	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:00		write system PLC tag Values word Tag	
+2024-03-05 13:20:01		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		readDeviceRandom() h0.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		readDeviceRandom() h73.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		write system PLC tag Values word Value	3
+2024-03-05 13:20:01		readDeviceBlock-Read system Device Block Error Tagname =D5041	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		readDeviceRandom() h75.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		readDeviceRandom() h1.6	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		readDeviceBlock-Read system Device Block Error Tagname =D5401	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:01		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:21		readDeviceBlock-Read system Device Block Error Tagname =D5801	The process cannot access the file 'F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2024-03-05 13:20:21		write system PLC tag Values word Tag	
+2024-03-05 13:20:21		readDeviceRandom() h89.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:21		readDeviceRandom() h1.0	The process cannot access the file 'F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2024-03-05 13:20:22		write system PLC tag Values word Value	5
+2024-03-05 13:20:22		readDeviceRandom() D5621	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:22		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:22		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:22		readDeviceRandom() D6001	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:22		readDeviceRandom() h126.2	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:22		write system PLC tag Values word Tag	
+2024-03-05 13:20:22		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2024-03-05 13:20:22		readDeviceRandom() h3.6	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:22		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2024-03-05 13:20:22		write system PLC tag Values word Value	13
+2024-03-05 13:20:22		ReadTag_RealValue()PLC Communication failed. Retrying to connect	
+2024-03-05 13:20:22		readDeviceRandom() h3.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:22		readDeviceBlock-Read system Device Block Error Tagname =D5001	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:23		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-03-05 13:20:23		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-03-05 13:20:23		readDeviceRandom() D807	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		write system PLC tag Values word Tag	
+2024-03-05 13:20:23		write system PLC tag Values word Tag	
+2024-03-05 13:20:23		readDeviceRandom() h5.6	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		write system PLC tag Values word Value	20
+2024-03-05 13:20:23		write system PLC tag Values word Value	20
+2024-03-05 13:20:23		readDeviceRandom() h5.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceBlock-Read system Device Block Error Tagname =D3181	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceBlock-Read system Device Block Error Tagname =D3181	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceRandom() h5.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceBlock-Read system Device Block Error Tagname =D3901	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceBlock-Read system Device Block Error Tagname =D3121	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceBlock-Read system Device Block Error Tagname =D3941	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		write system PLC tag Values word Tag	
+2024-03-05 13:20:23		readDeviceRandom() h7.6	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceBlock-Read system Device Block Error Tagname =D3061	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		write system PLC tag Values word Value	0
+2024-03-05 13:20:23		readDeviceBlock-Read system Device Block Error Tagname =D3921	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceRandom() h121.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		readDeviceRandom() h7.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() D171	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:23		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:24		readDeviceRandom() h7.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h123.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h9.6	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h9.6	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h127.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		write system PLC tag Values word Tag	
+2024-03-05 13:20:24		write system PLC tag Values word Tag	
+2024-03-05 13:20:24		readDeviceRandom() h9.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h125.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		write system PLC tag Values word Value	2
+2024-03-05 13:20:24		readDeviceRandom() D92	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() D4001	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h9.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h9.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:24		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2024-03-05 13:20:24		write system PLC tag Values word Tag	
+2024-03-05 13:20:24		readDeviceRandom() h11.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		ReadTag_RealValue()PLC Communication failed. Retrying to connect	
+2024-03-05 13:20:24		write system PLC tag Values word Value	1
+2024-03-05 13:20:24		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-03-05 13:20:24		readDeviceRandom() h11.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:24		WriteTagValueInPLC()-write system PLC tag Values	Object reference not set to an instance of an object.
+2024-03-05 13:20:24		readDeviceRandom() D4101	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h13.6	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		readDeviceRandom() h13.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:24		ReadTag_RealValue()PLC Communication failed. Retrying to connect	
+2024-03-05 13:20:24		readDeviceRandom() h13.0	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:25		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-03-05 13:20:25		readDeviceRandom() h121.1	Send Buffer is full, may have lost communication.
+2024-03-05 13:20:25		readDeviceBlock-Read system Device Block Error Tagname =D3651	Send Buffer is full, may have lost communication.

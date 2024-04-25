@@ -1,0 +1,18 @@
+2024-01-25 16:30:25		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 16:30:25		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 16:31:33		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 16:31:33		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 17:26:19		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 17:26:19		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:39:02		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:39:03		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:41:55		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:41:55		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:42:46		readDeviceBlock-Read system Device Block Error Tagname =D201	No reponse from PLC. Ensure baud rate is correct.
+2024-01-25 18:44:22		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:44:22		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:52:18		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:52:21		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 18:53:52		readDeviceBlock-Read system Device Block Error Tagname =D2201	No reponse from PLC. Ensure baud rate is correct.
+2024-01-25 19:17:23		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2024-01-25 19:17:24		doConnect()-PLC IP and Port No-	192.168.250.1 9600

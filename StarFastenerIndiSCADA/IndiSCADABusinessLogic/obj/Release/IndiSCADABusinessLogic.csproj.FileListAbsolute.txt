@@ -1,0 +1,2 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Release\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Release\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14653BEB-2AB3-4781-B614-47ACBEDE1604}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IndiSCADABusinessLogic</RootNamespace>
+    <AssemblyName>IndiSCADABusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlarmEventLogic.cs" />
+    <Compile Include="AlarmTimeLogic.cs" />
+    <Compile Include="ConfigurationLogic.cs" />
+    <Compile Include="HomeBusinessLogic.cs" />
+    <Compile Include="IOStatusLogic.cs" />
+    <Compile Include="LoginLogic.cs" />
+    <Compile Include="NextloadEntryLogic.cs" />
+    <Compile Include="NextLoadMasterSettingsLogic.cs" />
+    <Compile Include="OutOfRangeLogic.cs" />
+    <Compile Include="OverviewLogic.cs" />
+    <Compile Include="PartMasterLogic.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SettingLogic.cs" />
+    <Compile Include="SystemStatusLogic.cs" />
+    <Compile Include="TankDetailsLogic.cs" />
+    <Compile Include="TrendLogic.cs" />
+    <Compile Include="UserActivityLogic.cs" />
+    <Compile Include="UserMasterLogic.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DeviceCommunication\DeviceCommunication.csproj">
+      <Project>{28eabfc4-5d75-4425-aa09-9930bf3917e3}</Project>
+      <Name>DeviceCommunication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ErrorLogger\ErrorLogger.csproj">
+      <Project>{93b5c13a-5287-4790-8c28-f1da058a2add}</Project>
+      <Name>ErrorLogger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IndiSCADADataAccess\IndiSCADADataAccess.csproj">
+      <Project>{d0eb52a9-f952-44e2-816f-60efe53a6d42}</Project>
+      <Name>IndiSCADADataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IndiSCADAEntity\IndiSCADAEntity.csproj">
+      <Project>{CE93E7C3-BEC9-49F0-9397-22AD9AE28DF4}</Project>
+      <Name>IndiSCADAEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IndiSCADAGlobalLibrary\IndiSCADAGlobalLibrary.csproj">
+      <Project>{DB9BD1B9-DAF7-4FD0-96F8-8C86AA3DB036}</Project>
+      <Name>IndiSCADAGlobalLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IndiSCADATranslation\IndiSCADATranslation.csproj">
+      <Project>{39c89be5-a711-4a2a-bae8-28cfa1f8fe6c}</Project>
+      <Name>IndiSCADATranslation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

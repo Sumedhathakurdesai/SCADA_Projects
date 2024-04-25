@@ -1,0 +1,421 @@
+﻿<syncfusion:ChromelessWindow x:Class="IndiSCADA_ST.View.AlarmAndEventView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IndiSCADA_ST.View"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+       xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        mc:Ignorable="d"
+        xmlns:Viewmodel="clr-namespace:IndiSCADA_ST.ViewModel"
+        TextElement.Foreground="WhiteSmoke"
+        TextElement.FontWeight="Regular"    
+        xmlns:p = "clr-namespace:IndiSCADA_ST.Properties"
+        TextElement.FontSize="21"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="Humanst521 Lt Bt"
+        Title="{x:Static p:Resources.AlarmAndEvent}" UseNativeChrome="True" TitleBarHeight="40" TitleFontSize="17" Name="WindowAlarm"  Background="#EBFFFD" WindowState="Maximized" Topmost="false" WindowStyle="None"   WindowStartupLocation="CenterScreen"   TitleBarForeground="White" TitleBarBackground="#00786B" ResizeMode="NoResize"  
+        >
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Closing">
+            <i:InvokeCommandAction Command="{Binding  Exit}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Window.Resources>
+        <Style TargetType="Button" x:Key="btnRowSelectedStyle">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding SelectedItems.Count,ElementName=dgvAlarmDta}" Value="0">
+                    <Setter Property="IsEnabled" Value="False" />
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" x:Key="btnStyle">
+            
+        </Style>
+        <Style TargetType="Button" x:Key="btnRowCountStyle">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ItemsSource.Count,ElementName=dgvAlarmDta}" Value="0">
+                    <Setter Property="IsEnabled" Value="False" />
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="syncfusion:GridHeaderCellControl" >
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="Teal"/>
+            <Setter Property="Background" Value="WhiteSmoke"/>
+        </Style>
+        <!--<Style TargetType="syncfusion:GridRowHeaderCell" >
+            --><!--<Style.Triggers>
+                <DataTrigger Binding="{Binding isON}" Value="true">
+                    <Setter Property="Background" Value="Red" />
+                    <Setter Property="Foreground" Value="Black" />
+                </DataTrigger>
+            </Style.Triggers>--><!--
+            <Style.Triggers>
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding isON,UpdateSourceTrigger=PropertyChanged }" Value="True"/>
+                        <Condition Binding="{Binding isOFF,UpdateSourceTrigger=PropertyChanged}" Value="False" />
+                        <Condition Binding="{Binding isACK,UpdateSourceTrigger=PropertyChanged}" Value="False" />
+                    </MultiDataTrigger.Conditions>
+                    <MultiDataTrigger.EnterActions>
+                        <BeginStoryboard>
+                            <Storyboard >
+                                <ColorAnimation Storyboard.TargetProperty="Background.Color"
+                                              Duration="0:0:0.50"  From="Black" To="Red" RepeatBehavior="Forever" AutoReverse="True" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </MultiDataTrigger.EnterActions>
+                </MultiDataTrigger>
+
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="syncfusion:GridCell" x:Key="AlarmGridRowStyle">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="Red"></Setter>
+            <Setter Property="FontSize" Value="16"></Setter>
+            <Setter Property="FontFamily" Value="Humanst521 Lt Bt"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            --><!--<Style.Triggers>
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding isON}" Value="True"/>
+                        <Condition Binding="{Binding isOFF}" Value="False" />
+                        <Condition Binding="{Binding isACK}" Value="False" />
+             </MultiDataTrigger.Conditions>
+                        <Setter Property="Background" Value="Red"></Setter>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="Foreground" Value="Black"></Setter>
+                    --><!--<MultiDataTrigger.EnterActions>
+                        <BeginStoryboard>
+                            <Storyboard >
+                                <ColorAnimation Storyboard.TargetProperty="Foreground.Color"
+                                              Duration="0:0:1.0"  From="Red" To="Black" RepeatBehavior="Forever" AutoReverse="True" />
+                                <ColorAnimation Storyboard.TargetProperty="Background.Color"
+                                              Duration="0:0:1.0"  From="Black" To="Red" RepeatBehavior="Forever" AutoReverse="True" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </MultiDataTrigger.EnterActions>--><!--
+                </MultiDataTrigger>
+               
+            </Style.Triggers>--><!--
+        </Style>-->
+        <Style TargetType="syncfusion:GridRowHeaderCell">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="syncfusion:GridRowHeaderCell">
+                        <Border x:Name="PART_RowHeaderCellBorder"
+                        Background="WhiteSmoke">
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="IndicationStates">
+                                    <VisualState x:Name="Normal">
+                                    </VisualState>
+                                    <VisualState x:Name="CurrentRow">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="PART_RowHeaderIndicator" Storyboard.TargetProperty="Data">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <Geometry>F1M-218.342,2910.79L-234.066,2926.52 -233.954,2926.63 -225.428,2926.63 -210.87,2912.07 -206.495,2907.7 -225.313,2888.88 -234.066,2888.88 -218.342,2904.6 -259.829,2904.6 -259.829,2910.79 -218.342,2910.79z</Geometry>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Path x:Name="PART_RowHeaderIndicator"
+                          Width="8.146"
+                          Height="8.146"
+                          HorizontalAlignment="Center"
+                          VerticalAlignment="Center"
+                          Fill="#FF303030"
+                          Stretch="Fill">
+                            </Path>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Window.DataContext>
+        <Viewmodel:AlarmAndEventViewModel/>
+    </Window.DataContext>
+   
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="700*"/>
+            <RowDefinition Height="100*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="700*"/>
+        </Grid.ColumnDefinitions>
+        <Button VerticalAlignment="Center" HorizontalAlignment="Left"  HorizontalContentAlignment="Right"   Height="70" Width="120" BorderThickness="0" Grid.Column="0" Grid.Row="0"  Background="Transparent" Margin="-20,0,0,0" >
+            <materialDesign:PackIcon Kind="Alarm"  Height="60" Width="100" Foreground="Teal" />
+        </Button>
+        <Label FontWeight="DemiBold" Content="{x:Static p:Resources.AlarmAndEvent}" FontSize="30" Margin="80,0,0,0" VerticalAlignment="Center"  Foreground="Teal" Grid.Column="0" Grid.Row="0" ></Label>
+        <syncfusion:SfDataGrid Name="dgvAlarmDta" FontSize="16"  SelectedIndex="{Binding DGVSelectedRowindex,UpdateSourceTrigger=PropertyChanged}"  SelectedItem="{Binding DGVSelectedRow,UpdateSourceTrigger=PropertyChanged }" ShowRowHeader="True"   Background="Black" ColumnSizer="AutoWithLastColumnFill"  AutoGenerateColumns="False" Grid.Column="0" Grid.Row="1"  Margin="10" ItemsSource="{Binding AlarmData,UpdateSourceTrigger=PropertyChanged}" >
+            
+         <syncfusion:SfDataGrid.Columns>
+                <syncfusion:GridTextColumn  MappingName="AlarmType" HeaderText="{x:Static p:Resources.AlarmType}" >
+                    <syncfusion:GridTextColumn.CellStyle>
+                        <Style TargetType="syncfusion:GridCell">
+                            <Setter Property="BorderBrush" Value="Teal"/>
+                            <Setter Property="HorizontalContentAlignment"  Value="Center"/>
+                            <Setter Property="HorizontalAlignment"  Value="Center"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding isON}" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding isACK}" Value="True">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </syncfusion:GridTextColumn.CellStyle>
+                </syncfusion:GridTextColumn>
+                <syncfusion:GridTextColumn  MappingName="AlarmText" HeaderText="{x:Static p:Resources.AlarmText}" ColumnSizer="AutoWithLastColumnFill">
+                    <syncfusion:GridTextColumn.CellStyle>
+                        <Style TargetType="syncfusion:GridCell">
+                            <Setter Property="BorderBrush" Value="Teal"/>
+                            <Setter Property="HorizontalContentAlignment"  Value="Center"/>
+                            <Setter Property="HorizontalAlignment"  Value="Center"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding isON}" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding isACK}" Value="True">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </syncfusion:GridTextColumn.CellStyle>
+                </syncfusion:GridTextColumn>
+                <syncfusion:GridTextColumn  MappingName="AlarmCondition" HeaderText="{x:Static p:Resources.AlarmCondition}">
+                    <syncfusion:GridTextColumn.CellStyle>
+                        <Style TargetType="syncfusion:GridCell">
+                            <Setter Property="BorderBrush" Value="Teal"/>
+                            <Setter Property="HorizontalContentAlignment"  Value="Center"/>
+                            <Setter Property="HorizontalAlignment"  Value="Center"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding isON}" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding isACK}" Value="True">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </syncfusion:GridTextColumn.CellStyle>
+                </syncfusion:GridTextColumn>
+                <syncfusion:GridTextColumn  MinimumWidth="200" MappingName="AlarmDateTime"  HeaderText="{x:Static p:Resources.AlarmOn}" >
+                    <syncfusion:GridTextColumn.CellStyle>
+                        <Style TargetType="syncfusion:GridCell">
+                            <Setter Property="BorderBrush" Value="Teal"/>
+                            <Setter Property="HorizontalContentAlignment"  Value="Center"/>
+                            <Setter Property="HorizontalAlignment"  Value="Center"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding isON}" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding isACK}" Value="True">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </syncfusion:GridTextColumn.CellStyle>
+                </syncfusion:GridTextColumn>
+                <syncfusion:GridTextColumn  MappingName="AlarmDuration" HeaderText="{x:Static p:Resources.Duration}">
+                    <syncfusion:GridTextColumn.CellStyle> 
+                        <Style TargetType="syncfusion:GridCell">
+                            <Setter Property="BorderBrush" Value="Teal"/>
+                            <Setter Property="HorizontalContentAlignment"  Value="Center"/>
+                            <Setter Property="HorizontalAlignment"  Value="Center"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding isON}" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding isACK}" Value="True">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </syncfusion:GridTextColumn.CellStyle>
+                </syncfusion:GridTextColumn>
+                <!--<syncfusion:GridTextColumn  MappingName="AlarmPriority" HeaderText=" Priority ">
+                    <syncfusion:GridTextColumn.CellStyle>
+                        <Style TargetType="syncfusion:GridCell">
+                            <Setter Property="BorderBrush" Value="Teal"/>
+                            <Setter Property="HorizontalContentAlignment"  Value="Center"/>
+                            <Setter Property="HorizontalAlignment"  Value="Center"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding isON}" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding isACK}" Value="True">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="WhiteSmoke"/>
+
+                                </DataTrigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </syncfusion:GridTextColumn.CellStyle>
+                </syncfusion:GridTextColumn>-->
+            </syncfusion:SfDataGrid.Columns>
+        </syncfusion:SfDataGrid>
+        <Grid Grid.Row="2" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="100*"/>
+            </Grid.ColumnDefinitions>
+            <Button BorderBrush="GreenYellow" Background="LightGray" Style="{StaticResource btnRowSelectedStyle}" Command="{Binding  AckSel}" Grid.Column="0" Margin="5" Grid.Row="0" Content="{materialDesign:PackIcon Check, Size=25}" ToolTip="Ack Sel"  />
+            <Button BorderBrush="GreenYellow" Background="LightGray" Style="{StaticResource btnRowCountStyle}" Command="{Binding  AckAll}" Grid.Column="1" Margin="5" Grid.Row="0" Content="{materialDesign:PackIcon CheckAll, Size=25}" ToolTip="Ack All" />
+            <Button BorderBrush="GreenYellow" Background="LightGray" Style="{StaticResource btnRowSelectedStyle}" Command="{Binding  ResetSel}" Grid.Column="2" Margin="5" Grid.Row="0" Content="{materialDesign:PackIcon RemoveCircle, Size=25}" ToolTip="Reset Sel" />
+            <Button BorderBrush="GreenYellow" Background="LightGray" Style="{StaticResource btnRowCountStyle}" Command="{Binding  ResetAll}" Grid.Column="3" Margin="5" Grid.Row="0" Content="{materialDesign:PackIcon RemoveCircleMultiple, Size=25}" ToolTip="Reset All" />
+            <Button BorderBrush="GreenYellow" Background="LightGray" Style="{StaticResource btnStyle}" Command="{Binding  History}" Grid.Column="4" Margin="5" Grid.Row="0" Content="{materialDesign:PackIcon History, Size=25}" ToolTip="History" />
+            <Button BorderBrush="GreenYellow" Background="LightGray" Style="{StaticResource btnRowSelectedStyle}" Command="{Binding  Help}" Grid.Column="5" Margin="5" Grid.Row="0" Content="{materialDesign:PackIcon HelpCircleOutline, Size=25}" ToolTip="Help" />
+
+            <Button BorderBrush="GreenYellow" Background="LightGray" Style="{StaticResource btnStyle}" Command="{Binding  VerifyDateTime}" Grid.Column="6" Margin="5" Grid.Row="0" Content="{materialDesign:PackIcon AccessTime, Size=25}" ToolTip="Verified DateTime" />
+
+        </Grid>
+        <materialDesign:PopupBox  HorizontalAlignment="Center" PlacementMode="TopAndAlignCentres" Name="HelpBoxPopup"  StaysOpen="True"  Width="500" Height="400" IsPopupOpen="{Binding isOpenHelpPopup}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="400*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="500*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox Grid.Row="0" Grid.Column="0" TextWrapping="Wrap" VerticalAlignment="Stretch"  AcceptsReturn="True"
+                    VerticalScrollBarVisibility="Auto" SpellCheck.IsEnabled="True" MinWidth="400" MinHeight="300"
+                    materialDesign:HintAssist.Hint="Multiline text" Text="{Binding AlarmHelpText,UpdateSourceTrigger=PropertyChanged }">
+                    
+                </TextBox>
+            </Grid>
+        </materialDesign:PopupBox>
+            
+            
+        <Popup  Height="800" Width="1000" Placement="Center"   Name="HistoryBoxPopup" IsOpen="{Binding isOpenHistoryPopup,UpdateSourceTrigger=PropertyChanged }">
+
+            <Grid Background="#EBFFFD">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="500*"/>
+                    <RowDefinition Height="100*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="800*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Row="0" Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" Grid.ColumnSpan="6" HorizontalAlignment="Center" FontSize="20" Height="auto" Width="auto" Content="{x:Static p:Resources.AlarmEventHistory}"/>
+                    <!--<Label Height="31"  FontFamily="Humanst521 Lt B"  FontSize="18" HorizontalContentAlignment="Center" Content="Alarm History"  Grid.Column="0" Foreground="Black" HorizontalAlignment="Center"   Grid.Row="0" FontWeight="Bold" ></Label>-->
+                    <Button FontFamily="Humanst521 Lt B" Foreground="Black" Background="Red" Name="btnPopupClose"  Content="X" HorizontalContentAlignment="Right"  VerticalContentAlignment="Center"  Height="31" Grid.Row="1" Grid.Column="5" HorizontalAlignment="Right" Margin="129,0,0,0"  VerticalAlignment="Top" Width="46" Command="{Binding PopupExit}"/>
+
+                    <DatePicker Grid.Column="0" Foreground="Black" SelectedDate="{Binding SelectedStartDate, UpdateSourceTrigger=PropertyChanged }" Grid.Row="2" Margin="5" materialDesign:HintAssist.Hint="{x:Static p:Resources.StartDate}" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                    <materialDesign:TimePicker  Foreground="Black" SelectedTime="{Binding SelectedStartTime, UpdateSourceTrigger=PropertyChanged }" Grid.Column="1" Grid.Row="2" Margin="5" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" materialDesign:HintAssist.Hint="{x:Static p:Resources.StartTime}" />
+                    <DatePicker Grid.Column="2" Foreground="Black" SelectedDate="{Binding SelectedEndDate, UpdateSourceTrigger=PropertyChanged }" Grid.Row="2" Margin="5" materialDesign:HintAssist.Hint="{x:Static p:Resources.EndDate}" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                    <materialDesign:TimePicker Foreground="Black" SelectedTime="{Binding SelectedEndTime, UpdateSourceTrigger=PropertyChanged }" Grid.Column="3" Grid.Row="2" Margin="5" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" materialDesign:HintAssist.Hint="{x:Static p:Resources.EndTime}" />
+                    <Button  Margin="5" Command="{Binding FilterAlarmAndEventHistoryClick}" Grid.Column="4" Grid.Row="2" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" Content="{materialDesign:PackIcon EventNoteOutline, Size=35}" ToolTip="{x:Static p:Resources.EndTime}"/>
+
+
+                </Grid>
+
+                <syncfusion:SfDataGrid Name="dgvAlarmAndEvent" SelectionForegroundBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  FontSize="16" Background="Black" MinHeight="600" MinWidth="1000" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Visible" ShowRowHeader="True" RowSelectionBrush="WhiteSmoke"   ColumnSizer="Auto"  AutoGenerateColumns="False" Grid.Column="0" Grid.Row="2"  Margin="5" ItemsSource="{Binding AlarmEventHistory,UpdateSourceTrigger=PropertyChanged}" >
+                    <syncfusion:SfDataGrid.Columns>
+
+                        <syncfusion:GridTextColumn MappingName="AlarmDateTime"  HeaderText="{x:Static p:Resources.AlarmDateTime}" MinimumWidth="200">
+                            <syncfusion:GridTextColumn.CellStyle >
+                                <Style TargetType="syncfusion:GridCell">
+                                    <Setter Property="BorderBrush" Value="Teal"/>
+                                </Style>
+                            </syncfusion:GridTextColumn.CellStyle>
+                        </syncfusion:GridTextColumn>
+                        <syncfusion:GridTextColumn MappingName="Type"  HeaderText="{x:Static p:Resources.Type}" ColumnSizer="SizeToHeader" >
+                            <syncfusion:GridTextColumn.CellStyle>
+                                <Style TargetType="syncfusion:GridCell">
+                                    <Setter Property="BorderBrush" Value="Teal"/>
+                                </Style>
+                            </syncfusion:GridTextColumn.CellStyle>
+                        </syncfusion:GridTextColumn>
+                        <syncfusion:GridTextColumn MappingName="AlarmGroup"  HeaderText="{x:Static p:Resources.AlarmGroup}" MinimumWidth="100">
+                            <syncfusion:GridTextColumn.CellStyle>
+                                <Style TargetType="syncfusion:GridCell">
+                                    <Setter Property="BorderBrush" Value="Teal"/>
+                                </Style>
+                            </syncfusion:GridTextColumn.CellStyle>
+                        </syncfusion:GridTextColumn>
+                        <syncfusion:GridTextColumn MappingName="AlarmText"  HeaderText="{x:Static p:Resources.AlarmName}" ColumnSizer="Star">
+                            <syncfusion:GridTextColumn.CellStyle>
+                                <Style TargetType="syncfusion:GridCell">
+                                    <Setter Property="BorderBrush" Value="Teal"/>
+                                </Style>
+                            </syncfusion:GridTextColumn.CellStyle>
+                        </syncfusion:GridTextColumn>
+                        <syncfusion:GridTextColumn MappingName="AlarmCondition"  HeaderText="{x:Static p:Resources.AlarmCondition}" ColumnSizer="SizeToHeader">
+                            <syncfusion:GridTextColumn.CellStyle>
+                                <Style TargetType="syncfusion:GridCell">
+                                    <Setter Property="BorderBrush" Value="Teal"/>
+                                </Style>
+                            </syncfusion:GridTextColumn.CellStyle>
+                        </syncfusion:GridTextColumn>
+
+                    </syncfusion:SfDataGrid.Columns>
+                </syncfusion:SfDataGrid>
+
+                <Button Margin="5" Background="LightGray" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"  HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" Grid.Column="1" Grid.Row="3" Content="{materialDesign:PackIcon Printer, Size=45}" ToolTip="{x:Static p:Resources.Print}" Click="Button_Click"/>
+            </Grid>
+        </Popup>
+
+    </Grid>
+    
+</syncfusion:ChromelessWindow>

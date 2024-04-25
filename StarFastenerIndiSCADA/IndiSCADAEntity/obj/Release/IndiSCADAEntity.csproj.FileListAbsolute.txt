@@ -1,0 +1,6 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Release\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Release\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Release\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Release\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Release\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Release\IndiSCADAEntity.pdb

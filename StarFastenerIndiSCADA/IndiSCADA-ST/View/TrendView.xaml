@@ -1,0 +1,1249 @@
+﻿<syncfusion:ChromelessWindow x:Class="IndiSCADA_ST.View.TrendView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IndiSCADA_ST.View"
+        mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+        xmlns:Viewmodel="clr-namespace:IndiSCADA_ST.ViewModel"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        TextElement.Foreground="Black"
+        xmlns:p = "clr-namespace:IndiSCADA_ST.Properties"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="21"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="Humanst521 Lt Bt"
+                             
+        xmlns:chart="clr-namespace:Syncfusion.UI.Xaml.Charts;assembly=Syncfusion.SfChart.WPF"
+     
+                             
+        Title="{x:Static p:Resources.Trends}"  Background="#EBFFFD" TitleBarHeight="40" TitleFontSize="17" WindowStyle="None" ResizeMode="NoResize"  TitleBarForeground="White" TitleBarBackground="#00786B"  Topmost="false" WindowStartupLocation="CenterScreen" WindowState="Maximized" >
+    <Window.DataContext>
+        <Viewmodel:TrendViewModel  x:Name="TrendViewModelobj"/>
+    </Window.DataContext>
+
+
+
+
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Closing">
+            <i:InvokeCommandAction Command="{Binding  Exit}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid>
+        <dragablz:TabablzControl Background="#EBFFFD" Margin="1,0,0,0">
+
+
+            <TabItem Header="{x:Static p:Resources.Temperature}" >
+       <materialDesign:DialogHost Identifier="RootDialog" SnackbarMessageQueue="{Binding ElementName=MainSnackbar, Path=MessageQueue}">
+        <materialDesign:DrawerHost  IsLeftDrawerOpen="{Binding ElementName=MenuToggleButton, Path=IsChecked}" >
+            <materialDesign:DrawerHost.LeftDrawerContent>
+           
+                <DockPanel MinWidth="200" FocusManager.FocusedElement="{Binding ElementName=TempItemsSearchBox}">
+                    <ToggleButton 
+                        Style="{StaticResource MaterialDesignHamburgerToggleButton}" 
+                        DockPanel.Dock="Top"
+                        HorizontalAlignment="Right" 
+                        Margin="16"
+                        IsChecked="{Binding ElementName=MenuToggleButton, Path=IsChecked, Mode=TwoWay}" />
+
+                    <TextBox 
+                        x:Name="TempItemsSearchBox"              
+                        Text="{Binding SearchKeyword, UpdateSourceTrigger=PropertyChanged}"
+                        DockPanel.Dock="Top"
+                        Margin="16, 4"
+                        Width="200"
+                        Foreground="#00786B"
+                        BorderThickness="0"
+                        materialDesign:HintAssist.Hint="Search"
+                        materialDesign:HintAssist.Foreground ="#00786B"
+                        materialDesign:HintAssist.IsFloating="True"
+                        materialDesign:TextFieldAssist.HasClearButton="True"
+                        materialDesign:TextFieldAssist.HasOutlinedTextField="True"
+                        materialDesign:TextFieldAssist.DecorationVisibility="Collapsed"
+                        materialDesign:TextFieldAssist.TextFieldCornerRadius="4" Controls:TextBoxHelper.IsSpellCheckContextMenuEnabled="True"/>
+
+                    <!--<ListBox 
+                             
+                        x:Name="TempItemsListBox" 
+                        Margin="0 16 0 16"
+                        SelectedIndex="0"
+                        SelectedItem="{Binding SelectedItemTemperature, UpdateSourceTrigger=PropertyChanged}"
+                        ItemsSource="{Binding TrendEntityItems, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" >
+                        <ListBox.Resources>
+                            <Style TargetType="ScrollBar" BasedOn="{StaticResource MaterialDesignScrollBarMinimal}"/>
+                        </ListBox.Resources>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate DataType="domain:DemoItem">
+                                <TextBlock Text="{Binding ItemName}" Margin="32 0 32 0" />
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>-->
+
+
+                                <ListBox  ItemsSource="{Binding TrendEntityItems, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" >
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <CheckBox  Foreground="Black" Content="{Binding ItemName, UpdateSourceTrigger=PropertyChanged}" IsChecked="{Binding isTempChecked, UpdateSourceTrigger=PropertyChanged}" Margin="5 5 0 0" Checked="TempertureCheckedcmdClick" Unchecked="TempertureUnCheckedcmdClick">  
+                                            </CheckBox>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+
+
+                            </DockPanel>
+            </materialDesign:DrawerHost.LeftDrawerContent>
+              
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="800*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="800*" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="100" />
+                </Grid.RowDefinitions>
+                
+                <DockPanel Grid.Column="0" Grid.Row="0" Margin="0,10,10,10" >
+                    <ToggleButton 
+                            x:Name="MenuToggleButton" VerticalAlignment="Top" HorizontalAlignment="Left"
+                            Style="{StaticResource MaterialDesignHamburgerToggleButton}"
+                            IsChecked="False" Foreground="#00786B" Click="MenuToggleButton_Click" >
+                    </ToggleButton>
+                                <chart:SfChart x:Name="TempTrendChart"  Header="Chart"  Foreground ="Black"  >
+                                    <!--PrimaryAxis-->
+                                    <chart:SfChart.PrimaryAxis>
+                                        <!--<chart:CategoryAxis3D LabelRotationAngle="90"/>-->
+                                        <chart:CategoryAxis />
+                                    </chart:SfChart.PrimaryAxis>
+                                    <!--SecondaryAxis-->
+                                    <chart:SfChart.SecondaryAxis>
+                                        <chart:NumericalAxis/>
+                                    </chart:SfChart.SecondaryAxis>
+                                    <!--Legend-->
+                                    <chart:SfChart.Legend>
+                                        <chart:ChartLegend></chart:ChartLegend>
+                                    </chart:SfChart.Legend>
+
+                                    <chart:LineSeries Label="Soak Cleaning 1" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp1" ShowTooltip="True" >
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="False"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Soak Cleaning 2, 3" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp2" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+                                    
+                                    
+
+                                    <chart:LineSeries Label="Cascade Rinse 2" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp3" ShowTooltip="True" >
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="False"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Anodic Cleaning 1" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp4" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Anodic Cleaning 2" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp5" ShowTooltip="True" >
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="False"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Anodic Cleaning 3" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp6" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 1, 2" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp7" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 3, 4" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp8" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 5, 6" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp9" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 7, 8" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp10" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 9, 10" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp11" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 11, 12" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp12" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 13, 14" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp13" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 15, 16" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp14" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 17, 18" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp15" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Passivation 1" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp16" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Passivation 2" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp17" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Passivation 3" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp18" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Water Rinse" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp19" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="TopCoat1" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp20" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="TopCoat2" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp21" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="TopCoat3" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp22" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Dryer 1" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp23" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Dryer 2" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp24" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Dryer 3" ItemsSource="{Binding Data ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveTemp25" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+                                </chart:SfChart>
+
+                                <!--Here we disable tooltips and hovering to get a better performance-->
+                    <!--<lvc:CartesianChart  Name="TempTrendChart"  DisableAnimations="True" AnimationsSpeed="0:0:0.5" Hoverable="False" DataTooltip="{x:Null}" LegendLocation="Right">-->
+                    
+                    
+                    <!--<lvc:CartesianChart>
+                                <lvc:CartesianChart.Series>
+                            <lvc:LineSeries Values="{Binding ChartValuesTemperature,UpdateSourceTrigger=PropertyChanged}" 
+                                PointGeometry="{x:Null}" 
+                                LineSmoothness="1"
+                                StrokeThickness="6" 
+                                Stroke="#F34336"
+                                Fill="Transparent"/>
+                        </lvc:CartesianChart.Series >
+                                                
+                                    <lvc:CartesianChart.AxisY>
+                                        <lvc:Axis  MinValue="0"  ></lvc:Axis>
+                                    </lvc:CartesianChart.AxisY>    
+
+                                    <lvc:CartesianChart.AxisX>
+                                        <lvc:Axis Title="Time"  LabelFormatter="{Binding DateTimeFormatter,UpdateSourceTrigger=PropertyChanged}" 
+                                    
+                          MaxValue="{Binding AxisMax,UpdateSourceTrigger=PropertyChanged}"
+                          MinValue="{Binding AxisMin,UpdateSourceTrigger=PropertyChanged}"
+                          Unit="{Binding AxisUnit,UpdateSourceTrigger=PropertyChanged}">
+                                <lvc:Axis.Separator>
+                                    <lvc:Separator Step="{Binding AxisStep,UpdateSourceTrigger=PropertyChanged}" />
+                                </lvc:Axis.Separator>
+                            </lvc:Axis>
+                        </lvc:CartesianChart.AxisX>
+                        
+                    </lvc:CartesianChart>-->
+    
+
+                            </DockPanel>
+                    
+                <!--<WrapPanel HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="0">
+                            <Label Foreground="#00786B" Grid.Row="1" Content="{Binding SelectedItemTemperature.ItemName}" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+                            <Label Foreground="#00786B" Grid.Row="1" Content="{Binding TemperatureValue}"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                                </Label>
+                        </WrapPanel>-->
+                       
+                <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"   Grid.Row="2"  >
+
+                    <Button Command="{Binding TempTrendPlay}" BorderBrush="#00786B" IsEnabled="{Binding isTempTrendpause,UpdateSourceTrigger=PropertyChanged }" ToolTip="Play" Background="Transparent"  VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" >
+                                    <Viewbox Width="24" Height="24">
+                                        <Canvas Width="24" Height="24">
+                                            <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 30.0833,22.1667L 50.6665,37.6043L 50.6665,38.7918L 30.0833,53.8333L 30.0833,22.1667 Z " Fill="#00786B"/>
+                                        </Canvas>
+                                    </Viewbox>
+                                </Button>
+                    <Button Command="{Binding TempTrendPause}" BorderBrush="#00786B" IsEnabled="{Binding isTempTrendPlay,UpdateSourceTrigger=PropertyChanged }" ToolTip="Pause" Background="Transparent" Grid.Row="7" VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" >
+                        <Viewbox Width="24" Height="24">
+                            <Canvas Width="24" Height="24">
+                                <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 26.9167,23.75L 33.25,23.75L 33.25,52.25L 26.9167,52.25L 26.9167,23.75 Z M 42.75,23.75L 49.0833,23.75L 49.0833,52.25L 42.75,52.25L 42.75,23.75 Z " Fill="#00786B"/>
+                            </Canvas>
+                        </Viewbox>
+                    </Button>
+                    <Button IsEnabled="{Binding isTempTrendpause,UpdateSourceTrigger=PropertyChanged }" BorderBrush="#00786B" ToolTip="Print" Background="Transparent" Grid.Row="7" VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Click="Button_Click"  >
+                        <Viewbox Width="24" Height="24">
+                            <Canvas Width="24" Height="24">
+                                <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 25,27L 25,17L 51,17L 51,27L 47,27L 47,21L 29,21L 29,27L 25,27 Z M 16,28L 60,28L 60,51L 52,51L 52,46L 55,46L 55,33L 21,33L 21,46L 24,46L 24,51L 16,51L 16,28 Z M 25,39L 28,39L 28,52L 35,52L 35,59L 48,59L 48,39L 51,39L 51,62L 33,62L 25,54L 25,39 Z M 46,55L 38,55L 38,52L 46,52L 46,55 Z M 46,49L 30,49L 30,46L 46,46L 46,49 Z M 46,43L 30,43L 30,40L 46,40L 46,43 Z " Fill="#00786B" />
+                            </Canvas>
+                        </Viewbox>
+                    </Button>
+              
+                </WrapPanel>
+                    
+            </Grid>
+            
+        </materialDesign:DrawerHost>
+
+    </materialDesign:DialogHost>
+            
+        </TabItem>
+
+
+            <TabItem Header="{x:Static p:Resources.Rectifier}" >
+            <materialDesign:DialogHost Identifier="RootDialog" SnackbarMessageQueue="{Binding ElementName=MainSnackbar, Path=MessageQueue}">
+                <materialDesign:DrawerHost  IsLeftDrawerOpen="{Binding ElementName=RectifierTogleMenu, Path=IsChecked}" >
+                    <materialDesign:DrawerHost.LeftDrawerContent>
+                        <DockPanel MinWidth="200" FocusManager.FocusedElement="{Binding ElementName=CurrentItemsSearchBox}">
+                            <ToggleButton 
+                        Style="{StaticResource MaterialDesignHamburgerToggleButton}" 
+                        DockPanel.Dock="Top"
+                        HorizontalAlignment="Right" 
+                        Margin="30"
+                        IsChecked="{Binding ElementName=RectifierTogleMenu, Path=IsChecked, Mode=TwoWay}" />
+
+                            <TextBox 
+                        x:Name="CurrentItemsSearchBox"
+                        Text="{Binding searchKeywordCurrent, UpdateSourceTrigger=PropertyChanged}"
+                        DockPanel.Dock="Top"
+                        Margin="16, 4"
+                        Width="200"
+                        BorderThickness="0"
+                        materialDesign:HintAssist.Hint="Search"
+                        materialDesign:HintAssist.IsFloating="True"
+                        materialDesign:TextFieldAssist.HasClearButton="True"
+                        materialDesign:TextFieldAssist.HasOutlinedTextField="True"
+                        materialDesign:TextFieldAssist.DecorationVisibility="Collapsed"
+                        materialDesign:TextFieldAssist.TextFieldCornerRadius="4"/>
+                            
+                            <!--<ListBox 
+                        x:Name="TempItemsListBox1" 
+                        Margin="0 16 0 16"
+                        SelectedIndex="0"
+                        SelectedItem="{Binding SelectedItemCurrent, UpdateSourceTrigger=PropertyChanged}"
+                        ItemsSource="{Binding TrendEntityCurrentItems, UpdateSourceTrigger=PropertyChanged}" >
+                                <ListBox.Resources>
+                                    <Style TargetType="ScrollBar" BasedOn="{StaticResource MaterialDesignScrollBarMinimal}"/>
+                                </ListBox.Resources>
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate DataType="domain:DemoItem">
+                                        <TextBlock Text="{Binding ItemName}" Margin="32 0 32 0" />
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>-->
+
+
+                                <ListBox  ItemsSource="{Binding TrendEntityCurrentItems, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" >
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <CheckBox  Foreground="Black" Content="{Binding ItemName, UpdateSourceTrigger=PropertyChanged}" IsChecked="{Binding isCurrentChecked, UpdateSourceTrigger=PropertyChanged}" Margin="5 5 0 0" Checked="CurrentCheckbox_Checked"  Unchecked="CurrentCheckbox_UnChecked">
+                                      
+                                            </CheckBox>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                            
+                            
+
+                            </DockPanel>
+                    </materialDesign:DrawerHost.LeftDrawerContent>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="800*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="800*" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="100" />
+                        </Grid.RowDefinitions>
+                        <DockPanel Grid.Column="0" Grid.Row="0" Margin="0,10,10,10" >
+                            <ToggleButton 
+                            x:Name="RectifierTogleMenu" VerticalAlignment="Top" HorizontalAlignment="Left" 
+                            Style="{StaticResource MaterialDesignHamburgerToggleButton}"
+                            IsChecked="False" Foreground="#00786B" Click="MenuToggleButton_Click" >
+                            </ToggleButton>
+
+
+
+                                <chart:SfChart x:Name="CurrentTrendChart"  Header="Chart"  Foreground ="Black"  >
+                                    <!--PrimaryAxis-->
+                                    <chart:SfChart.PrimaryAxis>
+                                        <!--<chart:CategoryAxis3D LabelRotationAngle="90"/>-->
+                                        <chart:CategoryAxis />
+                                    </chart:SfChart.PrimaryAxis>
+                                    <!--SecondaryAxis-->
+                                    <chart:SfChart.SecondaryAxis>
+                                        <chart:NumericalAxis/>
+                                    </chart:SfChart.SecondaryAxis>
+                                    <!--Legend-->
+                                    <chart:SfChart.Legend>
+                                        <chart:ChartLegend></chart:ChartLegend>
+                                    </chart:SfChart.Legend>
+
+                                    <chart:LineSeries Label="Anodic Cleaning 1" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect1" ShowTooltip="True" >
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="False"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Anodic Cleaning 2" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect2" ShowTooltip="True" >
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="False"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+                                    
+                                    <chart:LineSeries Label="Anodic Cleaning 3" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect3" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 1" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect4" ShowTooltip="True" >
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="False"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 2" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect5" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 3" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect6" ShowTooltip="True" >
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="False"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 4" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect7" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 5" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect8" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 6" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect9" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 7" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect10" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 8" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect11" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 9" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect12" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 10" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect13" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 11" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect14" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 12" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect15" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 13" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect16" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 14" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect17" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 15" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect18" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 16" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect19" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 17" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect20" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                    <chart:LineSeries Label="Alkaline Zinc 18" ItemsSource="{Binding CurrentData ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="LiveTime" YBindingPath="LiveRect21" ShowTooltip="True">
+                                        <chart:LineSeries.AdornmentsInfo>
+                                            <chart:ChartAdornmentInfo ShowLabel="True"></chart:ChartAdornmentInfo>
+                                        </chart:LineSeries.AdornmentsInfo>
+                                    </chart:LineSeries>
+
+                                </chart:SfChart>
+
+
+
+                                <!--Here we disable tooltips and hovering to get a better performance-->
+                            <!--<lvc:CartesianChart  Name="CurrentTrendChart" DisableAnimations="True" AnimationsSpeed="0:0:0.5" Hoverable="False" DataTooltip="{x:Null}" LegendLocation="Right">
+                                <lvc:CartesianChart.Series>
+                                        <lvc:LineSeries  Values="{Binding ChartValuesCurrent,UpdateSourceTrigger=PropertyChanged}" 
+                                PointGeometry="{x:Null}" 
+                                LineSmoothness="1"
+                                StrokeThickness="6" 
+                                Stroke="#F34336" 
+                                Fill="Transparent"/>
+                                </lvc:CartesianChart.Series>
+
+                                    <lvc:CartesianChart.AxisY >
+                                        <lvc:Axis  MinValue="0"></lvc:Axis>
+                                    </lvc:CartesianChart.AxisY>
+
+                                    <lvc:CartesianChart.AxisX >
+                                        <lvc:Axis Title="Time" LabelFormatter="{Binding DateTimeFormatter,UpdateSourceTrigger=PropertyChanged}"
+                          MaxValue="{Binding AxisMax,UpdateSourceTrigger=PropertyChanged}"
+                          MinValue="{Binding AxisMin,UpdateSourceTrigger=PropertyChanged}"
+                          Unit="{Binding AxisUnit,UpdateSourceTrigger=PropertyChanged}">
+                                        <lvc:Axis.Separator>
+                                            <lvc:Separator Step="{Binding AxisStep,UpdateSourceTrigger=PropertyChanged}" />
+                                        </lvc:Axis.Separator>
+                                    </lvc:Axis>
+                                </lvc:CartesianChart.AxisX>
+                            </lvc:CartesianChart>-->
+
+                        </DockPanel>
+                        <!--<WrapPanel HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="0">
+                            <Label Foreground="#00786B" Grid.Row="1" Content="{Binding SelectedItemCurrent.ItemName}" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+                            <Label Foreground="#00786B" Grid.Row="1" Content="{Binding CurrentValue}" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                            </Label>
+                        </WrapPanel>-->
+                        <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"   Grid.Row="2"  >
+                            <Button Command="{Binding TempTrendPlay}" BorderBrush="#00786B" IsEnabled="{Binding isTempTrendpause,UpdateSourceTrigger=PropertyChanged }" ToolTip="Play" Background="Transparent"  VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" >
+                                <Viewbox Width="24" Height="24">
+                                    <Canvas Width="24" Height="24">
+                                        <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 30.0833,22.1667L 50.6665,37.6043L 50.6665,38.7918L 30.0833,53.8333L 30.0833,22.1667 Z " Fill="#00786B"/>
+                                    </Canvas>
+                                </Viewbox>
+                            </Button>
+
+                            <Button Command="{Binding TempTrendPause}" BorderBrush="#00786B" IsEnabled="{Binding isTempTrendPlay,UpdateSourceTrigger=PropertyChanged }" ToolTip="Pause" Background="Transparent" Grid.Row="7" VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" >
+                                <Viewbox Width="24" Height="24">
+                                    <Canvas Width="24" Height="24">
+                                        <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 26.9167,23.75L 33.25,23.75L 33.25,52.25L 26.9167,52.25L 26.9167,23.75 Z M 42.75,23.75L 49.0833,23.75L 49.0833,52.25L 42.75,52.25L 42.75,23.75 Z " Fill="#00786B"/>
+                                    </Canvas>
+                                </Viewbox>
+                            </Button>
+                            <Button IsEnabled="{Binding isTempTrendpause,UpdateSourceTrigger=PropertyChanged }" BorderBrush="#00786B" ToolTip="Print" Background="Transparent" Grid.Row="7" VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Click="Button_Click"  >
+                                <Viewbox Width="24" Height="24">
+                                    <Canvas Width="24" Height="24">
+                                        <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 25,27L 25,17L 51,17L 51,27L 47,27L 47,21L 29,21L 29,27L 25,27 Z M 16,28L 60,28L 60,51L 52,51L 52,46L 55,46L 55,33L 21,33L 21,46L 24,46L 24,51L 16,51L 16,28 Z M 25,39L 28,39L 28,52L 35,52L 35,59L 48,59L 48,39L 51,39L 51,62L 33,62L 25,54L 25,39 Z M 46,55L 38,55L 38,52L 46,52L 46,55 Z M 46,49L 30,49L 30,46L 46,46L 46,49 Z M 46,43L 30,43L 30,40L 46,40L 46,43 Z " Fill="#00786B" />
+                                    </Canvas>
+                                </Viewbox>
+                            </Button>
+                        </WrapPanel>
+                    </Grid>
+
+                </materialDesign:DrawerHost>
+
+            </materialDesign:DialogHost>
+        </TabItem>
+
+
+            <TabItem Header="{x:Static p:Resources.Historical}" >
+            
+            <Grid>
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <CheckBox Grid.Column="1" HorizontalAlignment="Center" Margin="10"  IsChecked="{Binding isTemperatureSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="{x:Static p:Resources.Temperature}" />
+                        <CheckBox Grid.Column="2" HorizontalAlignment="Center"  Margin="10" IsChecked="{Binding isRectifierSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="{x:Static p:Resources.Rectifier}" />
+                        <Button Background="Teal" HorizontalAlignment="Center" Margin="10" Visibility="{Binding TempvisibilityValue,UpdateSourceTrigger=PropertyChanged }"  Command="{Binding TempPopup}" Grid.Column="3" Grid.Row="0"   VerticalContentAlignment="Center"  Content="{x:Static p:Resources.Temperature}" ToolTip="{x:Static p:Resources.Temperature}"/>
+                        <Button Background="Teal" HorizontalAlignment="Center"  Margin="10" Visibility="{Binding RectifiervisibilityValue,UpdateSourceTrigger=PropertyChanged }"   Command="{Binding RectPopup}" Grid.Column="3" Grid.Row="0"  VerticalContentAlignment="Center" Content="{x:Static p:Resources.Rectifier}" ToolTip="{x:Static p:Resources.Rectifier}"/>
+
+                    </Grid>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="100*"/>
+                    </Grid.ColumnDefinitions>
+                        <DatePicker Grid.Column="0" SelectedDate="{Binding SelectedStartDate, UpdateSourceTrigger=PropertyChanged }" Grid.Row="0" Margin="5" materialDesign:HintAssist.Hint="{x:Static p:Resources.StartDate}" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                        <materialDesign:TimePicker SelectedTime="{Binding SelectedStartTime, UpdateSourceTrigger=PropertyChanged }" Grid.Column="1" Grid.Row="0" Margin="5" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" materialDesign:HintAssist.Hint="{x:Static p:Resources.StartTime}" />
+                        <DatePicker Grid.Column="2" SelectedDate="{Binding SelectedEndDate, UpdateSourceTrigger=PropertyChanged }" Grid.Row="0" Margin="5" materialDesign:HintAssist.Hint="{x:Static p:Resources.EndDate}" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                        <materialDesign:TimePicker SelectedTime="{Binding SelectedEndTime, UpdateSourceTrigger=PropertyChanged }" Grid.Column="3" Grid.Row="0" Margin="5" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" materialDesign:HintAssist.Hint="{x:Static p:Resources.EndTime}" />
+                        <Button Background="Teal" Margin="5" Command="{Binding FilterAlarmAndEventHistoryClick}" Grid.Column="4" Grid.Row="0" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" Content="{materialDesign:PackIcon EventNoteOutline, Size=45}" ToolTip="{x:Static p:Resources.GenerateGraph}"/>
+
+                </Grid>
+
+                    <chart:SfChart3D x:Name="TempChart3D"  Header="Chart" Visibility="{Binding TempvisibilityValue,UpdateSourceTrigger=PropertyChanged }" Grid.Row="2"  Margin="5" Foreground ="Black" BackWallBrush="White" >
+
+                        <!--PrimaryAxis-->
+                        <chart:SfChart3D.PrimaryAxis>
+                            <!--<chart:CategoryAxis3D LabelRotationAngle="90"/>-->
+                            <chart:CategoryAxis3D />
+                        </chart:SfChart3D.PrimaryAxis>
+                        <!--SecondaryAxis-->
+                        <chart:SfChart3D.SecondaryAxis>
+                            <chart:NumericalAxis3D/>
+                        </chart:SfChart3D.SecondaryAxis> 
+                        <!--Legend-->
+                        <chart:SfChart3D.Legend>
+                            <chart:ChartLegend></chart:ChartLegend>
+                        </chart:SfChart3D.Legend>
+
+                        <chart:LineSeries3D Label="Soak Cleaning 1" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="SoakDegreasing" ShowTooltip="True" >
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="False"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Soak Cleaning 2,3" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Anodic1" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Cascade Rinse 2" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Anodic2" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Anodic Cleaning 1" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc1" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Anodic Cleaning 2" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc2" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Anodic Cleaning 3" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc3" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 1,2" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc4" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 3,4" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc5" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 5,6" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc6" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 7,8" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc7" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 9,10" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc8" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 11,12" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZinc9" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 13,14" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Pass1" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 15,16" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Pass2" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 17,18" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Pass3" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Passivation 1" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Pass4" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Passivation 2" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Pass5" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Passivation 3" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Dryer1" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Water Rinse" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Dryer2" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Top Coat 1" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Temp20" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Top Coat 2" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Temp21" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Top Coat 3" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Temp22" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Dryer 1" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Temp23" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Dryer 2" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Temp24" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+
+                        <chart:LineSeries3D Label="Dryer 3" ItemsSource="{Binding NewHistoricalTempTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Temp25" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+                    </chart:SfChart3D>
+
+
+                    <!--<syncfusion:SfChart Visibility="{Binding TempvisibilityValue,UpdateSourceTrigger=PropertyChanged }" Grid.Row="2"  Margin="5" Foreground ="Black" Background="Transparent" Palette="SandyBeach"  >
+                    <syncfusion:SfChart.PrimaryAxis>
+                            <syncfusion:CategoryAxis Header="Time" FontSize="14"/>
+                    </syncfusion:SfChart.PrimaryAxis> 
+                        --><!--Initialize the vertical axis for SfChart--><!--
+                    <syncfusion:SfChart.SecondaryAxis>
+                            <syncfusion:NumericalAxis  Header="Temperature" FontSize="14"/>
+                    </syncfusion:SfChart.SecondaryAxis>
+
+                    --><!--Adding Legend to the SfChart--><!--
+                    <syncfusion:SfChart.Legend>
+                        <syncfusion:ChartLegend/>
+                    </syncfusion:SfChart.Legend>
+                        <syncfusion:SplineSeries Label="Soak Degreasing" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}"  YBindingPath="SoakDegreasing"/>
+                        <syncfusion:SplineSeries Label="Anodic 1" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" YBindingPath="Anodic1" />
+                        <syncfusion:SplineSeries Label="Anodic 2" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="GreenChrome" YBindingPath="Anodic2" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 1" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="FloraHues" YBindingPath="AlZinc1" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 2" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" YBindingPath="AlZinc2" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 3" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="BlueChrome" YBindingPath="AlZinc3" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 4" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" YBindingPath="AlZinc4" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 5" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}"  Palette="Metro" YBindingPath="AlZinc5" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 6" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}"  Palette="Metro" YBindingPath="AlZinc6" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 7" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}"   YBindingPath="AlZinc7" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 8" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="AlZinc8" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 9" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="AlZinc9" />
+
+                        <syncfusion:SplineSeries Label="Passivation Silver" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="Pass1" />
+                        <syncfusion:SplineSeries Label="Passivation Black" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="Pass2" />
+                        <syncfusion:SplineSeries Label="Post Dip For BLACK Pass" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="Pass3" />
+                        <syncfusion:SplineSeries Label="Top Coat-1 Silver" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="Pass4" />
+                        <syncfusion:SplineSeries Label="Top Coat-2 Black" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="Pass5" />
+
+                        <syncfusion:SplineSeries Label="Dryer 1" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="Dryer1" />
+                        <syncfusion:SplineSeries Label="Dryer 2" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="PurpleChrome" YBindingPath="Dryer2" />
+                        --><!--<syncfusion:SplineSeries  XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalTempTrend}" Palette="RedChrome" YBindingPath="isAllTemp" />-->
+                      
+                        <!--Initialize the series for SfChart--><!--                    
+                </syncfusion:SfChart>-->
+
+
+                    <chart:SfChart3D x:Name="RectifierChart3D"  Header="Chart" Visibility="{Binding RectifiervisibilityValue,UpdateSourceTrigger=PropertyChanged }" Grid.Row="2"  Margin="5" Foreground ="Black" BackWallBrush="White" >
+
+                        <!--PrimaryAxis-->
+                        <chart:SfChart3D.PrimaryAxis>
+                            <!--<chart:CategoryAxis3D LabelRotationAngle="90"/>-->
+                            <chart:CategoryAxis3D />
+                        </chart:SfChart3D.PrimaryAxis>
+                        
+                        <!--SecondaryAxis-->
+                        <chart:SfChart3D.SecondaryAxis>
+                            <chart:NumericalAxis3D/>
+                        </chart:SfChart3D.SecondaryAxis>
+                        
+                        <!--Legend-->
+                        <chart:SfChart3D.Legend>
+                            <chart:ChartLegend></chart:ChartLegend>
+                        </chart:SfChart3D.Legend>
+
+                        <chart:LineSeries3D Label="Anodic 1" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Anodic1ActualCurrent" ShowTooltip="True"   >
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="False"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Anodic 2" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Anodic2ActualCurrent" ShowTooltip="True"   >
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="False"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+                        
+                        <chart:LineSeries3D Label="Anodic 3" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="Anodic3ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 1" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn1ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 2" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn2ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 3" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn3ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 4" ItemsSource="{Binding NewHistoricalCurrentTrend,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn4ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 5" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn5ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 6" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn6ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 7" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn7ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 8" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn8ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 9" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn9ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 10" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn10ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 11" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn11ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 12" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn12ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 13" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn13ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 14" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn14ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 15" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn15ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 16" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn16ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 17" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn17ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+
+                        <chart:LineSeries3D Label="Alkaline Zinc 18" ItemsSource="{Binding NewHistoricalCurrentTrend ,UpdateSourceTrigger=PropertyChanged}" XBindingPath="TimeCol" YBindingPath="AlZn18ActualCurrent" ShowTooltip="True">
+                            <chart:LineSeries3D.AdornmentsInfo>
+                                <chart:ChartAdornmentInfo3D ShowLabel="True"></chart:ChartAdornmentInfo3D>
+                            </chart:LineSeries3D.AdornmentsInfo>
+                        </chart:LineSeries3D>
+                    </chart:SfChart3D>
+
+                    
+                
+                <!--<syncfusion:SfChart Height="auto" Visibility="{Binding RectifiervisibilityValue,UpdateSourceTrigger=PropertyChanged }" Grid.Row="2"  Margin="5" Foreground ="Black" Background="Transparent">
+                    <syncfusion:SfChart.PrimaryAxis>
+                            <syncfusion:CategoryAxis Header="Time" FontSize="14"/>
+                    </syncfusion:SfChart.PrimaryAxis> 
+                    
+                    <syncfusion:SfChart.SecondaryAxis>
+                            <syncfusion:NumericalAxis Header="Current"  FontSize="14"/>
+                    </syncfusion:SfChart.SecondaryAxis>
+                    
+                    <syncfusion:SfChart.Legend>
+                        <syncfusion:ChartLegend/>
+                    </syncfusion:SfChart.Legend>
+
+                        <syncfusion:SplineSeries Label="Anodic 1" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}"   YBindingPath="Anodic1ActualCurrent"  />
+                        <syncfusion:SplineSeries Label="Anodic 2" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" YBindingPath="Anodic2ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 1" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}"  Palette="GreenChrome" YBindingPath="AlZn1ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 2" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}"  YBindingPath="AlZn2ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 3" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}"  YBindingPath="AlZn3ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 4" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}"  YBindingPath="AlZn4ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 5" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" YBindingPath="AlZn5ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 6" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" YBindingPath="AlZn6ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 7" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" YBindingPath="AlZn7ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 8" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" YBindingPath="AlZn8ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 9" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="BlueChrome" YBindingPath="AlZn9ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 10" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn10ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 11" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn11ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 12" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn12ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 13" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn13ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 14" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn14ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 15" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn15ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 16" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn16ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 17" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn17ActualCurrent" />
+                        <syncfusion:SplineSeries Label="Alkaline Zinc 18" XBindingPath="DateTimeCol" ItemsSource="{Binding NewHistoricalCurrentTrend}" Palette="LightCandy" YBindingPath="AlZn18ActualCurrent" />
+                        
+                </syncfusion:SfChart>-->
+                
+            </Grid>
+        </TabItem>
+
+            
+            
+            <materialDesign:PopupBox  HorizontalAlignment="Center" PlacementMode="TopAndAlignCentres" Name="RectTrendBPopup"  StaysOpen="True"  Width="500" Height="400" IsPopupOpen="{Binding isOpenRectTrendBPopup}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="800*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <CheckBox Grid.Column="0"  Grid.Row="0" HorizontalAlignment="Left" Margin="10"  IsChecked="{Binding isAnodic1CurrentSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Anodic 1 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="1" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAnodic2CurrentSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Anodic 2 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="1" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAnodic3CurrentSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Anodic 3 Actual Current" />
+
+                    <CheckBox Grid.Column="0"  Grid.Row="2" HorizontalAlignment="Left" Margin="10"  IsChecked="{Binding isAlZn1Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn1 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="3" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn2Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn2 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="4" HorizontalAlignment="Left" Margin="10"  IsChecked="{Binding isAlZn3Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn3 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="5" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn4Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn4 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="6"  HorizontalAlignment="Left" Margin="10"  IsChecked="{Binding isAlZn5Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn5 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="7" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn6Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn6 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="8" HorizontalAlignment="Left" Margin="10"  IsChecked="{Binding isAlZn7Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn7 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="9" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn8Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn8 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="10" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn9Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn9 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="11" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn10Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn10 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="12" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn11Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn11 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="13" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn12Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn12 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="14" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn13Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn13 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="15" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn14Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn14 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="16" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn15Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn15 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="17" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn16Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn16 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="18" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn17Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn17 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="19" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAlZn18Selected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="AlZn18 Actual Current" />
+                    <CheckBox Grid.Column="0"  Grid.Row="20" HorizontalAlignment="Left"  Margin="10" IsChecked="{Binding isAll,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="All" />
+                    <Button BorderBrush="GreenYellow" Background="LightGray"  Style="{StaticResource HamburgerButtonStyle}" Command="{Binding  rectHistoryClick}" Grid.Column="0" Margin="5" Grid.Row="21" Content="{x:Static p:Resources.GenerateGraph}" ToolTip="{x:Static p:Resources.GenerateGraph}"  />
+
+
+                    <!--<TextBox Grid.Row="0" Grid.Column="0" TextWrapping="Wrap" VerticalAlignment="Stretch"  AcceptsReturn="True"
+                    VerticalScrollBarVisibility="Auto" SpellCheck.IsEnabled="True" MinWidth="400" MinHeight="300"
+                    materialDesign:HintAssist.Hint="Multiline text" Text="{Binding AlarmHelpText,UpdateSourceTrigger=PropertyChanged }">
+                    
+            </TextBox>-->
+
+                </Grid>
+            </materialDesign:PopupBox>
+
+            <materialDesign:PopupBox  HorizontalAlignment="Center" PlacementMode="TopAndAlignCentres" Name="TempTrendBPopup"  StaysOpen="True"  Width="500" Height="400" IsPopupOpen="{Binding isOpenTempTrendBPopup}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        
+                        <RowDefinition Height="400*"/>                        
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                        <RowDefinition Height="400*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="800*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <CheckBox Grid.Column="0"  Grid.Row="0" HorizontalAlignment="Left" Margin="5"  IsChecked="{Binding isSoakDegressingTempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Soak Cleaning 1" />
+                    <CheckBox Grid.Column="0"  Grid.Row="1" HorizontalAlignment="Left"  Margin="5" IsChecked="{Binding isAnodic1TempSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Soak Cleaning 2,3" />
+                    <CheckBox Grid.Column="0"  Grid.Row="2" HorizontalAlignment="Left" Margin="5"  IsChecked="{Binding isAnodic2TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Cascade Rinse 2" />
+                    <CheckBox Grid.Column="0"  Grid.Row="3" HorizontalAlignment="Left"  Margin="5" IsChecked="{Binding isAlkalineZinc1TempSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Anodic Cleaning 1" />
+                    <CheckBox Grid.Column="0"  Grid.Row="4" HorizontalAlignment="Left" Margin="5"  IsChecked="{Binding isAlkalineZinc2TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Anodic Cleaning 2" />
+                    <CheckBox Grid.Column="0"  Grid.Row="5" HorizontalAlignment="Left"  Margin="5" IsChecked="{Binding isAlkalineZinc3TempSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Anodic Cleaning 3" />
+                    <CheckBox Grid.Column="0"  Grid.Row="6"  HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isAlkalineZinc4TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 1,2" />
+                    <CheckBox Grid.Column="0"  Grid.Row="7" HorizontalAlignment="Left"  Margin="5" IsChecked="{Binding isAlkalineZinc5TempSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 3,4" />
+                    <CheckBox Grid.Column="0"  Grid.Row="8" HorizontalAlignment="Left" Margin="5"  IsChecked="{Binding isAlkalineZinc6TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 5,6" />
+                    <CheckBox Grid.Column="0"  Grid.Row="9" HorizontalAlignment="Left"  Margin="5" IsChecked="{Binding isAlkalineZinc7TempSelected,UpdateSourceTrigger=PropertyChanged }" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 7,8" />
+                    <CheckBox Grid.Column="0"  Grid.Row="10" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isAlkalineZinc8TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 9,10" />
+                   
+                    <CheckBox Grid.Column="0"  Grid.Row="11" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isAlkalineZinc9TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 11,12" />
+                    <CheckBox Grid.Column="0"  Grid.Row="12" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isPass1TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 13,14" />
+                    <CheckBox Grid.Column="0"  Grid.Row="13" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isPass2TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 15,16" />
+                    <CheckBox Grid.Column="0"  Grid.Row="14" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isPass3TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Alkaline Zinc 17,18" />
+                    <CheckBox Grid.Column="0"  Grid.Row="15" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isPass4TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Passivation 1" />
+                    <CheckBox Grid.Column="0"  Grid.Row="16" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isPass5TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Passivation 2" />
+                    <CheckBox Grid.Column="0"  Grid.Row="17" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isDryer1TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Passivation 3" />
+                    <CheckBox Grid.Column="0"  Grid.Row="18" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding isDryer2TempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Water Rinse" />
+                    <CheckBox Grid.Column="0"  Grid.Row="19" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding istemp20Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Top Coat 1" />
+                    <CheckBox Grid.Column="0"  Grid.Row="20" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding istemp21Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Top Coat 2" />
+                   
+                    <CheckBox Grid.Column="0"  Grid.Row="21" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding istemp22Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Top Coat 3" />
+                    <CheckBox Grid.Column="0"  Grid.Row="22" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding istemp23Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Dryer 1" />
+                    <CheckBox Grid.Column="0"  Grid.Row="23" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding istemp24Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Dryer 2" />
+                    <CheckBox Grid.Column="0"  Grid.Row="24" HorizontalAlignment="Left" Margin="5" IsChecked="{Binding istemp25Selected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="Dryer 3" />
+                 
+                    <CheckBox Grid.Column="0"  Grid.Row="25" HorizontalAlignment="Left" Margin="5"  IsChecked="{Binding isAllTempSelected,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource MaterialDesignLightCheckBox}" Content="All" />
+                    <Button BorderBrush="GreenYellow" Background="LightGray"  Style="{StaticResource HamburgerButtonStyle}" Command="{Binding  tempHistoryClick}" Grid.Column="0" Margin="10" Grid.Row="27" Content="{x:Static p:Resources.GenerateGraph}" ToolTip="{x:Static p:Resources.GenerateGraph}"  />
+
+
+                    <!--<TextBox Grid.Row="0" Grid.Column="0" TextWrapping="Wrap" VerticalAlignment="Stretch"  AcceptsReturn="True"
+                    VerticalScrollBarVisibility="Auto" SpellCheck.IsEnabled="True" MinWidth="400" MinHeight="300"
+                    materialDesign:HintAssist.Hint="Multiline text" Text="{Binding AlarmHelpText,UpdateSourceTrigger=PropertyChanged }">
+                    
+            </TextBox>-->
+
+                </Grid>
+            </materialDesign:PopupBox>
+
+ 
+            
+        </dragablz:TabablzControl>
+       
+
+    </Grid> 
+   
+</syncfusion:ChromelessWindow>

@@ -1,0 +1,12 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADATranslation.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADATranslation.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADAGlobalLibrary.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\bin\Release\IndiSCADAGlobalLibrary.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\obj\Release\IndiSCADATranslation.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\obj\Release\IndiSCADATranslation.csproj.CopyComplete
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\obj\Release\IndiSCADATranslation.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADATranslation\obj\Release\IndiSCADATranslation.pdb

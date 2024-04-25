@@ -1,0 +1,73 @@
+>> 2024-01-25 16:30:40 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 16:30:40 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 16:30:40 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 16:30:43 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-25 16:30:43 CommunicationWithPLC ProductionDataLog() Wagon1 Index was outside the bounds of the array. 
+>> 2024-01-25 16:30:43 CommunicationWithPLC ProductionDataLog() Wagon2 Index was outside the bounds of the array. 
+>> 2024-01-25 16:30:43 CommunicationWithPLC ProductionDataLog() Wagon3 Index was outside the bounds of the array. 
+>> 2024-01-25 16:30:43 CommunicationWithPLC ProductionDataLog() Wagon4 Index was outside the bounds of the array. 
+>> 2024-01-25 16:30:43 CommunicationWithPLC ProductionDataLog() Wagon5 Index was outside the bounds of the array. 
+>> 2024-01-25 16:30:43 CommunicationWithPLC ProductionDataLog() Wagon6 Index was outside the bounds of the array. 
+>> 2024-01-25 16:30:43 CommunicationWithPLC ProductionDataLog() Wagon7 Index was outside the bounds of the array. 
+>> 2024-01-25 16:31:50 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 16:31:50 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 16:31:50 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 16:31:53 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-25 16:31:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 16:31:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 16:31:53 HomeViewModel DoWork() ShiftCalculation() Input string was not in a correct format. 
+>> 2024-01-25 16:31:53 CommunicationWithPLCNew DoWork() Started True                 
+>> 2024-01-25 16:31:53 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-25 16:31:54 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 16:31:54 CommunicationWithPLC ProductionDataLog() Wagon5 Index was outside the bounds of the array. 
+>> 2024-01-25 16:31:54 CommunicationWithPLC ProductionDataLog() Wagon6 Index was outside the bounds of the array. 
+>> 2024-01-25 16:31:54 CommunicationWithPLC ProductionDataLog() Wagon7 Index was outside the bounds of the array. 
+>> 2024-01-25 17:26:34 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 18:39:20 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 18:39:20 IOTConnection()                                     
+>> 2024-01-25 18:42:12 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 18:42:12 IOTConnection()                                     
+>> 2024-01-25 18:42:36 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:42:36 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:42:39 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-25 18:42:40 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-25 18:42:40 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:42:40 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:42:40 CommunicationWithPLC ProductionDataLog() Wagon3 Index was outside the bounds of the array. 
+>> 2024-01-25 18:42:40 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:42:40 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:42:40 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:42:40 CommunicationWithPLCNew DoWork() Started True                 
+>> 2024-01-25 18:42:40 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-25 18:44:39 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 18:44:39 IOTConnection()                                     
+>> 2024-01-25 18:52:35 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 18:52:35 IOTConnection()                                     
+>> 2024-01-25 18:53:43 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:43 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:46 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-25 18:53:46 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-25 18:53:47 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-25 18:53:47 CommunicationWithPLC ProductionDataLog() Wagon1 Index was outside the bounds of the array. 
+>> 2024-01-25 18:53:47 CommunicationWithPLC ProductionDataLog() Wagon2 Index was outside the bounds of the array. 
+>> 2024-01-25 18:53:47 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:47 CommunicationWithPLC ProductionDataLog() Wagon3 Index was outside the bounds of the array. 
+>> 2024-01-25 18:53:47 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:47 CommunicationWithPLC ProductionDataLog() Wagon4 Index was outside the bounds of the array. 
+>> 2024-01-25 18:53:47 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:47 CommunicationWithPLC ProductionDataLog() Wagon5 Index was outside the bounds of the array. 
+>> 2024-01-25 18:53:47 CommunicationWithPLC ProductionDataLog() Wagon6 Index was outside the bounds of the array. 
+>> 2024-01-25 18:53:47 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:47 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:53:48 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-25 18:55:50 serverExcecuteNonQuery() before update Star_Live set Json_String ='[]' where Topic_Name = 'TPCurrentConsumption-StarFasteners' 
+>> 2024-01-25 18:55:50 serverExcecuteNonQuery()       Connection must be valid and open. 
+>> 2024-01-25 19:17:41 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-25 19:17:41 IOTConnection()                                     

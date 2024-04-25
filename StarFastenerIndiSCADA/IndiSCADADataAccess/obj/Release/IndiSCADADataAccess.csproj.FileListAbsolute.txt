@@ -1,0 +1,11 @@
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Release\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Release\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Release\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Release\IndiSCADAGlobalLibrary.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Release\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\bin\Release\IndiSCADAGlobalLibrary.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Release\IndiSCADADataAccess.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Release\IndiSCADADataAccess.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Release\IndiSCADADataAccess.csproj.CopyComplete
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Release\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADADataAccess\obj\Release\IndiSCADADataAccess.pdb

@@ -1,0 +1,175 @@
+2021-07-01 13:42:27		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:42:43		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:21		readDeviceBlock-Read system Device Block Error Tagname =D201	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:21		readDeviceRandom() h126.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:21		readDeviceBlock-Read system Device Block Error Tagname =D2201	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:23		readDeviceRandom() D92	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:24		readDeviceBlock-Read system Device Block Error Tagname =D221	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:24		readDeviceBlock-Read system Device Block Error Tagname =D2301	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:24		readDeviceBlock-Read system Device Block Error Tagname =	Input string was not in a correct format.
+2021-07-01 13:43:33		readDeviceRandom() h0.2	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:33		readDeviceBlock-Read system Device Block Error Tagname =D5161	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:33		readDeviceBlock-Read system Device Block Error Tagname =D241	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:33		readDeviceBlock-Read system Device Block Error Tagname =D5121	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceRandom() h0.2	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceBlock-Read system Device Block Error Tagname =D261	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceBlock-Read system Device Block Error Tagname =D5081	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceRandom() h71.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceRandom() h73.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceRandom() h75.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceRandom() h89.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceRandom() D5621	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:33		readDeviceRandom() D92	No reponse from PLC. Ensure baud rate is correct.
+2021-07-01 13:43:33		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D281	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D301	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D321	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceRandom() h0.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		ReadTag_RealValue()PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D3001	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		ReadTagValue()-PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:34		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:34		readDeviceRandom() h0.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D3181	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D3121	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D3061	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D5041	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D5401	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D5801	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D5001	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceRandom() h0.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:34		readDeviceRandom() h0.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceRandom() D807	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceRandom() h1.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceBlock-Read system Device Block Error Tagname =D3181	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceRandom() h0.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:34		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h0.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D3121	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h1.0	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2021-07-01 13:43:35		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() D807	The process cannot access the file 'E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADA-ST\bin\Debug\DriverErrorLog.log' because it is being used by another process.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D5161	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D3901	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D3061	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h3.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h121.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h123.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h127.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h125.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() D4001	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:35		ReadTag_RealValue()PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:35		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:35		readDeviceRandom() D4101	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:35		ReadTag_RealValue()PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:35		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:35		readDeviceRandom() h3.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D3651	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D3941	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D3921	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h3.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h5.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceBlock-Read system Device Block Error Tagname =D3601	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() D171	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() D62	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:36		readDeviceRandom() D1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:36		readDeviceRandom() D92	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() h5.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:35		readDeviceRandom() D3701	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:36		readDeviceRandom() h5.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:36		readDeviceRandom() h7.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:36		ReadTag_RealValue()Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:36		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:36		ReadTagValue()-PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:36		ReadTagValue()-PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:36		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:37		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:36		readDeviceRandom() h7.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:37		readDeviceRandom() h7.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:37		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:37		readDeviceRandom() h9.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:37		readDeviceRandom() D3901	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:37		readDeviceBlock-Read system Device Block Error Tagname =D3941	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:37		readDeviceRandom() h9.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:37		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		readDeviceRandom() h9.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		readDeviceBlock-Read system Device Block Error Tagname =D3921	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		readDeviceRandom() h1.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		readDeviceRandom() h11.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		readDeviceRandom() d1001	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		ReadTag_WordValue()-Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:38		ReadTag_WordValue()-PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:38		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:38		readDeviceRandom() d1037	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		ReadTag_WordValue()-Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:38		readDeviceRandom() h11.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		ReadTag_WordValue()-PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:38		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:38		readDeviceRandom() d1099	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:38		ReadTag_WordValue()-Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:38		ReadTag_WordValue()-PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:38		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:38		readDeviceRandom() d1117	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		ReadTag_WordValue()-Error in reading :	Object reference not set to an instance of an object.
+2021-07-01 13:43:39		readDeviceRandom() h11.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		ReadTagValue()-PLC Communication failed. Retrying to connect	
+2021-07-01 13:43:39		doConnect()-PLC IP and Port No-	192.168.250.1 9600
+2021-07-01 13:43:39		readDeviceRandom() h13.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h13.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h13.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h60.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h98.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h108.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h118.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h67.5	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:39		readDeviceRandom() h99.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:40		readDeviceRandom() h109.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:40		readDeviceRandom() h119.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:40		readDeviceRandom() h81.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:40		readDeviceRandom() H101.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:40		readDeviceRandom() h91.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:40		readDeviceRandom() h121.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:44		readDeviceRandom() h121.2	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:44		readDeviceRandom() h121.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:44		readDeviceRandom() h121.4	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.5	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.7	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.8	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.9	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.10	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.10	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.12	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.13	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.14	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:45		readDeviceRandom() h121.15	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:46		readDeviceRandom() h122.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:46		readDeviceRandom() h122.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:46		readDeviceRandom() h121.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:46		readDeviceRandom() h121.2	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:46		readDeviceRandom() h121.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:46		readDeviceRandom() h121.4	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:47		readDeviceRandom() h121.5	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:47		readDeviceRandom() h121.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:47		readDeviceRandom() h121.7	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:47		readDeviceRandom() h121.8	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h121.9	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h121.10	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h121.11	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h121.12	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h121.13	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h121.14	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h121.15	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h122.0	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h122.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h125.1	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h125.2	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h125.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h125.3	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h125.5	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h125.6	Send Buffer is full, may have lost communication.
+2021-07-01 13:43:48		readDeviceRandom() h125.7	Send Buffer is full, may have lost communication.

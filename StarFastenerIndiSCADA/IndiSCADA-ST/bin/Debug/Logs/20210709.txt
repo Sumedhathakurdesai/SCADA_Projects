@@ -1,0 +1,79 @@
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:39:00 CommunicationWithPLC PLCDateTimeSynch()                      
+>> 2021-07-09 11:39:00 CommunicationWithPLC ReadPLCTagValue()SystemInput IsPLCConnected is false 
+>> 2021-07-09 11:39:01 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:01 CommunicationWithPLC ReadPLCTagValue()SystemInput IsPLCConnected is false 
+>> 2021-07-09 11:39:01 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:01 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:39:01 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:01 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:39:01 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:01 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:39:02 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:02 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:39:02 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:02 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:39:02 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:02 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:39:02 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:02 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:39:02 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:39:46 CommunicationWithPLCNew DoWork() Started False                
+>> 2021-07-09 11:42:09 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2021-07-09 11:42:17 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:42:17 CommunicationWithPLC IntConvertion() Input string was not in a correct format. 
+>> 2021-07-09 11:42:21 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:42:35 CommunicationWithPLC UpdateLoadDipTime(Station 14) Error While inserting out of range values 
+>> 2021-07-09 11:42:37 HomeViewModel DoWork() ChemicalConsumptionSummary() startDate:2021-07-09 07:00:00 EndDate:2021-07-10 07:00:00                      
+>> 2021-07-09 11:42:55 HomeBusinessLogic GetSetCycleTime() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:42:56 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:42:57 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:25 CommunicationWithPLC ReadPLCTagValue()SystemInput IsPLCConnected is false 
+>> 2021-07-09 11:48:25 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:25 CommunicationWithPLC ReadPLCTagValue()SystemInput IsPLCConnected is false 
+>> 2021-07-09 11:48:25 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:25 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:48:25 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:25 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:48:25 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:25 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:48:25 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:25 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:48:25 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:25 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:48:26 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:26 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:48:26 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:48:26 CommunicationWithPLC ReadPLCTagValue()WagonAutoMan IsPLCConnected is false 
+>> 2021-07-09 11:48:26 OverviewLogic GetWagonStatus() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC WriteValuesArray() IsPLCConnected is false 
+>> 2021-07-09 11:49:00 CommunicationWithPLC PLCDateTimeSynch()                      
+>> 2021-07-09 11:49:02 CommunicationWithPLCNew DoWork() Started False                
+>> 2021-07-09 11:49:02 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2021-07-09 11:49:08 HomeViewModel DoWork() ChemicalConsumptionSummary() startDate:2021-07-09 07:00:00 EndDate:2021-07-10 07:00:00                      
+>> 2021-07-09 11:49:11 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:49:11 TrendDataLog ChemicalConsumption() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:49:14 CommunicationWithPLC UpdateLoadDipTime(Station 14) Error While inserting out of range values 
+>> 2021-07-09 11:52:15 HomeBusinessLogic GetSetCycleTime() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:52:15 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:52:32 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:54:33 HomeBusinessLogic GetActualCycleTime() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:54:34 HomeBusinessLogic GetSetCycleTime() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:54:37 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:54:39 AlarmAndEventDataLog For Lopp event() Object reference not set to an instance of an object. 
+>> 2021-07-09 11:54:37 HomeBusinessLogic GetAlarmTotalCount()                      
+>> 2021-07-09 11:54:40 OverviewLogic PlantStatus()    Object reference not set to an instance of an object. 

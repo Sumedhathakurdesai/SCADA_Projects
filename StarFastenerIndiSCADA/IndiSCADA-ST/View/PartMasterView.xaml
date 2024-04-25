@@ -1,0 +1,235 @@
+﻿<syncfusion:ChromelessWindow x:Class="IndiSCADA_ST.View.PartMasterView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IndiSCADA_ST.View"
+        mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+           xmlns:dotNetKitControls="clr-namespace:DotNetKit.Windows.Controls;assembly=DotNetKit.Wpf.AutoCompleteComboBox"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        TextElement.Foreground="WhiteSmoke"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="21"
+        xmlns:p = "clr-namespace:IndiSCADA_ST.Properties"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="Humanst521 Lt Bt"
+        Title="{x:Static p:Resources.PartMaster}"  Background="#FFFFFFFF" TitleBarHeight="40" TitleFontSize="17" WindowStyle="None" ResizeMode="NoResize"  TitleBarForeground="White" TitleBarBackground="#00786B"  Topmost="false" WindowStartupLocation="CenterScreen" WindowState="Maximized" >
+    <!--<Window.DataContext>
+        <Viewmodel:PartMasterViewModel/>
+    </Window.DataContext>-->
+    
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Closing">
+            <i:InvokeCommandAction Command="{Binding  Exit}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid>
+        <dragablz:TabablzControl Background="#EBFFFD"   >
+            <TabItem Header="{x:Static p:Resources.AddNewPartDetails}">
+                <Grid >
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#41A175" Offset="0"/>
+                            <GradientStop Color="Black" Offset="2"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="600*" />
+                        <RowDefinition Height="200*" />
+                        <RowDefinition Height="200*" />
+                    </Grid.RowDefinitions>
+                    <!--<DataGrid Grid.Row="0"   Margin="50" AutoGenerateColumns="True">
+
+                    </DataGrid>-->
+                    <syncfusion:SfDataGrid Name="dgAddNewPart" MouseMove="DgAddNewPart_MouseMove" Grid.Row="0" Margin="30" AllowEditing="True" AutoGenerateColumns="True" Background="LightYellow" HorizontalAlignment="Center" FontSize="14"  ItemsSource="{Binding dtNewPart,UpdateSourceTrigger=PropertyChanged}"  BorderBrush="Teal" ColumnSizer="Star"  HorizontalContentAlignment="Center" CurrentCellValidating="DgAddNewPart_CurrentCellValidating">
+
+                    </syncfusion:SfDataGrid>
+                    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.Row="1"  Orientation="Horizontal" Margin="0 8 0 0">
+                        <Button BorderBrush="GreenYellow" ToolTip="{x:Static p:Resources.Reset}" Background="Transparent"  VerticalContentAlignment="Center" Name="btnAddNewPart" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Click="BtnAddNewPart_Click">
+                            <Viewbox Width="24" Height="24">
+                                <Canvas Width="24" Height="24">
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 19,45.9167L 25.6082,45.9167C 28.6524,49.3179 33.0762,51.4583 38,51.4583C 42.9238,51.4583 47.3476,49.3179 50.3918,45.9167L 58.5833,45.9167L 58.5833,57L 19,57L 19,45.9167 Z M 56.2083,48.2917L 53.4374,48.2917L 53.4374,53.0417L 56.2083,53.0417L 56.2083,48.2917 Z M 39.5833,33.25L 30.0833,23.75L 39.5833,14.25L 39.5833,20.6703C 46.7082,21.4579 52.25,27.4985 52.25,34.8333C 52.25,42.7034 45.8701,49.0833 38,49.0833C 30.1299,49.0833 23.75,42.7034 23.75,34.8333C 23.75,32.0174 24.5668,29.3923 25.9763,27.1819L 30.6522,30.1575C 29.7908,31.5083 29.2917,33.1125 29.2917,34.8333C 29.2917,39.6428 33.1905,43.5417 38,43.5417C 42.8095,43.5417 46.7083,39.6428 46.7083,34.8333C 46.7083,30.5646 43.6368,27.0132 39.5833,26.2686L 39.5833,33.25 Z " Fill="WhiteSmoke"/>
+                                </Canvas>
+                            </Viewbox>
+                        </Button>
+
+                        <Button BorderBrush="GreenYellow" ToolTip="{x:Static p:Resources.SavePartDetails}" Background="Transparent" Grid.Row="7" VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Name="btnSave" Click="BtnSave_Click" >
+                            <Viewbox Width="24" Height="24">
+                                <Canvas Width="24" Height="24">
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 20.5833,20.5833L 55.4167,20.5833L 55.4167,55.4167L 45.9167,55.4167L 45.9167,44.3333L 30.0833,44.3333L 30.0833,55.4167L 20.5833,55.4167L 20.5833,20.5833 Z M 33.25,55.4167L 33.25,50.6667L 39.5833,50.6667L 39.5833,55.4167L 33.25,55.4167 Z M 26.9167,23.75L 26.9167,33.25L 49.0833,33.25L 49.0833,23.75L 26.9167,23.75 Z " Fill="WhiteSmoke"/>
+                                </Canvas>
+                            </Viewbox>
+                        </Button>
+                    </WrapPanel>
+                    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.Row="2"  Orientation="Horizontal" Margin="0 8 0 0">
+                        <Label Grid.Row="8" FontSize="16" VerticalContentAlignment="Center" HorizontalAlignment="Center" Foreground="Yellow" Name="lblSavePartMessage" Content=""></Label>
+                    </WrapPanel>
+                    
+                </Grid>
+            </TabItem>
+            <TabItem Header="{x:Static p:Resources.EditPartDetails}">
+                <Grid >
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#41A175" Offset="0"/>
+                            <GradientStop Color="Black" Offset="2"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="90*" />
+                        <RowDefinition Height="200*" />
+                        <RowDefinition Height="200*" />
+                        <RowDefinition Height="1100*" />
+                        <RowDefinition Height="250*" />
+                        <RowDefinition Height="90*" />
+                    </Grid.RowDefinitions>
+
+        
+              
+                        <WrapPanel  Grid.Row="1" Orientation="Horizontal" Margin="0 8 0 0" VerticalAlignment="Center" HorizontalAlignment="Center" >
+                        <Label Content="{x:Static p:Resources.SavePartDetails}"  BorderBrush="GreenYellow" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" Foreground="White" ></Label>
+                        <dotNetKitControls:AutoCompleteComboBox IsTextSearchEnabled="False" IsDropDownOpen="False" VerticalContentAlignment="Center"
+          StaysOpenOnEdit="True"
+          IsEditable="True" Foreground="Black" IsReadOnly="False" Background="LightYellow" Width="250" materialDesign:HintAssist.Foreground="GreenYellow" Margin="5" materialDesign:TextFieldAssist.UnderlineBrush="GreenYellow"  Height="50"   BorderBrush="Black" HorizontalContentAlignment="Left" materialDesign:HintAssist.Hint="Part Description List" ItemsSource="{Binding PartDescriptionList}" Name="cmbPartDescriptionlist" SelectionChanged="CmbPartDescriptionlist_SelectionChanged" KeyUp="CmbPartDescriptionlist_KeyUp" ></dotNetKitControls:AutoCompleteComboBox>
+                        </WrapPanel>
+
+                    <WrapPanel  Grid.Row="2" Orientation="Horizontal" Margin="0 8 0 0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <Label Content="{x:Static p:Resources.SelectPartNumber}"  BorderBrush="GreenYellow" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" Foreground="White" ></Label>
+                        <dotNetKitControls:AutoCompleteComboBox IsTextSearchEnabled="False" IsDropDownOpen="False" VerticalContentAlignment="Center"
+          StaysOpenOnEdit="True"
+          IsEditable="True" Foreground="Black" Width="250" IsReadOnly="False" Background="LightYellow" materialDesign:HintAssist.Foreground="GreenYellow" Margin="5" materialDesign:TextFieldAssist.UnderlineBrush="GreenYellow"  Height="50"   BorderBrush="Black" HorizontalContentAlignment="Left" materialDesign:HintAssist.Hint="Part List" ItemsSource="{Binding PartList}" Name="cmbPartlist"  SelectionChanged="CmbPartlist_SelectionChanged" KeyUp="CmbPartlist_KeyUp" ></dotNetKitControls:AutoCompleteComboBox>
+                        </WrapPanel>
+                
+                  
+                        <syncfusion:SfDataGrid Name="dgEditPart" Grid.Row="3" Margin="30" Grid.Column="0" AllowEditing="True" AutoGenerateColumns="True" Background="LightYellow" HorizontalAlignment="Center" FontSize="14"  ItemsSource="{Binding dtEditPart,UpdateSourceTrigger=PropertyChanged}"  BorderBrush="Teal" ColumnSizer="Star"  HorizontalContentAlignment="Center" GridValidationMode="InView" CurrentCellValidating="DgEditPart_CurrentCellValidating">
+                           
+                        </syncfusion:SfDataGrid>
+         
+                    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.Row="4"  Orientation="Horizontal" Margin="0 8 0 0">
+
+
+                        <Button BorderBrush="GreenYellow" ToolTip="{x:Static p:Resources.UpdatePart}" Background="Transparent" Grid.Row="8" VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Name="btnUpdate" Click="BtnUpdate_Click" >
+                            <Viewbox Width="24" Height="24">
+                                <Canvas Width="24" Height="24">
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 48,30L 55.75,30L 48,22.25L 48,30 Z M 57,33L 44,33L 44,21L 29,21L 29,31.25L 25,27.25L 25,17L 48.25,17L 61,29.75L 61,59L 25,59L 25,41.75L 29,45.75L 29,55L 57,55L 57,33 Z M 24.5417,28.5L 39.5833,43.5417L 34.0417,49.0833L 19,34.0417L 24.5417,28.5 Z M 17.8125,32.8542L 14.6458,30.314C 13.6303,29.2984 14.0262,27.1405 15.0417,26.125L 16.625,24.5417C 17.6405,23.5262 19.5678,23.1303 20.5833,24.1459L 23.3541,27.3126L 17.8125,32.8542 Z M 41.9715,52.25L 35.2292,50.2709L 40.7708,44.7292L 42.6216,51.5999L 41.9715,52.25 Z" Fill="WhiteSmoke"/>
+                                </Canvas>
+                            </Viewbox>
+                        </Button>
+                    </WrapPanel>
+                    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.Row="9"  Orientation="Horizontal" Margin="0 8 0 0">
+
+                            <Label Grid.Row="8" FontSize="16" VerticalContentAlignment="Center" HorizontalAlignment="Center" Foreground="Yellow" Name="lblUpdatePartMessage" Content=""></Label>
+                    </WrapPanel>
+
+                        <!--<Button BorderBrush="GreenYellow" ToolTip="Hanger Type Setting Master" Background="Transparent"   VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Name="btnHangerType" Click="BtnHangerType_Click" >
+                            <Viewbox Width="24" Height="24">
+                                <Canvas Width="24" Height="24">
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M0 0L0 100L100 100L100 0L0 0z" Fill="#FFFFFF"/>
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M40 4.46451C8.49482 10.1448 -5.80511 48.783 10.4676 75C20.924 91.8464 40.9098 98.9774 60 95.5355C91.5052 89.8552 105.805 51.217 89.5324 25C79.076 8.15361 59.0903 1.02258 40 4.46451z" Fill="#000000"/>
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M41 9.51775C35.7492 10.6377 30.4055 13.0118 26 16.0548C6.42877 29.5731 3.25297 58.9394 18.3287 76.9961C27.885 88.4421 44.4874 93.5785 59 90.4823C64.2406 89.3642 69.5569 86.8543 74 83.8951C93.761 70.7338 96.6368 40.7725 81.6744 23.0039C71.9639 11.4721 55.7059 6.3812 41 9.51775z" Fill="#FFFFFF"/>
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M48 34L48 48L34 48L34 52L48 52L48 66L52 66L52 52L66 52L66 48L52 48L52 34L48 34z" Fill="#000000"/>
+                                </Canvas>
+                            </Viewbox>
+                        </Button>-->
+                  
+                </Grid>
+            </TabItem>
+            <TabItem Header="{x:Static p:Resources.ShowAllParts}">
+                <Grid >
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#41A175" Offset="0"/>
+                            <GradientStop Color="Black" Offset="2"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="370*" />
+                        <RowDefinition Height="600*" />
+                        <RowDefinition Height="110*" />
+                        <RowDefinition Height="90*" />
+                    </Grid.RowDefinitions>
+
+                    <!--<DataGrid Grid.Row="0"   Margin="20" Grid.RowSpan="2" Name="dgAllParts" ItemsSource="{Binding dtDisplayParts,UpdateSourceTrigger=PropertyChanged}"></DataGrid>-->
+                    <syncfusion:SfDataGrid Name="dgDisplayParts" Grid.Row="0" Margin="20" Grid.RowSpan="2" AutoGenerateColumns="True" Background="LightYellow" HorizontalAlignment="Center" SelectedItem="{Binding SelectedPart}" FontSize="14"  ItemsSource="{Binding dtDisplayParts,UpdateSourceTrigger=PropertyChanged}"  BorderBrush="Teal" ColumnSizer="SizeToHeader" HorizontalContentAlignment="Center">
+                      
+                      
+                    </syncfusion:SfDataGrid>
+                    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.Row="2"  Orientation="Horizontal" Margin="0 5 0 0">
+                        <Button BorderBrush="GreenYellow" ToolTip="{x:Static p:Resources.DeletePart}" Background="Transparent"  VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Name="btnDelete" Click="BtnDelete_Click" >
+                            <Viewbox Width="24" Height="24">
+                                <Canvas Width="24" Height="24">
+                                    <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 25.3333,23.75L 50.6667,23.75C 51.5411,23.75 51.8541,27.3125 51.8541,27.3125L 24.1458,27.3125C 24.1458,27.3125 24.4589,23.75 25.3333,23.75 Z M 35.625,19.7917L 40.375,19.7917C 40.8122,19.7917 41.9583,20.9378 41.9583,21.375C 41.9583,21.8122 40.8122,22.9584 40.375,22.9584L 35.625,22.9584C 35.1878,22.9584 34.0416,21.8122 34.0416,21.375C 34.0416,20.9378 35.1878,19.7917 35.625,19.7917 Z M 27.7083,28.5L 48.2916,28.5C 49.1661,28.5 49.875,29.2089 49.875,30.0834L 48.2916,53.8334C 48.2916,54.7078 47.5828,55.4167 46.7083,55.4167L 29.2917,55.4167C 28.4172,55.4167 27.7083,54.7078 27.7083,53.8334L 26.125,30.0834C 26.125,29.2089 26.8339,28.5 27.7083,28.5 Z M 30.0833,31.6667L 30.4792,52.25L 33.25,52.25L 32.8542,31.6667L 30.0833,31.6667 Z M 36.4167,31.6667L 36.4167,52.25L 39.5833,52.25L 39.5833,31.6667L 36.4167,31.6667 Z M 43.1458,31.6667L 42.75,52.25L 45.5208,52.25L 45.9167,31.6667L 43.1458,31.6667 Z " Fill="WhiteSmoke"/>                                    
+                                </Canvas>
+                            </Viewbox>
+                        </Button>
+                    </WrapPanel>
+                    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.Row="3"  Orientation="Horizontal" Margin="0 5 0 0">
+                        <Label Grid.Row="3" FontSize="16" VerticalContentAlignment="Center" HorizontalAlignment="Center" Foreground="Yellow" Name="lblDeletePartMessage" Content=""></Label>
+                    </WrapPanel>
+                    
+                </Grid>
+            </TabItem>
+          
+        </dragablz:TabablzControl>
+   
+        
+        
+        <Popup Name="HangerTypePopUp"  IsOpen ="False"  Placement="Center" 
+         AllowsTransparency = "True" PopupAnimation = "Slide" Height="400" Width="500">
+            <Grid  HorizontalAlignment="Center" VerticalAlignment="Center" Opacity="48.5" >
+                <Grid.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#41A175" Offset="0"/>
+                        <GradientStop Color="Black" Offset="2"/>
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <!--<ColumnDefinition Width="*" />-->
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="31" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="70*" />
+                </Grid.RowDefinitions>
+                <Label Height="31"  FontFamily="Humanst521 Lt B"  HorizontalContentAlignment="Center" Content="Hangertype Master List"  Grid.Column="0" Foreground="Yellow" HorizontalAlignment="Center"   Grid.Row="0" FontWeight="Bold" ></Label>
+                <Button FontFamily="Humanst521 Lt B" Name="btnPopupClose"  Content="X" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center"  Height="31" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right" Margin="129,0,0,0"  VerticalAlignment="Top" Width="46" Click="BtnPopupClose_Click"   />
+                <!--<TextBox Foreground="Black" materialDesign:HintAssist.Foreground="GreenYellow" Margin="5" materialDesign:TextFieldAssist.UnderlineBrush="GreenYellow"   BorderBrush="WhiteSmoke" HorizontalContentAlignment="Left" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  materialDesign:HintAssist.Hint="Hanger Type" Grid.Column="0" Grid.Row="1"  Text="{Binding NextloadSetting.ParameterName, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=True}"></TextBox>
+                <TextBox Foreground="Black" materialDesign:HintAssist.Foreground="GreenYellow" Margin="5" materialDesign:TextFieldAssist.UnderlineBrush="GreenYellow"   BorderBrush="WhiteSmoke" HorizontalContentAlignment="Left" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  materialDesign:HintAssist.Hint="Part Quantity" Grid.Column="0" Grid.Row="2" Text="{Binding NextloadSetting.Unit, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, ValidatesOnExceptions=True}" ></TextBox>-->
+                <syncfusion:SfDataGrid Name="dgHangerTypes" Foreground="Black"  Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" Margin="20" Grid.RowSpan="4" AutoGenerateColumns="True" CurrentCellValidated="DgHangerTypes_CurrentCellValidated" Background="LightYellow" HorizontalAlignment="Center" SelectedItem="{Binding SelectedPart}" FontSize="14"  ItemsSource="{Binding dtHangerTypes,UpdateSourceTrigger=PropertyChanged}"  BorderBrush="Teal" ColumnSizer="Star" AllowEditing="True" AddNewRowPosition="Bottom" HorizontalContentAlignment="Center">
+                </syncfusion:SfDataGrid>
+
+                <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0 8 0 0">
+                    <Button BorderBrush="GreenYellow" ToolTip="Update HangerType" Background="Transparent" Grid.Row="7" VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Name="btnUpdateHanger" Click="BtnUpdateHanger_Click" >
+                        <Viewbox Width="24" Height="24">
+                            <Canvas Width="24" Height="24">
+                                <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="F1 M 53.2929,21.2929L 54.7071,22.7071C 56.4645,24.4645 56.4645,27.3137 54.7071,29.0711L 52.2323,31.5459L 44.4541,23.7677L 46.9289,21.2929C 48.6863,19.5355 51.5355,19.5355 53.2929,21.2929 Z M 31.7262,52.052L 23.948,44.2738L 43.0399,25.182L 50.818,32.9601L 31.7262,52.052 Z M 23.2409,47.1023L 28.8977,52.7591L 21.0463,54.9537L 23.2409,47.1023 Z M 17,28L 17,23L 23,23L 23,17L 28,17L 28,23L 34,23L 34,28L 28,28L 28,34L 23,34L 23,28L 17,28 Z " Fill="WhiteSmoke"/>
+                            </Canvas>
+                        </Viewbox>
+                    </Button>
+                    <Button BorderBrush="GreenYellow" ToolTip="Delete Part" Background="Transparent"  VerticalContentAlignment="Center" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionButton}" Margin="0 0 8 8" Name="btnDeleteHangerType" Click="BtnDeleteHangerType_Click" >
+                        <Viewbox Width="24" Height="24">
+                            <Canvas Width="24" Height="24">
+                                <!--<Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M0 0L0 100L100 100L100 0L0 0z" Fill="#ffffff"/>-->
+                                <!--<Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M18 12L12 18C17.9107 26.1197 25.9122 32.906 33 40C35.4405 42.4426 40.7006 46.1583 40.7006 50C40.7006 57.2384 23.8735 69.0582 19.0044 74C16.4308 76.6119 11.2789 80.7825 14.5135 84.7423C18.3155 89.3965 23.1948 83.7596 26 80.9956C30.9418 76.1265 42.7616 59.2994 50 59.2994C55.4256 59.2994 62.4585 69.4585 66 73L73 79.9991C75.7185 82.7027 90.9459 90.9269 86.0667 79.9991C82.6001 72.2349 71.9602 64.9797 66.0003 59C63.6233 56.6151 58.4879 52.9175 59.4347 49C61.3426 41.1058 75.3839 31.6955 80.9956 26C83.5131 23.445 88.748 19.2158 85.4865 15.3394C81.66 10.7915 76.8144 16.2381 74 19.005C69.0487 23.8727 57.2451 40.7006 50 40.7006C46.1583 40.7006 42.4426 35.4405 40 33C32.906 25.9122 26.1196 17.9107 18 12z" Fill="#010101"/>-->
+                                <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M35 18.562C31.8422 19.2921 29.181 22.8309 27 25.0009C24.3311 27.6564 18.4347 31.8176 18.4347 36C18.4347 39.8812 23.5358 43.5314 26.0001 46L48 68C50.858 70.8581 58.7017 76.298 57.5653 81C53.4416 98.0624 22.5262 105.855 18.562 123C17.1782 128.985 33.2718 144.062 39 140.486C50.1189 133.547 59.7337 120.265 69 111C71.7063 108.294 76.5346 101.355 81 102.435C91.1866 104.897 104.621 124.622 112 132C114.904 134.904 120.218 142.544 125 141.438C128.158 140.708 130.819 137.169 133 134.999C135.669 132.344 141.565 128.182 141.565 124C141.565 120.119 136.464 116.469 134 114L112 92C109.142 89.1419 101.298 83.702 102.435 79C106.558 61.9376 137.474 54.1451 141.438 37C142.822 31.0149 126.728 15.9383 121 19.5135C109.881 26.4533 100.266 39.7353 91 49C88.2936 51.7059 83.4654 58.6445 79 57.5653C68.8134 55.1034 55.3791 35.3784 48 28C45.0962 25.0965 39.7818 17.4564 35 18.562z" Fill="#010101"/>
+                                <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M35 25.562C30.8789 26.5149 23.9449 33.5221 25.9333 38C31.0682 49.5642 48.0668 61.059 57 70C59.5465 72.5487 65.5817 76.7945 64.5653 81C62.8122 88.2536 50.1776 96.8224 45 102L34 113C31.3343 115.667 25.4347 119.81 25.4347 124C25.4347 128.508 33.4806 136.074 38 134.067C49.2152 129.087 60.3352 112.663 69 104C71.7063 101.294 76.5346 94.3555 81 95.4347C91.1866 97.8966 104.621 117.622 112 125C114.904 127.903 120.218 135.544 125 134.438C129.121 133.485 136.055 126.478 134.067 122C128.932 110.436 111.933 98.941 103 90C100.453 87.4513 94.4183 83.2055 95.4347 79C97.1878 71.7464 109.822 63.1776 115 58L126 47C128.666 44.3331 134.565 40.1902 134.565 36C134.565 31.4922 126.519 23.9265 122 25.9333C110.785 30.9132 99.6648 47.3367 91 56C88.2936 58.7059 83.4654 65.6445 79 64.5653C68.8134 62.1034 55.3791 42.3784 48 35C45.0963 32.0965 39.7817 24.4563 35 25.562z" Fill="#ffffff"/>
+                                <Path Width="24.6667" Height="24.75" Canvas.Left="1.6667" Canvas.Top="1.4167" Stretch="Fill" Data="M36 30L36 34L40 34L40 30L36 30M120 30L120 34L124 34L124 30L120 30M42 36L42 40L46 40L46 36L42 36M114 36L114 40L118 40L118 36L114 36M48 42L48 46L52 46L52 42L48 42M108 42L108 46L112 46L112 42L108 42M54 48L54 52L58 52L58 48L54 48M102 48L102 52L106 52L106 48L102 48M60 54L60 58L64 58L64 54L60 54M96 54L96 58L100 58L100 54L96 54M66 60L66 64L70 64L70 60L66 60M90 60L90 64L94 64L94 60L90 60M72 66L72 70L76 70L76 66L72 66M84 66L84 70L88 70L88 66L84 66M78 72L78 76L82 76L82 72L78 72M64 86L64 90L68 90L68 86L64 86M92 86L92 90L96 90L96 86L92 86M58 92L58 96L62 96L62 92L58 92M98 92L98 96L102 96L102 92L98 92M52 98L52 102L56 102L56 98L52 98M104 98L104 102L108 102L108 98L104 98M46 104L46 108L50 108L50 104L46 104M110 104L110 108L114 108L114 104L110 104M40 110L40 114L44 114L44 110L40 110M116 110L116 114L120 114L120 110L116 110M34 116L34 120L38 120L38 116L34 116M122 116L122 120L126 120L126 116L122 116M28 122L28 126L32 126L32 122L28 122M128 122L128 126L132 126L132 122L128 122z" Fill="#010101"/>
+
+                            </Canvas>
+                        </Viewbox>
+                    </Button>
+                </WrapPanel>
+            </Grid>
+        </Popup>
+    </Grid>
+</syncfusion:ChromelessWindow>

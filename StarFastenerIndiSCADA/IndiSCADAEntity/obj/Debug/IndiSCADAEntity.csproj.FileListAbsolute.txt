@@ -1,0 +1,247 @@
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\bin\Debug\Syncfusion.Licensing.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CopyComplete
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\bin\Debug\Syncfusion.Licensing.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CopyComplete
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\bin\Debug\Syncfusion.Licensing.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csprojAssemblyReference.cache
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CopyComplete
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\bin\Debug\Syncfusion.Licensing.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CopyComplete
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.AssemblyReference.cache
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\Syncfusion.Licensing.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CopyComplete
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.AssemblyReference.cache
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CoreCompileInputs.cache
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\bin\Debug\Syncfusion.Licensing.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADAEntity\obj\Debug\IndiSCADAEntity.csproj.CopyComplete

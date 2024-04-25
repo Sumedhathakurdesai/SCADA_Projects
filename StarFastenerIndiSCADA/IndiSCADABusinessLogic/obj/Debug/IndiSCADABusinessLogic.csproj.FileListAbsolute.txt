@@ -1,0 +1,1421 @@
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Projects\WPF IndiSCADA\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Projects\SCADA\Ps Global\OshoTools Wpf\Source Code\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+H:\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\OSHOTools\OshoTools Wpf\Final_Merge\OshoFinal\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Abilities SCADA\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\IndiSCADAWPF_Master\SCADA\IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\Project\Dham Fasteners\SCADA\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Projects\SCADA\A1_Pollutech\Dham Fastners\DhamSCADA_Final\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+G:\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+G:\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+G:\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+G:\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+G:\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+G:\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+C:\Users\Protevec\Desktop\samruddhi\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 BACKUP\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\after partmaster update larm time\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham Fasteners\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham backup with multiple exe logic\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Dham final\Dham Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+C:\samruddhi\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+C:\samruddhi\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\Metaforge\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\metaforge updated\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\Project\1 FINAL WORKING BACKUPS\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\metaforgeLatestDashboard\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Metaforge Backups\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Metaforge\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bhagwan\Metaforge\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Bhagwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running Bhagwan\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running bghwan\Running Bhagwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Running bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bghwan\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bghwan with Trend and Summary Popup\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MitsubishiComm.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\samruddhi\Bhagwan\Bghwan with Trend, Summary popup and database creation\Bhagwan\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.pdb
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.xml
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\New with Omron conn\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.pdb
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.xml
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Trend\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.xml
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\samruddhi\Star Fastener\Running Star Fasteners\Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\1 PROTOVEC PROJECT\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\STAR FASTENERS\Star Fastener\Running Star Fasteners\Star Fasteners\SCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\netstandard.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Google.Protobuf.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ZstdSharp.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\BouncyCastle.Cryptography.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Memory.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Security.Permissions.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Text.Json.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Buffers.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\K4os.Compression.LZ4.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\K4os.Hash.xxHash.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Numerics.Vectors.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Text.Encodings.Web.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Google.Protobuf.pdb
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Google.Protobuf.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\BouncyCastle.Cryptography.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Memory.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Security.Permissions.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Text.Json.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Buffers.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\K4os.Compression.LZ4.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\K4os.Hash.xxHash.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Numerics.Vectors.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\System.Text.Encodings.Web.xml
+E:\New folder (3)\New folder\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.xml
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\log4net.dll
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\log4net.xml
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll.config
+D:\Project\Star Fasteners\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll.config
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll.config
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\log4net.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll.config
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.xml
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csprojAssemblyReference.cache
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+F:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.AssemblyReference.cache
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll.config
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\log4net.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll.config
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.xml
+E:\SCADA Projects\StarFastener\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll.config
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\log4net.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll.config
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.xml
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.AssemblyReference.cache
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+D:\projects\StarFastners_22_03_2024\IndiiScada\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll.config
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADABusinessLogic.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\OmronComm.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\log4net.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\M2Mqtt.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedLogging.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\AdvancedHMIDrivers.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\DeviceCommunication.dll.config
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\ErrorLogger.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADADataAccess.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAEntity.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADAGlobalLibrary.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\IndiSCADATranslation.pdb
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\bin\Debug\MySql.Data.xml
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.AssemblyReference.cache
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CoreCompileInputs.cache
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.csproj.CopyComplete
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.dll
+E:\SCADA Projects\StarFastener\Running SCADA\StarFastener_IndiSCADA\IndiSCADA\IndiSCADABusinessLogic\obj\Debug\IndiSCADABusinessLogic.pdb

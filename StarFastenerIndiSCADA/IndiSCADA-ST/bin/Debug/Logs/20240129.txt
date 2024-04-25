@@ -1,0 +1,998 @@
+>> 2024-01-29 10:30:37 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 10:30:37 IOTConnection()                                     
+>> 2024-01-29 10:34:03 OpenConnection()               Closed               
+>> 2024-01-29 10:34:03 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:03 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:06 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-29 10:34:06 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 10:34:06 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 10:34:06 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:06 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:06 CommunicationWithPLC ProductionDataLog() Wagon3 Index was outside the bounds of the array. 
+>> 2024-01-29 10:34:06 CommunicationWithPLC ProductionDataLog() Wagon4 Index was outside the bounds of the array. 
+>> 2024-01-29 10:34:06 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:06 CommunicationWithPLC ProductionDataLog() Wagon5 Index was outside the bounds of the array. 
+>> 2024-01-29 10:34:06 CommunicationWithPLC ProductionDataLog() Wagon6 Index was outside the bounds of the array. 
+>> 2024-01-29 10:34:06 CommunicationWithPLC ProductionDataLog() Wagon7 Index was outside the bounds of the array. 
+>> 2024-01-29 10:34:07 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:07 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:07 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:08 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:08 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:08 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:08 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:34:08 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:46:44 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 10:46:44 IOTConnection()                                     
+>> 2024-01-29 10:47:21 OpenConnection()               The option 'IntegratedSecurity' is not currently supported. 
+>> 2024-01-29 10:47:21 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:22 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:25 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-29 10:47:25 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 10:47:25 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 10:47:25 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:25 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:25 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:25 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:25 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:25 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:25 CommunicationWithPLC ProductionDataLog() Wagon6 Index was outside the bounds of the array. 
+>> 2024-01-29 10:47:25 CommunicationWithPLC ProductionDataLog() Wagon7 Index was outside the bounds of the array. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:47:26 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 10:51:18 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 10:51:18 IOTConnection()                                     
+>> 2024-01-29 11:02:50 OpenConnection()               The type initializer for 'MySql.Data.MySqlClient.MySqlPoolManager' threw an exception. 
+>> 2024-01-29 11:02:50 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:50 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:53 CommunicationWithPLC ProductionDataLog() Wagon1 Index was outside the bounds of the array. 
+>> 2024-01-29 11:02:53 CommunicationWithPLC ProductionDataLog() Wagon2 Index was outside the bounds of the array. 
+>> 2024-01-29 11:02:53 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:53 CommunicationWithPLC ProductionDataLog() Wagon4 Index was outside the bounds of the array. 
+>> 2024-01-29 11:02:53 CommunicationWithPLC ProductionDataLog() Wagon5 Index was outside the bounds of the array. 
+>> 2024-01-29 11:02:53 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:53 CommunicationWithPLCNew DoWork() Started True                 
+>> 2024-01-29 11:02:53 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:02:55 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:55 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:55 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:55 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:55 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:55 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:55 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:02:55 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:03:00 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:03:01 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:03:01 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:03:30 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 11:03:30 IOTConnection()                                     
+>> 2024-01-29 11:12:08 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 11:12:08 IOTConnection()                                     
+>> 2024-01-29 11:13:15 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 11:13:16 IOTConnection()                                     
+>> 2024-01-29 11:18:30 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 11:18:30 IOTConnection()                                     
+>> 2024-01-29 11:18:30 ConnectDatabaseServer() error  The type initializer for 'IndiSCADAGlobalLibrary.SQLHelper' threw an exception. 
+>> 2024-01-29 11:18:31 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:31 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:33 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-29 11:18:33 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:18:33 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:33 CommunicationWithPLC ProductionDataLog() Wagon1 Index was outside the bounds of the array. 
+>> 2024-01-29 11:18:33 CommunicationWithPLC ProductionDataLog() Wagon2 Index was outside the bounds of the array. 
+>> 2024-01-29 11:18:33 CommunicationWithPLC ProductionDataLog() Wagon3 Index was outside the bounds of the array. 
+>> 2024-01-29 11:18:33 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:33 CommunicationWithPLC ProductionDataLog() Wagon5 Index was outside the bounds of the array. 
+>> 2024-01-29 11:18:33 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:33 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:34 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:35 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:35 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:35 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:35 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:35 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:35 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:35 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:36 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:37 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:38 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:39 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:40 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:41 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:42 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:43 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:44 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:46 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:47 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:48 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:49 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:50 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:51 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:52 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:53 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:54 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:55 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:55 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:55 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:55 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:55 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:56 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:57 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:58 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:18:59 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:00 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:00 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:00 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:00 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:01 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:02 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:03 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:04 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:05 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:06 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:07 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:08 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:09 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:10 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:10 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:10 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:10 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:10 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:10 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:10 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:11 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:11 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:12 CommunicationWithPLCNew DoWork() Started True                 
+>> 2024-01-29 11:19:12 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:12 CommunicationWithPLC DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationWithPLC.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationWithPLC.cs:line 906 
+>> 2024-01-29 11:19:12 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 CommunicationWithPLC DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationWithPLC.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationWithPLC.cs:line 906 
+>> 2024-01-29 11:19:13 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:13 CommunicationWithPLC DivideBy method                      
+>> 2024-01-29 11:19:13 CommunicationWithPLC DivideBy method                      
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:14 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:14 CommunicationWithPLCNew DoWork() Started True                 
+>> 2024-01-29 11:19:14 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:15 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:15 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:15 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:15 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:15 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:15 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:15 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:15 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:15 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:15 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:15 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:15 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:15 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:15 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:15 CommunicationWithPLC DoWork() getConnectionStatus IsPLCConnected==false False                
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHActual IsPLCConnected is false 
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHHighsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHLowsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStep IsPLCConnected is false 
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStation IsPLCConnected is false 
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew ReadPLCTagValue()WagonMovement IsPLCConnected is false 
+>> 2024-01-29 11:19:15 CommunicationWithPLC DoWork() getConnectionStatus readed False                      
+>> 2024-01-29 11:19:15 CommunicationWithPLCNew ReadPLCTagValue()CYCLETIMESETCYCLETIME IsPLCConnected is false 
+>> 2024-01-29 11:19:15 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:15 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ReadPLCTagValues() PLC communication failed. 
+>> 2024-01-29 11:19:16 CommunicationWithPLCNew DoWork() Started False                
+>> 2024-01-29 11:19:16 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:16 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:16 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:16 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:16 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:16 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:16 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:16 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:17 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:17 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:17 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:17 CommunicationWithPLC DoWork() getConnectionStatus IsPLCConnected==false False                
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHHighsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHLowsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStep IsPLCConnected is false 
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStation IsPLCConnected is false 
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew ReadPLCTagValue()WagonMovement IsPLCConnected is false 
+>> 2024-01-29 11:19:17 CommunicationWithPLCNew ReadPLCTagValue()CYCLETIMESETCYCLETIME IsPLCConnected is false 
+>> 2024-01-29 11:19:17 CommunicationWithPLC DoWork() getConnectionStatus readed False                      
+>> 2024-01-29 11:19:17 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ReadPLCTagValues() PLC communication failed. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-29 11:19:18 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:18 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:18 CommunicationWithPLCNew DoWork() Started True                 
+>> 2024-01-29 11:19:18 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:19 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:19 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:19 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:19 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:19 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:19 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:20 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:20 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:20 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:20 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:20 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:20 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:20 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:20 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:20 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:20 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:20 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:21 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:21 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLCNew DoWork() Started False                
+>> 2024-01-29 11:19:21 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:21 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:21 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:21 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:21 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:21 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:21 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:22 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:22 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:22 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:23 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:23 CommunicationWithPLC DoWork() getConnectionStatus IsPLCConnected==false False                
+>> 2024-01-29 11:19:23 CommunicationWithPLC DoWork() getConnectionStatus readed False                      
+>> 2024-01-29 11:19:23 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:23 CommunicationWithPLC ReadPLCTagValues() PLC communication failed. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-29 11:19:24 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLCNew DoWork() Started True                 
+>> 2024-01-29 11:19:24 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:24 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:24 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:24 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:25 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:25 CommunicationWithPLC DoWork() getConnectionStatus IsPLCConnected==false False                
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHHighsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHLowsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStep IsPLCConnected is false 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStation IsPLCConnected is false 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew ReadPLCTagValue()WagonMovement IsPLCConnected is false 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew ReadPLCTagValue()CYCLETIMESETCYCLETIME IsPLCConnected is false 
+>> 2024-01-29 11:19:25 CommunicationWithPLC DoWork() getConnectionStatus readed False                      
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ReadPLCTagValues() PLC communication failed. 
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew DoWork() Started False                
+>> 2024-01-29 11:19:25 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:25 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:25 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:25 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:25 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:25 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:25 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:25 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon5 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:25 CommunicationWithPLC ProductionDataLog() Wagon7 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:26 CommunicationWithPLC DoWork() Started True                 
+>> 2024-01-29 11:19:26 CommunicationWithPLC DoWork() getConnectionStatus IsPLCConnected==false False                
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()RectifierCalculatedCurrentOrAutoCurrent IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()RectifierManualCurrent IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHActual IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew DivideBy method System.NullReferenceException: Object reference not set to an instance of an object.
+   at DeviceCommunication.CommunicationNew.DivideBy(String[] SourceValue, Int32 devidefactor) in D:\Project\Star Fasteners\IndiSCADA\DeviceCommunication\CommunicationNew.cs:line 412 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHHighsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()pHMeterpHLowsetPoint IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStep IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()WagaonNextStation IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()WagonMovement IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew ReadPLCTagValue()CYCLETIMESETCYCLETIME IsPLCConnected is false 
+>> 2024-01-29 11:19:26 CommunicationWithPLC ProductionDataLog() Wagon1 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:26 CommunicationWithPLC ProductionDataLog() Wagon2 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:26 CommunicationWithPLC ProductionDataLog() Wagon3 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:26 CommunicationWithPLC ProductionDataLog() Wagon4 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:26 CommunicationWithPLCNew DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:26 CommunicationWithPLC ProductionDataLog() Wagon6 Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:26 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:37 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 11:19:37 IOTConnection()                                     
+>> 2024-01-29 11:19:37 ConnectDatabaseServer() error  The type initializer for 'IndiSCADAGlobalLibrary.SQLHelper' threw an exception. 
+>> 2024-01-29 11:19:37 HomeViewModel HomeViewModel() GetWagonStatus The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:37 HomeViewModel HomeViewModel() Check Shift Setting Data The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:39 CommunicationWithPLC DoWork() Started False                
+>> 2024-01-29 11:19:39 CommunicationWithPLC DoWork() getConnectionStatus readed True                      
+>> 2024-01-29 11:19:39 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:39 CommunicationWithPLC ProductionDataLog() Wagon2 Index was outside the bounds of the array. 
+>> 2024-01-29 11:19:39 CommunicationWithPLC ProductionDataLog() Wagon3 Index was outside the bounds of the array. 
+>> 2024-01-29 11:19:39 CommunicationWithPLC ProductionDataLog() Wagon4 Index was outside the bounds of the array. 
+>> 2024-01-29 11:19:39 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:39 CommunicationWithPLC ProductionDataLog() Wagon6 Index was outside the bounds of the array. 
+>> 2024-01-29 11:19:39 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:39 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:40 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:41 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:42 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:43 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:46 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:47 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:48 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:49 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:49 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:49 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:50 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:50 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:50 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:50 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:50 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:51 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:52 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:53 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:54 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:55 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:57 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:58 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:19:59 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:00 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:01 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:02 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:03 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:04 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:05 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:06 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:07 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:08 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:09 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:10 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:11 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:12 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:13 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork() ChemicalConsumptionSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork() GetSetCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork() GetAlarmSummary() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork() GetActualCycleTime() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork() GetAlarmTotalCount() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork() GetPlantStatus() ,GetWagonStatus() The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:14 HomeViewModel DoWork()         The type initializer for 'IndiSCADABusinessLogic.HomeBusinessLogic' threw an exception. 
+>> 2024-01-29 11:20:27 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 11:20:27 IOTConnection()                                     
+>> 2024-01-29 11:23:18 HomeViewModel HomeViewModel() StartTrendDataLog() Object reference not set to an instance of an object. 
+>> 2024-01-29 11:23:18 IOTConnection()                                     
+>> 2024-01-29 11:23:42 OpenConnection() connection state  Open                 
